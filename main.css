@@ -1,0 +1,10 @@
+body {
+  font-family: "HK Grotesk", sans-serif;
+  color: #222;
+  background-color: #fff;
+  font-size: 14px;
+  line-height: 1.7;
+  display: flex;
+  align-items: center;
+  background-color: black;
+}
