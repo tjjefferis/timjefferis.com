@@ -103,3 +103,218 @@ p:last-child {
   border: 15px solid #111;
 }
 
+/* LINK 1 */
+.link-1 {
+  position: relative;
+  text-decoration: none;
+  display: inline-block;
+  color: inherit;
+  padding: 0 1px;
+  transition: color ease 0.3s;
+}
+.link-1:after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 6%;
+  min-height: 2px;
+  left: 0;
+  bottom: 0;
+  background-color: #222;
+  transition: all ease 0.3s;
+}
+.link-1:hover {
+  color: #fff;
+}
+.link-1:hover:after {
+  height: 100%;
+}
+/* light links */
+.link-1.light:after {
+  background: #fff;
+}
+.link-1.light:hover {
+  color: #111;
+}
+/* blue links */
+.link-1.blue:after {
+  background: #0100ff;
+}
+/* green links */
+.link-1.green:after {
+  background: #00b388;
+}
+/* red links */
+.link-1.red:after {
+  background: #ff322e;
+}
+/* yellow links */
+.link-1.yellow:after {
+  background: #ffcc2f;
+}
+/* pink links */
+.link-1.pink:after {
+  background: #f94877;
+}
+/* purple links */
+.link-1.purple:after {
+  background: #554488;
+}
+/* tango links */
+.link-1.tango:after {
+  background: #e1523d;
+}
+/* aqua links */
+.link-1.aqua:after {
+  background: #0099ff;
+}
+/* navy links */
+.link-1.navy:after {
+  background: #414f5a;
+}
+/* leather links */
+.link-1.leather:after {
+  background: #ab9878;
+}
+/* azure links */
+.link-1.azure:after {
+  background: #02acab;
+}
+/* peach links */
+.link-1.peach:after {
+  background: #fea680;
+}
+/* hot-pink links */
+.link-1.hot-pink:after {
+  background: #fe65b7;
+}
+/* coral links */
+.link-1.coral:after {
+  background: #f63341;
+}
+/* grey links */
+.link-1.grey:after {
+  background: #aab8c1;
+}
+
+/* LINK 2 */
+.link-2 {
+  position: relative;
+  text-decoration: none;
+  display: inline-block;
+  color: inherit;
+  padding: 0 1px;
+  transition: color ease 0.3s;
+}
+.link-2:before,
+.link-2:after {
+  content: "";
+  position: absolute;
+  background-color: #222;
+  z-index: -1;
+  height: 2px;
+}
+.link-2:before {
+  width: 0%;
+  left: 0;
+  bottom: 0;
+  transition: width ease 0.4s;
+}
+.link-2:after {
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  transition: all ease 0.6s;
+}
+.link-2:hover:before {
+  width: 100%;
+}
+.link-2:hover:after {
+  left: 100%;
+  width: 0%;
+  transition: all ease 0.2s;
+}
+/* light links */
+.link-2.light:before,
+.link-2.light:after {
+  background: #fff;
+  color: #111;
+}
+/* blue links */
+.link-2.blue:before,
+.link-2.blue:after {
+  background: #0100ff;
+}
+/* green links */
+.link-2.green:before,
+.link-2.green:after {
+  background: #00b388;
+}
+/* red links */
+.link-2.red:before,
+.link-2.red:after {
+  background: #ff322e;
+}
+/* yellow links */
+.link-2.yellow:before,
+.link-2.yellow:after {
+  background: #ffcc2f;
+}
+/* pink links */
+.link-2.pink:before,
+.link-2.pink:after {
+  background: #f94877;
+}
+/* purple links */
+.link-2.purple:before,
+.link-2.purple:after {
+  background: #554488;
+}
+/* tango links */
+.link-2.tango:before,
+.link-2.tango:after {
+  background: #e1523d;
+}
+/* aqua links */
+.link-2.aqua:before,
+.link-2.aqua:after {
+  background: #0099ff;
+}
+/* navy links */
+.link-2.navy:before,
+.link-2.navy:after {
+  background: #414f5a;
+}
+/* leather links */
+.link-2.leather:before,
+.link-2.leather:after {
+  background: #ab9878;
+}
+/* azure links */
+.link-2.azure:before,
+.link-2.azure:after {
+  background: #02acab;
+}
+/* peach links */
+.link-2.peach:before,
+.link-2.peach:after {
+  background: #fea680;
+}
+/* hot-pink links */
+.link-2.hot-pink:before,
+.link-2.hot-pink:after {
+  background: #fe65b7;
+}
+/* coral links */
+.link-2.coral:before,
+.link-2.coral:after {
+  background: #f63341;
+}
+/* grey links */
+.link-2.grey:before,
+.link-2.grey:after {
+  background: #aab8c1;
+}
+
+
