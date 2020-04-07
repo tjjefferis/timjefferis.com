@@ -53,6 +53,11 @@ h4 {
   letter-spacing: 5px;
   color: #FFFFFF;
 }
+footer {
+  font-size: 6px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
 p:last-child {
   margin-bottom: 0;
   color: #FFFFFF;
