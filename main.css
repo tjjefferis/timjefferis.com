@@ -59,6 +59,8 @@ h5 {
   text-transform: uppercase;
   letter-spacing: 5px;
   color: #FFFFFF;
+  text-align:center;
+  
 }
 p:last-child {
   margin-bottom: 0;
