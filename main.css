@@ -14,7 +14,8 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+footer {
   font-family: "HK Grotesk", sans-serif;
   font-weight: 700;
   font-style: normal;
