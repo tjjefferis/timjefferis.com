@@ -4,10 +4,75 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Grasping the nettle - authentic, purposeful conversations</title>
-  <!-- Points directly to your root main.css -->
-  <link rel="stylesheet" href="/blog.css?v=1.1">
-  <!-- FontAwesome for social icons -->
+  
+  <!-- Link blog-specific styles -->
+  <link rel="stylesheet" href="/blog.css?v=1.5">
+  <!-- FontAwesome for crisp social icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+  <style type="text/css">
+    /* Global box-sizing reset to keep layouts within boundaries */
+    *, *:before, *:after {
+      box-sizing: border-box !important;
+    }
+
+    body {
+      overflow-x: hidden !important; /* Prevents any accidental horizontal scrollbars */
+      margin: 0;
+      padding: 0;
+    }
+
+    /* Force the main container to sit perfectly centered with side margins */
+    .container {
+      max-width: 1140px !important; /* standard editorial max-width */
+      width: 90% !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+      padding: 40px 0 !important;
+    }
+
+    /* Grid layout control */
+    @media (min-width: 850px) {
+      .blog-layout {
+        display: grid !important;
+        grid-template-columns: minmax(0, 1fr) 300px !important; /* minmax(0, 1fr) prevents content from expanding this column */
+        gap: 40px !important; 
+        width: 100% !important;
+      }
+      .sidebar-sticky {
+        position: -webkit-sticky !important;
+        position: sticky !important;
+        top: 40px !important;
+      }
+    }
+
+    /* Ensure no text or images inside the articles blow out the column widths */
+    .posts-list, .post-card, .post-entry, article {
+      max-width: 100% !important;
+      word-wrap: break-word !important;
+      overflow-wrap: break-word !important;
+    }
+
+    img {
+      max-width: 100% !important;
+      height: auto !important;
+    }
+    
+    /* Sidebar text wrap protection */
+    .sidebar-card h3 {
+      font-family: "Georgia", Times, serif !important;
+      color: #00331D !important;
+      font-size: 1.5rem !important;
+      margin: 0 0 15px 0 !important;
+      white-space: normal !important; /* Explicitly allow name to wrap onto two lines if needed */
+    }
+    
+    .sidebar-card p.bio {
+      font-size: 0.95rem !important;
+      line-height: 1.6 !important;
+      text-align: left !important;
+    }
+  </style>
 </head>
 <body>
   <div class="container" style="max-width: 800px; margin: 0 auto; padding: 40px 20px;">

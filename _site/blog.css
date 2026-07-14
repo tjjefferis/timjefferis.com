@@ -49,7 +49,7 @@ body {
 
 @media (min-width: 850px) {
     .blog-layout {
-        grid-template-columns: 2.2fr 1fr; /* Main Content / Sidebar */
+        grid-template-columns: minmax(0, 1fr) 300px; /* Bulletproof fixed-width sidebar */
     }
 }
 
