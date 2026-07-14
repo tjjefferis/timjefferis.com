@@ -4,4 +4,102 @@ title: "Useful Google URLs"
 date: 2025-03-21
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDvQUV-s7kFsuEMke38qHYoA0iVGdTbYdN94G85OXXd2VkrhUh-VWs21vJtUMNJ32vh63_2-5IY5WIqb3m5XqDUGoVEssSN1y1XUh4ESiBrJLKx__b1js3ef_gg2Xo4XYgJOGECAcSKc-AfgXG8c6vX5XU-O5H69QubKbYCqDeVIgvWFklH-fWx8qxp48/s1024/google%20excitment.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1024" data-original-width="1024" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDvQUV-s7kFsuEMke38qHYoA0iVGdTbYdN94G85OXXd2VkrhUh-VWs21vJtUMNJ32vh63_2-5IY5WIqb3m5XqDUGoVEssSN1y1XUh4ESiBrJLKx__b1js3ef_gg2Xo4XYgJOGECAcSKc-AfgXG8c6vX5XU-O5H69QubKbYCqDeVIgvWFklH-fWx8qxp48/s320/google%20excitment.png" width="320" /></a></div><br /><div class="separator" style="clear: both; text-align: justify;"><span style="text-align: left;">Over the past year or so, I've been luxuriating in the fact that once again I'm back working in the Google ecosystem. One thing I've been introduced to by my boss, who's somewhat of a Google nerd(!), is the ability to mess around with the suffixes at the end of the URLs.</span></div><p>Here are some examples:</p><p><b>Forced copies</b></p><p>The whole point of Google is generally to adopt the <a href="https://timjefferis.blogspot.com/2017/09/the-canonical-principle.html" target="_blank">canonical principle</a>, but there are use cases for forcing a recipient of a document you're sending to make a copy of it. If you want to do this, here's how.</p><p>Make sure you share the document and are using the share URL:</p><p></p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEjqneoasKYSbDuK3gBAgfrMdXk3O-uynWFsp56avdR0YjydpaNExyRcncA_rBJV_QivcIP11-mI2NSMXsWFT5HAcTgZK_W6fBNITlX4njaMudNdZLbs8aAhA_H0EFqqIP_lWt9lpBCv1SmTVK1eGjK0nYS2F1aVhH_O0aKQTWSjXdehhxuG6ALKoLfNj7I" style="margin-left: 1em; margin-right: 1em;"><img alt="" data-original-height="92" data-original-width="1572" height="36" src="https://blogger.googleusercontent.com/img/a/AVvXsEjqneoasKYSbDuK3gBAgfrMdXk3O-uynWFsp56avdR0YjydpaNExyRcncA_rBJV_QivcIP11-mI2NSMXsWFT5HAcTgZK_W6fBNITlX4njaMudNdZLbs8aAhA_H0EFqqIP_lWt9lpBCv1SmTVK1eGjK0nYS2F1aVhH_O0aKQTWSjXdehhxuG6ALKoLfNj7I=w627-h36" width="627" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Change everything after <i>edit...</i> in the URL to <i>copy </i>as below:</div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: center;"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEiuC-EnYpB_YGUPjjGeqhGj13oVftjqI-mVQ1dv92O5V_-aX9k5kTFgdrlAI0z1BHv-mxDukh8Ft_txNSPxzamB30Te05gxsS5B-3NRrbsRsXFbWvpmEXkE0gWTfIuLWsG40bnUPhhD0BHQElRNcGUDc6BMM_CXLGycmrxJuwqpoLXtL6lqAfjP-AaxYXo" style="margin-left: 1em; margin-right: 1em;"><img alt="" data-original-height="92" data-original-width="1572" height="36" src="https://blogger.googleusercontent.com/img/a/AVvXsEiuC-EnYpB_YGUPjjGeqhGj13oVftjqI-mVQ1dv92O5V_-aX9k5kTFgdrlAI0z1BHv-mxDukh8Ft_txNSPxzamB30Te05gxsS5B-3NRrbsRsXFbWvpmEXkE0gWTfIuLWsG40bnUPhhD0BHQElRNcGUDc6BMM_CXLGycmrxJuwqpoLXtL6lqAfjP-AaxYXo=w619-h36" width="619" /></a></div><br /><div style="text-align: left;">Now, when you share the amended URL, the recipient will see something like this, forcing them to make a copy:</div><div style="text-align: left;"><br /></div><div style="text-align: left;"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEiJQIRbDXVtyvg_q9oGp9ra8MpaVeCzFTOLdCLDDi86gPN6PaNcWUQS4tNV00OsQFRsKmMXGN9pjjvze6anbew0iVNHFHMrKZBUHlIBSL9ABsT-xm_Ii0ZTFIBCz-hp4H_ociypEG1a6N3_a0fBeaw5Rr2HoRnmT1Ny3L57SrPB3KNp4by6_0Sq_TNLNJU" style="margin-left: 1em; margin-right: 1em;"><img alt="" data-original-height="572" data-original-width="1410" height="185" src="https://blogger.googleusercontent.com/img/a/AVvXsEiJQIRbDXVtyvg_q9oGp9ra8MpaVeCzFTOLdCLDDi86gPN6PaNcWUQS4tNV00OsQFRsKmMXGN9pjjvze6anbew0iVNHFHMrKZBUHlIBSL9ABsT-xm_Ii0ZTFIBCz-hp4H_ociypEG1a6N3_a0fBeaw5Rr2HoRnmT1Ny3L57SrPB3KNp4by6_0Sq_TNLNJU=w456-h185" width="456" /></a></div><br /><b>Forced English</b></div></div><p></p><p>This is particularly useful for Google Forms, which browsers have a habit of converting into the recipient's geo-located language unless you actively prevent this. Here's how:</p><p>Get your sharing permissions correct and view the live form in an incognito window:</p><p></p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhdhdz7bbn5WC3JlYt2N_yLlMLaUy-GMwWfUWy9cujm-xJkUs8GPcRlUuRQJmKs2KK5R1CNO18UY26IYszBjK3HdRICSupBDQw2aQTQs7rxO4TrqWmylGatxOGSOzjhaFbdvxwC4wGKnQ7u0caaByZYlDWpSrcsfzQOH8uOZct5GjE-ezWtbR-I1U-cZ-o" style="margin-left: 1em; margin-right: 1em;"><img alt="" data-original-height="86" data-original-width="1606" height="35" src="https://blogger.googleusercontent.com/img/a/AVvXsEhdhdz7bbn5WC3JlYt2N_yLlMLaUy-GMwWfUWy9cujm-xJkUs8GPcRlUuRQJmKs2KK5R1CNO18UY26IYszBjK3HdRICSupBDQw2aQTQs7rxO4TrqWmylGatxOGSOzjhaFbdvxwC4wGKnQ7u0caaByZYlDWpSrcsfzQOH8uOZct5GjE-ezWtbR-I1U-cZ-o=w666-h35" width="666" /></a></div><p>After <i>viewform</i> append <i>?HL=EN </i>where HL stands for Host Language and EN is the abbreviation for English, like so:</p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEjuh-m7o0kFjl4YjpogU5h453R-Qi54DFrt24a8eNlpu5UuRqYEAHSHq2Kl-euukeh9sKlbE-S363z2F0m7ibZ2A9iJgUq9LfT28yDh37Y2ZpW5FlwGoL8rNR_JZoRL3Wo79ynukpCeSuiEldap-I83oK7CKXN-n5-J9Nxu4XP_OVAIsQPZUmnYkbBjAAc" style="margin-left: 1em; margin-right: 1em;"><img alt="" data-original-height="86" data-original-width="1624" height="32" src="https://blogger.googleusercontent.com/img/a/AVvXsEjuh-m7o0kFjl4YjpogU5h453R-Qi54DFrt24a8eNlpu5UuRqYEAHSHq2Kl-euukeh9sKlbE-S363z2F0m7ibZ2A9iJgUq9LfT28yDh37Y2ZpW5FlwGoL8rNR_JZoRL3Wo79ynukpCeSuiEldap-I83oK7CKXN-n5-J9Nxu4XP_OVAIsQPZUmnYkbBjAAc=w620-h32" width="620" /></a></div><br />Share this link with your intended recipients, and they will see the form in English regardless of their location or browser settings.<p></p><p><b>Preview only</b></p><p>This is useful if you're sending a document or slideshow and you want to conceal that it has anything to do with Google. All recipients will be able to see is the content. Here's how:</p><p>Get the sharing permissions of your document/slideshow correct first:</p><p></p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEjp6uUvbAdP-6IUJA5A-U9ceC2olVbYUhCQOwIIpq5EVow_LJpDLJ-sTZ2ObHkP0jL7fgRUAV2mnYfdlOdefHcEr_fNuvfDYhQ-mHHJGLZ3vKKk-GlcC3W6Sk9diT_czgK75h8DCpm9xiNJqtOk0VDvrVwcdduCF3yFpvMlF7fAVVwyHbkZcm8Kz8rpCaM" style="margin-left: 1em; margin-right: 1em;"><img alt="" data-original-height="86" data-original-width="1624" height="32" src="https://blogger.googleusercontent.com/img/a/AVvXsEjp6uUvbAdP-6IUJA5A-U9ceC2olVbYUhCQOwIIpq5EVow_LJpDLJ-sTZ2ObHkP0jL7fgRUAV2mnYfdlOdefHcEr_fNuvfDYhQ-mHHJGLZ3vKKk-GlcC3W6Sk9diT_czgK75h8DCpm9xiNJqtOk0VDvrVwcdduCF3yFpvMlF7fAVVwyHbkZcm8Kz8rpCaM=w612-h32" width="612" /></a></div><br />Get rid of everything after the last forward slash and replace it with the word preview. Google will do the rest and the URL will look like this:<p></p><p></p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEiWNbCJ45Il0Y5thfJ9lgEF9_Rej3SFc3vf6L7cqllTuokxsB4ruWEtTMDjsCQLZaUu03PCowU-BDsdbL4bUPwRP4Mb76OXdtR890Ja6bNQZ3iGkVVD_FoAsHazy2zvDnV1CyIppJdOxkYp3LghUcORfxuLCvtG_KRhVURHKNzAL8M4KjGWcX2mFdLLXpA" style="margin-left: 1em; margin-right: 1em;"><img alt="" data-original-height="86" data-original-width="1438" height="36" src="https://blogger.googleusercontent.com/img/a/AVvXsEiWNbCJ45Il0Y5thfJ9lgEF9_Rej3SFc3vf6L7cqllTuokxsB4ruWEtTMDjsCQLZaUu03PCowU-BDsdbL4bUPwRP4Mb76OXdtR890Ja6bNQZ3iGkVVD_FoAsHazy2zvDnV1CyIppJdOxkYp3LghUcORfxuLCvtG_KRhVURHKNzAL8M4KjGWcX2mFdLLXpA=w615-h36" width="615" /></a></div><p></p><p>Share this link, and your recipients will see the document or slideshow in preview mode only.</p><p><b>Link to specific slide in Google Slides</b></p><p>Occasionally, you want eyeballs on a specific slide rather than the whole deck. You can do this as shown here:</p><p>Get the sharing permissions of the slideshow correct first and call up the URL:</p><p></p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEi75KIJ9MsDdhVfbeVKI7ux0ZOUlKzcl8LT6W0FMCFhgas06UNTs3n56-uXLgXG5IPyfEovF2hkM5t0CEUsKLJkfGLzbM4vk50S2GIenKTKEIcF6Bh3urff9hKrASltX8jWXqu_9zKq-1OnNbRrVl_B6X2GO2d_31dQAOW_I8wUTYw5mSW-a0z_K04k4eA" style="margin-left: 1em; margin-right: 1em;"><img alt="" data-original-height="86" data-original-width="1698" height="31" src="https://blogger.googleusercontent.com/img/a/AVvXsEi75KIJ9MsDdhVfbeVKI7ux0ZOUlKzcl8LT6W0FMCFhgas06UNTs3n56-uXLgXG5IPyfEovF2hkM5t0CEUsKLJkfGLzbM4vk50S2GIenKTKEIcF6Bh3urff9hKrASltX8jWXqu_9zKq-1OnNbRrVl_B6X2GO2d_31dQAOW_I8wUTYw5mSW-a0z_K04k4eA=w634-h31" width="634" /></a></div><div class="separator" style="clear: both; text-align: center;"><br /></div>Add the following text after the last forward slash:&nbsp;<i>preview?rm=minimal&amp;slide=</i><p></p><p></p><div class="separator" style="clear: both; font-style: italic; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEj8sy9X-iwvhXue4KMUnR8CpGbsdsj38PCk79vCaWxiplkpOvYGZdCAZUOkpEgTBNHAVk594jSrPwlEsje42HeYpWdsMUWV9jfeDlWtb222VwFbD-Won4K-2A8LPI1872f2Z1ZM1ckIrAS7f8cD2vEIDxlp0rSEe4MTW95v_q_zH0f7MGKvksPM96G99ew" style="margin-left: 1em; margin-right: 1em;"><img alt="" data-original-height="86" data-original-width="1776" height="39" src="https://blogger.googleusercontent.com/img/a/AVvXsEj8sy9X-iwvhXue4KMUnR8CpGbsdsj38PCk79vCaWxiplkpOvYGZdCAZUOkpEgTBNHAVk594jSrPwlEsje42HeYpWdsMUWV9jfeDlWtb222VwFbD-Won4K-2A8LPI1872f2Z1ZM1ckIrAS7f8cD2vEIDxlp0rSEe4MTW95v_q_zH0f7MGKvksPM96G99ew=w623-h39" width="623" /></a></div><div class="separator" style="clear: both; font-style: italic; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: left;">Add the slide number you want to link to after the equals sign (2 in the example above) and share that URL with your intended recipient.</div><p></p><span><!--more--></span><p>If you have any other useful examples of this sort of thing, let me know in the comments below :-)</p><p><br /></p>
+Over the past year or so, I’ve been luxuriating in the fact that once again I’m back working in the Google ecosystem. One thing I’ve been introduced to by my boss, who’s somewhat of a Google nerd(!), is the ability to mess around with the suffixes at the end of the URLs.
+
+Here are some examples:
+
+### Forced copies
+
+The whole point of Google is generally to adopt the canonical principle, but there are use cases for forcing a recipient of a document you’re sending to make a copy of it. If you want to do this, here’s how.
+
+Make sure you share the document and are using the share URL:
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://blogger.googleusercontent.com/img/a/AVvXsEjqneoasKYSbDuK3gBAgfrMdXk3O-uynWFsp56avdR0YjydpaNExyRcncA_rBJV_QivcIP11-mI2NSMXsWFT5HAcTgZK_W6fBNITlX4njaMudNdZLbs8aAhA_H0EFqqIP_lWt9lpBCv1SmTVK1eGjK0nYS2F1aVhH_O0aKQTWSjXdehhxuG6ALKoLfNj7I">
+    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjqneoasKYSbDuK3gBAgfrMdXk3O-uynWFsp56avdR0YjydpaNExyRcncA_rBJV_QivcIP11-mI2NSMXsWFT5HAcTgZK_W6fBNITlX4njaMudNdZLbs8aAhA_H0EFqqIP_lWt9lpBCv1SmTVK1eGjK0nYS2F1aVhH_O0aKQTWSjXdehhxuG6ALKoLfNj7I=w627-h36" style="max-width: 100%;" />
+  </a>
+</div>
+
+Change everything after *edit…* in the URL to *copy* as below:
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://blogger.googleusercontent.com/img/a/AVvXsEiuC-EnYpB_YGUPjjGeqhGj13oVftjqI-mVQ1dv92O5V_-aX9k5kTFgdrlAI0z1BHv-mxDukh8Ft_txNSPxzamB30Te05gxsS5B-3NRrbsRsXFbWvpmEXkE0gWTfIuLWsG40bnUPhhD0BHQElRNcGUDc6BMM_CXLGycmrxJuwqpoLXtL6lqAfjP-AaxYXo">
+    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiuC-EnYpB_YGUPjjGeqhGj13oVftjqI-mVQ1dv92O5V_-aX9k5kTFgdrlAI0z1BHv-mxDukh8Ft_txNSPxzamB30Te05gxsS5B-3NRrbsRsXFbWvpmEXkE0gWTfIuLWsG40bnUPhhD0BHQElRNcGUDc6BMM_CXLGycmrxJuwqpoLXtL6lqAfjP-AaxYXo=w619-h36" style="max-width: 100%;" />
+  </a>
+</div>
+
+Now, when you share the amended URL, the recipient will see something like this, forcing them to make a copy:
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://blogger.googleusercontent.com/img/a/AVvXsEiJQIRbDXVtyvg_q9oGp9ra8MpaVeCzFTOLdCLDDi86gPN6PaNcWUQS4tNV00OsQFRsKmMXGN9pjjvze6anbew0iVNHFHMrKZBUHlIBSL9ABsT-xm_Ii0ZTFIBCz-hp4H_ociypEG1a6N3_a0fBeaw5Rr2HoRnmT1Ny3L57SrPB3KNp4by6_0Sq_TNLNJU">
+    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiJQIRbDXVtyvg_q9oGp9ra8MpaVeCzFTOLdCLDDi86gPN6PaNcWUQS4tNV00OsQFRsKmMXGN9pjjvze6anbew0iVNHFHMrKZBUHlIBSL9ABsT-xm_Ii0ZTFIBCz-hp4H_ociypEG1a6N3_a0fBeaw5Rr2HoRnmT1Ny3L57SrPB3KNp4by6_0Sq_TNLNJU=w456-h185" style="max-width: 100%;" />
+  </a>
+</div>
+
+### Forced English
+
+This is particularly useful for Google Forms, which browsers have a habit of converting into the recipient’s geo-located language unless you actively prevent this. Here’s how:
+
+Get your sharing permissions correct and view the live form in an incognito window:
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://blogger.googleusercontent.com/img/a/AVvXsEhdhdz7bbn5WC3JlYt2N_yLlMLaUy-GMwWfUWy9cujm-xJkUs8GPcRlUuRQJmKs2KK5R1CNO18UY26IYszBjK3HdRICSupBDQw2aQTQs7rxO4TrqWmylGatxOGSOzjhaFbdvxwC4wGKnQ7u0caaByZYlDWpSrcsfzQOH8uOZct5GjE-ezWtbR-I1U-cZ-o">
+    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhdhdz7bbn5WC3JlYt2N_yLlMLaUy-GMwWfUWy9cujm-xJkUs8GPcRlUuRQJmKs2KK5R1CNO18UY26IYszBjK3HdRICSupBDQw2aQTQs7rxO4TrqWmylGatxOGSOzjhaFbdvxwC4wGKnQ7u0caaByZYlDWpSrcsfzQOH8uOZct5GjE-ezWtbR-I1U-cZ-o=w666-h35" style="max-width: 100%;" />
+  </a>
+</div>
+
+After *viewform* append `?HL=EN` where HL stands for Host Language and EN is the abbreviation for English, like so:
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://blogger.googleusercontent.com/img/a/AVvXsEjuh-m7o0kFjl4YjpogU5h453R-Qi54DFrt24a8eNlpu5UuRqYEAHSHq2Kl-euukeh9sKlbE-S363z2F0m7ibZ2A9iJgUq9LfT28yDh37Y2ZpW5FlwGoL8rNR_JZoRL3Wo79ynukpCeSuiEldap-I83oK7CKXN-n5-J9Nxu4XP_OVAIsQPZUmnYkbBjAAc">
+    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjuh-m7o0kFjl4YjpogU5h453R-Qi54DFrt24a8eNlpu5UuRqYEAHSHq2Kl-euukeh9sKlbE-S363z2F0m7ibZ2A9iJgUq9LfT28yDh37Y2ZpW5FlwGoL8rNR_JZoRL3Wo79ynukpCeSuiEldap-I83oK7CKXN-n5-J9Nxu4XP_OVAIsQPZUmnYkbBjAAc=w620-h32" style="max-width: 100%;" />
+  </a>
+</div>
+
+Share this link with your intended recipients, and they will see the form in English regardless of their location or browser settings.
+
+### Preview only
+
+This is useful if you’re sending a document or slideshow and you want to conceal that it has anything to do with Google. All recipients will be able to see is the content. Here’s how:
+
+Get the sharing permissions of your document/slideshow correct first:
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://blogger.googleusercontent.com/img/a/AVvXsEjp6uUvbAdP-6IUJA5A-U9ceC2olVbYUhCQOwIIpq5EVow_LJpDLJ-sTZ2ObHkP0jL7fgRUAV2mnYfdlOdefHcEr_fNuvfDYhQ-mHHJGLZ3vKKk-GlcC3W6Sk9diT_czgK75h8DCpm9xiNJqtOk0VDvrVwcdduCF3yFpvMlF7fAVVwyHbkZcm8Kz8rpCaM">
+    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjp6uUvbAdP-6IUJA5A-U9ceC2olVbYUhCQOwIIpq5EVow_LJpDLJ-sTZ2ObHkP0jL7fgRUAV2mnYfdlOdefHcEr_fNuvfDYhQ-mHHJGLZ3vKKk-GlcC3W6Sk9diT_czgK75h8DCpm9xiNJqtOk0VDvrVwcdduCF3yFpvMlF7fAVVwyHbkZcm8Kz8rpCaM=w612-h32" style="max-width: 100%;" />
+  </a>
+</div>
+
+Get rid of everything after the last forward slash and replace it with the word **preview**. Google will do the rest and the URL will look like this:
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://blogger.googleusercontent.com/img/a/AVvXsEiWNbCJ45Il0Y5thfJ9lgEF9_Rej3SFc3vf6L7cqllTuokxsB4ruWEtTMDjsCQLZaUu03PCowU-BDsdbL4bUPwRP4Mb76OXdtR890Ja6bNQZ3iGkVVD_FoAsHazy2zvDnV1CyIppJdOxkYp3LghUcORfxuLCvtG_KRhVURHKNzAL8M4KjGWcX2mFdLLXpA">
+    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiWNbCJ45Il0Y5thfJ9lgEF9_Rej3SFc3vf6L7cqllTuokxsB4ruWEtTMDjsCQLZaUu03PCowU-BDsdbL4bUPwRP4Mb76OXdtR890Ja6bNQZ3iGkVVD_FoAsHazy2zvDnV1CyIppJdOxkYp3LghUcORfxuLCvtG_KRhVURHKNzAL8M4KjGWcX2mFdLLXpA=w615-h36" style="max-width: 100%;" />
+  </a>
+</div>
+
+Share this link, and your recipients will see the document or slideshow in preview mode only.
+
+### Link to specific slide in Google Slides
+
+Occasionally, you want eyeballs on a specific slide rather than the whole deck. You can do this as shown here:
+
+Get the sharing permissions of the slideshow correct first and call up the URL:
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://blogger.googleusercontent.com/img/a/AVvXsEi75KIJ9MsDdhVfbeVKI7ux0ZOUlKzcl8LT6W0FMCFhgas06UNTs3n56-uXLgXG5IPyfEovF2hkM5t0CEUsKLJkfGLzbM4vk50S2GIenKTKEIcF6Bh3urff9hKrASltX8jWXqu_9zKq-1OnNbRrVl_B6X2GO2d_31dQAOW_I8wUTYw5mSW-a0z_K04k4eA">
+    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi75KIJ9MsDdhVfbeVKI7ux0ZOUlKzcl8LT6W0FMCFhgas06UNTs3n56-uXLgXG5IPyfEovF2hkM5t0CEUsKLJkfGLzbM4vk50S2GIenKTKEIcF6Bh3urff9hKrASltX8jWXqu_9zKq-1OnNbRrVl_B6X2GO2d_31dQAOW_I8wUTYw5mSW-a0z_K04k4eA=w634-h31" style="max-width: 100%;" />
+  </a>
+</div>
+
+Add the following text after the last forward slash: `preview?rm=minimal&slide=`
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://blogger.googleusercontent.com/img/a/AVvXsEj8sy9X-iwvhXue4KMUnR8CpGbsdsj38PCk79vCaWxiplkpOvYGZdCAZUOkpEgTBNHAVk594jSrPwlEsje42HeYpWdsMUWV9jfeDlWtb222VwFbD-Won4K-2A8LPI1872f2Z1ZM1ckIrAS7f8cD2vEIDxlp0rSEe4MTW95v_q_zH0f7MGKvksPM96G99ew">
+    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj8sy9X-iwvhXue4KMUnR8CpGbsdsj38PCk79vCaWxiplkpOvYGZdCAZUOkpEgTBNHAVk594jSrPwlEsje42HeYpWdsMUWV9jfeDlWtb222VwFbD-Won4K-2A8LPI1872f2Z1ZM1ckIrAS7f8cD2vEIDxlp0rSEe4MTW95v_q_zH0f7MGKvksPM96G99ew=w623-h39" style="max-width: 100%;" />
+  </a>
+</div>
+
+Add the slide number you want to link to after the equals sign (2 in the example above) and share that URL with your intended recipient.
+
+If you have any other useful examples of this sort of thing, let me know in the comments below :-)
