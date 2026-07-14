@@ -1,0 +1,13 @@
+# Site Settings
+title: Peregrinations of a Pedagogue
+email: tim@timjefferis.com
+description: Blog about teaching and education
+
+# URL Structure (Matches your old Blogspot posts exactly so comments load)
+permalink: /:year/:month/:title.html
+
+# Build Settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
