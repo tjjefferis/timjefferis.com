@@ -4,8 +4,6 @@ title: "Staff Appraisal: Hints and Tips"
 date: 2013-12-25
 ---
 
-
-
 <div class="separator">
 <a href="http://www.evh.org.uk/__data/assets/image/0009/3033/varieties/570w.jpg" imageanchor="1"><img border="0" data-original-height="320" data-original-width="570" height="179" src="https://www.evh.org.uk/__data/assets/image/0009/3033/varieties/570w.jpg" width="320"/></a></div>
 <br/>

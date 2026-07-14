@@ -31,11 +31,11 @@ It seemed like a natural next step for us then, following a visit from <a href="
 Don't get me wrong, I love the simplicity of Chromebooks and can see that they have real potential in the classroom. We certainly won't be banning their use in school. It's just that as an organization we have decided it would be unwise to dive headlong into their adoption at the expense of all else. It pains me to say it, but I have come to believe this:</div>
 <div>
 &gt; "“when it gets down to brass tacks computing nothing beats a good Windows laptop.” https://t.co/YvB0TZ8O5Z"
-&gt; 
+&gt;
 &gt; — Tim Jefferis (@tjjteacher) November 12, 2015
 
 </div>
 </div>
 &gt; ""
-&gt; 
+&gt;
 &gt; — Quoted Tweet

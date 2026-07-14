@@ -95,7 +95,7 @@ A lot has changed since I left in 2002. The website is clean looking and minimal
 </div>
 <div>
 <div>
- Academic excellent is important, but more so are the values that go with it. At Warwick School we aim to develop responsible, resilient and compassionate young men of character, equipped to succeed in a changing world.</div>
+Academic excellent is important, but more so are the values that go with it. At Warwick School we aim to develop responsible, resilient and compassionate young men of character, equipped to succeed in a changing world.</div>
 </div>
 <div>
 <div>

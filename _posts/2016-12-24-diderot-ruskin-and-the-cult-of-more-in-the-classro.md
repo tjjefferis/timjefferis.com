@@ -28,5 +28,4 @@ So it is in our classrooms. I've seen some teachers blanch in horror when it t
 <div align="left">
 Every increased possession loads us with new weariness.</div>
 
-
 <br/>

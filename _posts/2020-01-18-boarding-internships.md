@@ -23,11 +23,10 @@ in Thailand helps with recruitment, not least in the sense that we can use
 advertisements like this one:</div>
 <div align="center" class="MsoNormal">
 &gt; "Fancy this? Please RT or pass on if you know someone who might... pic.twitter.com/sNYoLpZkMB"
-&gt; 
+&gt;
 &gt; — Tim Jefferis (@tjjteacher) October 2, 2019
 
 
- 
 </div>
 <div class="MsoNormal">
 When they
@@ -73,7 +72,7 @@ At the end
 of the programme, graduates leave us with first-hand experience of residential
 education and travel experiences to die for. On our part, we get a steady
 stream of young, enthusiastic employees from all over the English-speaking
-world. They enrich our community immeasurably. 
+world. They enrich our community immeasurably.
 <o:p></o:p></div>
 
 <div class="MsoNormal">

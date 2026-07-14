@@ -4,8 +4,6 @@ title: "Getting ready for UCAS"
 date: 2014-04-17
 ---
 
-
-
 <div>
 <div class="separator">
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/UCAS_logo.svg/1200px-UCAS_logo.svg.png" imageanchor="1"><img border="0" data-original-height="267" data-original-width="800" height="106" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/UCAS_logo.svg/1200px-UCAS_logo.svg.png" width="320"/></a></div>

@@ -4,7 +4,6 @@ title: "PAINT - how to get your points across in interview"
 date: 2020-03-28
 ---
 
-
 One of my strengths - and also a terrible weakness - is a certain lack of self-censorship (colleagues past and present will no doubt chuckle to themselves!)<br/>
 <br/>
 I respect authenticity in people and have been frustrated in the past by politically-correct-but-boring co-workers, relishing working with <a href="https://timjefferis.blogspot.com/2019/04/earlier-this-month-one-of-superstar.html" target="_blank">those who are the opposite</a>. But making this point at interview, whilst trying to reassure panels of surefootedness, can be tricky. Although it's never got this bad(!) the point is made here:<br/>

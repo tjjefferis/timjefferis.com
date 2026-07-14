@@ -4,7 +4,6 @@ title: "Compartmentalizing elements of school leadership"
 date: 2020-05-18
 ---
 
-
 It's very easy to start feeling lost with the scale and complexity of the job of being a school leader. Especially at times like these, when fires are burning all over the place, it can be hard to step back and see where everything is going.<br/>
 
 <div>
@@ -31,11 +30,4 @@ I'll be using this list to check that what I'm doing on a day-to-day basis is br
 
 <div>
 Thanks, Tom and Jen :-)</div>
-
-
-
-
-
-
-
 

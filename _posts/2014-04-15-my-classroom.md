@@ -12,7 +12,6 @@ Last year I was very lucky. I had a classroom of my own. This was it and I could
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0PK_10aA8BSJGk1xLHNjC2XR9hBs9K0gkjeWG5BX35HFq2s5PqqJ8MtqYmkQqdA8_tmXVlUXTaaiEVkvZhZCUwylVxL_fTRpWBQaVt4KS_5qIpgg3kYHXGM2_cmKob7JpIX7_oDsR_qA/s1600/classroom.PNG" imageanchor="1"><img border="0" data-original-height="773" data-original-width="588" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0PK_10aA8BSJGk1xLHNjC2XR9hBs9K0gkjeWG5BX35HFq2s5PqqJ8MtqYmkQqdA8_tmXVlUXTaaiEVkvZhZCUwylVxL_fTRpWBQaVt4KS_5qIpgg3kYHXGM2_cmKob7JpIX7_oDsR_qA/s320/classroom.PNG" width="243"/></a></div>
 <br/></div>
 
-
 <div>
 This year I am not so fortunate and am moving all over the place for my lessons. I decided that having my own classroom on a 30% timetable was a luxury the school couldn't afford and so fell on my sword. I'm not going to lie moving around is a pain. Nothing is where you want it. If like me all your stuff is online, you have to log on whilst the kids get impatient. It's hard to start slickly. But enough of the whingeing...</div>
 

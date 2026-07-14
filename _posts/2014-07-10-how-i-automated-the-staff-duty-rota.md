@@ -25,194 +25,191 @@ Then by adapting <a href="http://www.bradbox.com/blog/using-google-apps-to-organ
 function sendEmails() {</div>
 
 <div>
-  var ss1 = SpreadsheetApp.getActiveSpreadsheet();</div>
+var ss1 = SpreadsheetApp.getActiveSpreadsheet();</div>
 
 <div>
-  var sh1 = ss1.getSheetByName('Rota')</div>
+var sh1 = ss1.getSheetByName('Rota')</div>
 
 <div>
-  ss1.setActiveSheet(sh1);</div>
+ss1.setActiveSheet(sh1);</div>
 
 <div>
 var sheet = SpreadsheetApp.getActiveSheet();</div>
 
 <div>
-  // Fetch the range (needs changing when the range changes) this script adapted from here: http://www.bradbox.com/blog/using-google-apps-to-organise-a-rota/</div>
+// Fetch the range (needs changing when the range changes) this script adapted from here: http://www.bradbox.com/blog/using-google-apps-to-organise-a-rota/</div>
 
 <div>
-  var dataRange = sheet.getRange('A2:E100')</div>
+var dataRange = sheet.getRange('A2:E100')</div>
 
 <div>
-  // Fetch values for each row in the Range.</div>
+// Fetch values for each row in the Range.</div>
 
 <div>
-  var data = dataRange.getValues();</div>
+var data = dataRange.getValues();</div>
 
 <div>
-  for (i in data)</div>
+for (i in data)</div>
 
 <div>
-  {</div>
+{</div>
 
 <div>
-    var row = data[i];</div>
+var row = data[i];</div>
 
 <div>
-    var today=new Date();</div>
+var today=new Date();</div>
 
 <div>
-    var timecell = new Date(row[0]);</div>
+var timecell = new Date(row[0]);</div>
 
 <div>
-    var timediff = new Date();</div>
+var timediff = new Date();</div>
 
 <div>
-    var one_day=1000*60*60*24;</div>
+var one_day=1000*60*60*24;</div>
 
 <div>
 <div>
-    var daystogo = Math.ceil((timecell.getTime()-today.getTime())/(one_day));</div>
+var daystogo = Math.ceil((timecell.getTime()-today.getTime())/(one_day));</div>
 
 </div>
 <div>
-    if (daystogo==1)</div>
+if (daystogo==1)</div>
 
 <div>
-    {</div>
+{</div>
 
 <div>
-        var subject = 'Duty reminder for ' + row[1] + ' ' + row[0];</div>
+var subject = 'Duty reminder for ' + row[1] + ' ' + row[0];</div>
 
 <div>
-        var emailAddress;</div>
+var emailAddress;</div>
 
 <div>
-        var message;</div>
+var message;</div>
 
 <div>
-        message = 'Automated duty reminder for ' + row[1] + '.' +   </div>
+message = 'Automated duty reminder for ' + row[1] + '.' +   </div>
 
 <div>
-                  '\n\n Hello ' + row[2] +</div>
+'\n\n Hello ' + row[2] +</div>
 
 <div>
-                  '\n\n You are on POWIS duty tomorrow.' +      </div>
+'\n\n You are on POWIS duty tomorrow.' +      </div>
 
 <div>
-                  '\n\n Hello ' + row[3] +</div>
+'\n\n Hello ' + row[3] +</div>
 
 <div>
-                  '\n\n You are on QUARRY duty tomorrow.' +      </div>
+'\n\n You are on QUARRY duty tomorrow.' +      </div>
 
 <div>
-                  '\n\n Remember, you can check the rota at any time by clicking this link:' +</div>
+'\n\n Remember, you can check the rota at any time by clicking this link:' +</div>
 
 <div>
-                  '\n\n http://goo.gl/pckc5I' +</div>
+'\n\n http://goo.gl/pckc5I' +</div>
 
 <div>
-                  '\n\n A full explanation of what duty involves is posted here:' +</div>
+'\n\n A full explanation of what duty involves is posted here:' +</div>
 
 <div>
-                  '\n\n http://goo.gl/xXMYp'</div>
-
-
-<div>
-        // Send an email to the first person</div>
+'\n\n http://goo.gl/xXMYp'</div>
 
 <div>
-        emailAddress=getEmailFromName(row[1]) + ',' +</div>
+// Send an email to the first person</div>
 
 <div>
-                      getEmailFromName(row[2]);</div>
+emailAddress=getEmailFromName(row[1]) + ',' +</div>
 
 <div>
-        MailApp.sendEmail(row[2]+'@oswestryschool.org.uk,' +row[3]+'@oswestryschool.org.uk', subject, message, {bcc:'xx@oswestryschool.org.uk'});</div>
-
-
-<div>
-    }</div>
+getEmailFromName(row[2]);</div>
 
 <div>
-  }</div>
+MailApp.sendEmail(row[2]+'@oswestryschool.org.uk,' +row[3]+'@oswestryschool.org.uk', subject, message, {bcc:'xx@oswestryschool.org.uk'});</div>
 
 <div>
 }</div>
 
+<div>
+}</div>
+
+<div>
+}</div>
 
 <div>
 function getEmailFromName(sKey) {</div>
 
 <div>
-  // to use this function, don’t put anything in the first column (A) or row (1).</div>
+// to use this function, don’t put anything in the first column (A) or row (1).</div>
 
 <div>
-  // Put the name (i.e. the key, or what we’re looking for) in column B.</div>
+// Put the name (i.e. the key, or what we’re looking for) in column B.</div>
 
 <div>
-  // Put what we want to return in column C. </div>
+// Put what we want to return in column C. </div>
 
 <div>
-  var columnToSearch = 1; //column B</div>
+var columnToSearch = 1; //column B</div>
 
 <div>
-  // Set the active sheet to our email lookup</div>
+// Set the active sheet to our email lookup</div>
 
 <div>
-  var ss1 = SpreadsheetApp.getActiveSpreadsheet();</div>
+var ss1 = SpreadsheetApp.getActiveSpreadsheet();</div>
 
 <div>
-  var sh1 = ss1.getSheetByName('EmailContactList')</div>
+var sh1 = ss1.getSheetByName('EmailContactList')</div>
 
 <div>
 <div>
-  ss1.setActiveSheet(sh1);</div>
+ss1.setActiveSheet(sh1);</div>
 
 </div>
 <div>
-  var data = SpreadsheetApp.getActiveSheet().getDataRange().getValues();</div>
+var data = SpreadsheetApp.getActiveSheet().getDataRange().getValues();</div>
 
 <div>
-  var line = -1;</div>
+var line = -1;</div>
 
 <div>
-  for( var i = 0; i &lt; data.length; i++ ) {</div>
+for( var i = 0; i &lt; data.length; i++ ) {</div>
 
 <div>
-    if( data[i][columnToSearch] == sKey ) {</div>
+if( data[i][columnToSearch] == sKey ) {</div>
 
 <div>
-      line = i;</div>
+line = i;</div>
 
 <div>
-      break;</div>
+break;</div>
 
 <div>
-    }</div>
+}</div>
 
 <div>
-  }</div>
+}</div>
 
 <div>
-  if( line != -1 ) {</div>
+if( line != -1 ) {</div>
 
 <div>
-    //do what you want with the data on “line”</div>
+//do what you want with the data on “line”</div>
 
 <div>
-    return data[line][2]; //value on column C of the matched line</div>
+return data[line][2]; //value on column C of the matched line</div>
 
 <div>
-  } else {</div>
+} else {</div>
 
 <div>
-  return 'xx@oswestryschool.org.uk';</div>
+return 'xx@oswestryschool.org.uk';</div>
 
 <div>
-  // if criteria is not found</div>
+// if criteria is not found</div>
 
 <div>
-  }</div>
+}</div>
 
 <div>
 }</div>

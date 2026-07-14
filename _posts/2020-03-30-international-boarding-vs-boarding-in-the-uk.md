@@ -4,7 +4,6 @@ title: "International Boarding vs Boarding in the UK"
 date: 2020-03-30
 ---
 
-
 Somehow I've ended up looking back on a twenty-plus year career in teaching which has involved neck-deep involvement in boarding throughout. I didn't plan it like that, that's just how things evolved.<br/>
 <br/>
 My first experience of boarding was at Warwick School, a day school with a boarding house attached. Next came Uppingham, a boarding school with a tiny handful of day pupils. Then there was Oswestry, a school where the mix was about 50:50 boarding-to-day. And most recently, I moved overseas to Harrow Bangkok where again - like Warwick - boarders are in the minority.<br/>

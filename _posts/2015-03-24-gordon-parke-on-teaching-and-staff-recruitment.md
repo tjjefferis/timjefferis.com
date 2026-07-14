@@ -8,7 +8,7 @@ date: 2015-03-24
 <div>
 Thank you to everyone who attend OW day. Fantastic to see old and current Headmasters together again. <a href="http://t.co/pQP0YQJltQ">pic.twitter.com/pQP0YQJltQ</a><br/>
 &gt; ""
-&gt; 
+&gt;
 &gt; — Great Walstead (@greatwalstead) June 24, 2014
 
 </div>

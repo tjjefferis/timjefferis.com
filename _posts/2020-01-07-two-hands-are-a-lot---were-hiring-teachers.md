@@ -4,7 +4,6 @@ title: "'Two hands are a lot' - we're hiring teachers "
 date: 2020-01-07
 ---
 
-
 I was fascinated by <a href="https://dominiccummings.com/2020/01/02/two-hands-are-a-lot-were-hiring-data-scientists-project-managers-policy-experts-assorted-weirdos/" target="_blank">Dominic Cummings's recent call for new Downing Street staff</a>: on the one hand, it gave a little insight into the machinations at the heart of the government complex; on the other, it illustrated rather nicely what happens when someone is so secure in their position that they can say what they really think.<br/>
 <br/>
 It got me wondering how a Head might advertise for teachers if they were unencumbered by the need for diplomacy (and had a bit more space than the typical TES ad allows!)<br/>

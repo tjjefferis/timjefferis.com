@@ -106,12 +106,12 @@ Staff already likely to be familiar with MS-Windows
 Ties in with iPads where these are already used<br/>
 Good for high-end users (artists etc.)
 
-    </td><td>Lightweight, fast<br/>
+</td><td>Lightweight, fast<br/>
 More of a 'statement' than Dell machines<br/>
 Familiarity with Microsoft<br/>
 Inkable - saves paper
 
-  </td></tr>
+</td></tr>
 <tr>
 <td>Cons</td>
 <td>Some students will still want Apple machines(!)<br/>
@@ -132,11 +132,11 @@ Microsoft does not provide onsite support
 </tr>
 </tbody></table>
 <p>The model we have in place at the moment at <a href="https://www.harrowschool.ac.th/" target="_blank">Harrow Bangkok </a>is a hybrid. As if often the case with these things in schools, it has evolved organically. What we've arrived at is as follows:
-  
+
 </p><ul><li>Ages 9 and below (UK Year 4 and below) - DNBYOD, school iPads and desktop PCs available for teachers and pupils to use in the classroom as required.</li><li>Ages 10 to 14 (UK Years 6 to 9) - CYOD, choose an iPad whilst desktop PCs are available for teachers and pupils to use in the classroom as required. Desktop Macs are provided in the Art and Design Departments and for Music Technology.</li><li>Ages 14 and above (UK Years 10 and above) - BYOD, bring a device with a keyboard to school for using in lessons as required. Desktop Macs are provided in the Art and Design Departments and for Music Technology.</li><li>
-  
+
 Teachers are supplied with a Dell laptop, the newest versions of which (Latitude 7390) are inkable.
-  </li></ul>
+</li></ul>
 <p>Over the past few years we've mulled over becoming an Apple school and we've toyed with the idea of rolling out Microsoft Surfaces etc. But when it has come down to the nuts and bolts, no one solution has been the right fit for the whole school. As a result, we've made a strength out of not having committed ourselves too firmly to any particular platform. Although the array of choices can be bewildering at times, pupils leave our school not having had any particular system foisted on them. They go out into the world with the flexibility to embrace whatever computer system best fits the projects they find themselves working on.</p>
 <p>I'd love to hear how things work in your school, particularly if you work in a K-12 international school. Do you have a similar setup? What have you found that works? </p>
 </div></div>

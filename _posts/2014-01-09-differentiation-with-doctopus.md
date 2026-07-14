@@ -66,5 +66,4 @@ Lastly, follow steps 1-4, as explained in <a href="http://www.youtube.com/watch?
 <div>
 I have so far used Doctopus successfully with a lower sixth class and intend to roll its use out to other classes next term.</div>
 
-
 <br/>

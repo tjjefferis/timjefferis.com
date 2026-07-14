@@ -4,7 +4,6 @@ title: "What's it like teaching in a Thai international school?"
 date: 2020-03-31
 ---
 
-
 For the last three years, I have been working at <a href="https://www.harrowschool.ac.th/" target="_blank">Harrow International School Bangkok</a>. Prior to this, all my teaching experience had been in the UK-independent sector.<br/>
 <br/>
 So what's it like teaching in a Thai international school? The first thing to point out is that Harrow is not just any international school - it's one of the largest and longest established in Thailand. As such it takes its place in the unofficial 'Premier League' of Thai international schools alongside <a href="https://www.patana.ac.th/" target="_blank">Patana</a>, <a href="https://www.nist.ac.th/" target="_blank">NIST</a>, <a href="https://www.shrewsbury.ac.th/riverside" target="_blank">Shrewsbury</a> and <a href="https://www.isb.ac.th/" target="_blank">ISB</a>.<br/>

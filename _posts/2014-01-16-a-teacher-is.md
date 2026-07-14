@@ -41,8 +41,4 @@ The was a young teacher from FalkirkWho made his students do workIf he ever had 
 Now back to work!</div>
 </div>
 
-
-
-
-
 <br/>

@@ -8,7 +8,6 @@ date: 2016-07-14
 <a href="https://images-cdn.9gag.com/photo/aZL30Oz_700b.jpg" imageanchor="1"><img border="0" data-original-height="425" data-original-width="686" height="198" src="https://images-cdn.9gag.com/photo/aZL30Oz_700b.jpg" width="320"/></a></div>
 <br/>
 
-
 <div>
 I attended a talk the other day about the dangers of being a generalist. We were told, in no uncertain terms, that:</div>
 

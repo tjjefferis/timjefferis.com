@@ -9,7 +9,7 @@ date: 2015-04-30
 The #TeachMeet went fantastically well with some great presentations and that unmistakable buzz you get when teachers start bouncing ideas off each other. It was great to receive tweets like this as people headed off home for the evening:</div>
 <div>
 &gt; "Great to share excellent teaching practice at #ostm and of course drink wine and win the raffle! @OswestrySchool"
-&gt; 
+&gt;
 &gt; — Sarah Liddell (@MsLiddell) April 29, 2015
 
 </div>

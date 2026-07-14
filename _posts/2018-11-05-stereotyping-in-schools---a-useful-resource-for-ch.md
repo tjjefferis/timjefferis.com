@@ -9,7 +9,6 @@ date: 2018-11-05
 <div>
 <a href="https://www.natashadevon.com/">Natasha Devon</a> gave a superb talk at the <a href="https://www.fobisia.org/page.cfm?p=971">Fobisia Leadership Conference</a> this weekend. One thing she showed us that really resonated with me - and that could easily be used to foster discussion of gender, sexuality and mental health amongst either staff or pupils - was this ostensibly harmless, tongue-in-cheek advertisement:</div>
 
-
 <div>
 Once we had watched it she unpacked for us the assumptions that lie behind such advertising, and how these assumptions pervade the environment around us. In a nutshell, the unspoken assumptions at work here are that:</div>
 <ol>

@@ -16,7 +16,6 @@ This could have been embarrassing! I have forced myself to be honest though and 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGA0jN0oh16-AoPaK52KgZbGjc33jwHbq5EHUsYAg8Or_wrG9fB6ceECcvzgz_iUJ7LV2zvZMftuGLjFKftwEa7Y-SpdVgcEcvoBOd-1ii3KhKNn1eN0gnFEuYnbAs2SNYD4oXc2VsPBY/s1600/drawer.PNG" imageanchor="1"><img border="0" data-original-height="562" data-original-width="813" height="221" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGA0jN0oh16-AoPaK52KgZbGjc33jwHbq5EHUsYAg8Or_wrG9fB6ceECcvzgz_iUJ7LV2zvZMftuGLjFKftwEa7Y-SpdVgcEcvoBOd-1ii3KhKNn1eN0gnFEuYnbAs2SNYD4oXc2VsPBY/s320/drawer.PNG" width="320"/></a></div>
 <br/></div>
 
-
 <div>
 If I'm honest this drawer is a bit of a window into the past. I put things in the drawer that I don't use very often. There's a hole punch, a stapler and some ring-reinforcers in there. I used to religiously file away all my teaching notes and document everything that I taught so that I could refer to it again. </div>
 

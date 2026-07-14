@@ -4,8 +4,6 @@ title: "What I learnt from Stephen Winkley"
 date: 2014-04-15
 ---
 
-
-
 <div>
 <div class="separator">
 <a href="https://www.blogger.com/blogger.g?blogID=9145285415158126914" imageanchor="1"></a><a href="https://www.blogger.com/blogger.g?blogID=9145285415158126914" imageanchor="1"></a><a href="https://www.blogger.com/blogger.g?blogID=9145285415158126914" imageanchor="1"></a><a href="https://images-a.jpimedia.uk/imagefetch/w_700,f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.lep.co.uk/webimage/1.6550274.1397031470!/image/436000135.jpg" imageanchor="1"><img border="0" data-original-height="467" data-original-width="700" height="213" src="https://images-a.jpimedia.uk/imagefetch/w_700,f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.lep.co.uk/webimage/1.6550274.1397031470!/image/436000135.jpg" width="320"/></a></div>
@@ -27,11 +25,6 @@ Disdain for officiousness - despite sitting with the good and the great on vario
 Administrative sloppiness - despite all his great strengths, working for Winkley had its frustrations. He was notoriously slow at replying to e-mails, for example. In some cases he didn't bother replying at all. I remember one occasion when a colleague had been to see him to be allowed to drop one of his commitments. It was agreed a response would be forthcoming after discussion at an SMT meeting. Nothing happened. The colleague in question politely enquired via e-mail as to what was going on. No response. When eventually he engineered a face-to-face meeting the colleague was told that it was "unreasonable to expect a decision to emerge from an SMT meeting, of all meetings". Behind it all there was a method in this. The colleague continued on with his commitments for several more terms, before a suitable replacement emerged.</div>
 <div>
 Lapidary way with words - the ability to craft letters <a href="http://www.evernote.com/shard/s162/sh/90bc95ea-9669-42a6-887c-5f0b73a5a6e3/48be303dbb3a9efc31932c191a491abc" shape="rect" target="_blank">like this</a>; concise, cutting and to the point is a real skill. I suspect they can only be sent towards the end of a career though!</div>
-
-
-
-
-
 
 <br/>
 

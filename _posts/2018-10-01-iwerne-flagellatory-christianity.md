@@ -36,7 +36,7 @@ This is what I heard. And looking online at the pronouncements of Rico Tice over
 Whether or not sex was given special prominence in the curriculum of the camps, I don't know. But as teenage boys, this is the message we got: loud, clear and regularly repeated. At the time - I'm embarrassed to say - the zeitgeist hadn't yet moved in relation to homosexuality and so we were less bothered by the ridicule directed at homosexuals ('God created Adam and Eve, not Adam and Steve'). But rigid adherence to biblical directive has immunized Iwerne Christians from reason, common-sense and humanity and homosexuality is still condemned. The certainty that attends 'Bible-believing' Christians in all their pronouncements, sends a shiver down my spine. There is no arguing with them:</div>
 <div>
 &gt; "Evangelist Rico Tice is absolutely right, “… it is a great wickedness to tell people who are on the road to destruction that they are not." Pray for him--&amp; pray that the church will have an awakening to the authority of God’s Holy Word. https://t.co/tIxrCx5PkL"
-&gt; 
+&gt;
 &gt; — Franklin Graham (@Franklin_Graham) June 27, 2018
 </div>
 <div>

@@ -4,7 +4,6 @@ title: "Grasping the nettle - authentic, purposeful conversations"
 date: 2019-05-06
 ---
 
-
 If you're a senior leader and you've not yet read Susan Scott's book '<a href="https://www.amazon.com/Fierce-Conversations-Achieving-Success-Conversation/dp/0425193373" target="_blank">Fierce Conversations</a>', I encourage you to do so. The book is a stirring call to action:<br/>
 <blockquote class="tr_bq">
 <i>Think about it. What are the conversations you've been unable or unwilling to have ... that if you were able to have would change everything?</i></blockquote>

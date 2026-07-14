@@ -4,7 +4,6 @@ title: "A Strategy for Dealing with Wicked Problems"
 date: 2020-02-22
 ---
 
-
 Sometimes schools throw up <a href="https://en.wikipedia.org/wiki/Wicked_problem" target="_blank">wicked problems</a> - problems which have no obvious solution or problems in which every possible solution has serious drawbacks. Left to fester such problems can quickly start to feel overwhelming. Who hasn't lain awake at night worrying about such things from time to time...?<br/>
 <br/>
 I recently took one such problem to <a href="https://www.linkedin.com/in/andy-buck-8596a2111/?originalSubdomain=uk" target="_blank">Andy Buck</a>. Andy offers coaching for school leaders and happened to be visiting our school.<br/>

@@ -34,7 +34,6 @@ What's your workspace like?</div>
 <div class="separator">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMUFFtrquNQsH24uflA-qzbtOAM3eMPppAayQCfZLZ_wG6_KiwyfEkPse5XW0eeLul7tyBfYSX3G-uxGQJFVa0rjnx2XbJbkMRuDWnKD_R9Iy5APlZL-4e6xcATTBtDHlSn0OpF62VT-A/s1600/two+screens.PNG" imageanchor="1"><img border="0" data-original-height="536" data-original-width="837" height="204" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMUFFtrquNQsH24uflA-qzbtOAM3eMPppAayQCfZLZ_wG6_KiwyfEkPse5XW0eeLul7tyBfYSX3G-uxGQJFVa0rjnx2XbJbkMRuDWnKD_R9Iy5APlZL-4e6xcATTBtDHlSn0OpF62VT-A/s320/two+screens.PNG" width="320"/></a></div>
 
-
 <div>
 What's your favourite to-do list manager?</div>
 <div>

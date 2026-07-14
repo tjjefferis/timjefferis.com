@@ -4,8 +4,6 @@ title: "New Year's Resolutions (or advice for novice teachers)"
 date: 2014-04-17
 ---
 
-
-
 <div>
 <br/>
 <div class="separator">

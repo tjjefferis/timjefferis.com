@@ -4,14 +4,12 @@ title: "Don't be too quick to judge Bear Grylls"
 date: 2015-08-15
 ---
 
-
 Last week it was reported that the great British adventurer, Bear Grylls, had caused a Twitter storm by leaving his son an outcrop of rocks some way off the Welsh coast. This sort of thing was fairly typical of the genre:
 
 <br/>
 &gt; "RNLI slams Bear Grylls leaving son on rocks off Abersoch http://t.co/EYDuAE0Ad1 &gt; What an #Idiot!!"
-&gt; 
+&gt;
 &gt; — Geri Lloyd-Jones (@scheuy12) August 9, 2015
-
 
 Whatever the ins and outs of this particular case, Bear Grylls is quite right to point out that most of us are way, way too protective of our children these days. As a teacher, looking after other people's children, I realise it's not my place to be too cavalier about their safety, but with my own children, it's a different matter... And so it should be with all parents.
 
@@ -19,6 +17,6 @@ There are far too many children out there leading dull and cosseted lives. As a 
 
 Malcolm Gladwell makes a very strong case in his book David and Goliath that setbacks and disappointments early in life are often a key component of later success. Striving against the odds, taking risks, and hurting yourself engender the grit and determination it takes to overcome the obstacles that life throws at you later on.
 
-This is not a new idea, of course. When I was at school every privation and disappointment was marked by some wit telling us that it was all 'character building'. In a powerful illustration that the wits may have been right though, Gladwell cites a study of pre-war British Prime Ministers. The study showed that over 2/3 of these eminent men had lost a parent during their most formative years. In other words, a serious childhood setback may have provided the spur they needed to really excel in life. 
+This is not a new idea, of course. When I was at school every privation and disappointment was marked by some wit telling us that it was all 'character building'. In a powerful illustration that the wits may have been right though, Gladwell cites a study of pre-war British Prime Ministers. The study showed that over 2/3 of these eminent men had lost a parent during their most formative years. In other words, a serious childhood setback may have provided the spur they needed to really excel in life.
 
 Helicopter parents take note: you might be better off dead...

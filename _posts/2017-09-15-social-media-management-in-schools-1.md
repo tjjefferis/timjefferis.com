@@ -14,9 +14,8 @@ This is the first of a series of posts I plan to create for social media manager
 <li>Avoid being 'broadcast only'. Nothing is more off-putting than being in a conversation with someone who speaks all the time, but never listens; so it is in the online world. Make every effort to actively engage with your audience - search out humour, be human. Here's the sort of thing that I mean. It raises a smile, offends no-one and keeps things fun:</li>
 </ul>
 &gt; "The Easter Bunny won’t be the only busy one this April! Essential work is taking place across our network over Easter weekend. Euston will be closed &amp; journeys will be longer during this time. We’d recommend avoiding travel where possible. More info here: https://t.co/C5eHsGBOdE pic.twitter.com/10Dc5m85cu"
-&gt; 
+&gt;
 &gt; — Virgin Trains (@VirginTrains) March 19, 2019
-
 
 <br/>
 
@@ -29,7 +28,7 @@ This is the first of a series of posts I plan to create for social media manager
 </div>
 <div>
 &gt; "Use TweetDeck to combine the mentions for all of your accounts into one stream that you can keep your eye on. Works for Direct Messages too! https://t.co/8eKB5tLXUJ"
-&gt; 
+&gt;
 &gt; — TweetDeck (@TweetDeck) March 25, 2019
 </div>
 <div>
@@ -42,7 +41,7 @@ This is the first of a series of posts I plan to create for social media manager
 <div>
 <div>
 &gt; "This is true. It's why it really helps to teach in one place and not have dash from building to building carrying handfuls of books whilst kids champ at the bit waiting for you to arrive. School architects - it's worth the extra cost! https://t.co/BZhmlroPb4"
-&gt; 
+&gt;
 &gt; — Tim Jefferis (@tjjteacher) April 12, 2019
 
 </div>

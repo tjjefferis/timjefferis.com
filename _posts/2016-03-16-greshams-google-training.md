@@ -141,16 +141,4 @@ Other stuff</div>
 </li>
 </ul>
 
-
-
-
-
-
-
-
-
-
-
-
-
 <br/>

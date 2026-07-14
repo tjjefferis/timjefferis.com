@@ -20,5 +20,5 @@ The conference was held at the [Prince of Wales Island International School (POW
 At this point, we left POWIIS's impressive auditorium and embarked on a series of workshop-style sessions led by [Dr Coleen Jackson](https://www.linkedin.com/in/coleen-jackson-b8636525/). A lot was covered over the course of the next two days. Coleen worked admirably to keep us all on board and thinking, but I found it hard to ward off cynicism sometimes:
 
 > "‘Just walk around the room and introduce yourself,’ he said. ‘But don’t use words.’ < Ugh... insufferable."
-> 
+>
 > — Carl Hendrick (@C_Hendrick), December 9, 2017

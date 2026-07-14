@@ -12,7 +12,7 @@ date: 2020-10-08
 
 I love the simplicity of this. It encourages a laser-like focus and chimes with [Occam's Razor](https://timjefferis.com/2019/04/occams-razor.html) one of my favourite management heuristics.
 
-Too often in schools, we get distracted by things that don't matter: things that either make no difference to the main effort *or that positively detract from it*. The recent work I've been doing on [Harrow Bangkok's](https://www.harrowschool.ac.th/) vision and mission has really brought this home to me. 
+Too often in schools, we get distracted by things that don't matter: things that either make no difference to the main effort *or that positively detract from it*. The recent work I've been doing on [Harrow Bangkok's](https://www.harrowschool.ac.th/) vision and mission has really brought this home to me.
 
 If staff are doing things that don't contribute to the mission, then they should be told/allowed to stop. An educational equivalent of William's aphorism might be:
 

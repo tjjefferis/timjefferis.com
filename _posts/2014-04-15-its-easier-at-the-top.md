@@ -6,9 +6,9 @@ date: 2014-04-15
 
 <style>
 table, th, td {
-  border: 1px solid black;
-  padding: 15px;
-  }
+border: 1px solid black;
+padding: 15px;
+}
 </style>
 <br/>
 <div><img alt="The pyramid of shit!! by ben - Meme Center" src="https://img.memecdn.com/The-pyramid-of-shit_fb_35369.jpg"/></div>
