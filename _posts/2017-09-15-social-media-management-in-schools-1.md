@@ -1,0 +1,65 @@
+---
+layout: post
+title: "Social media management in schools #1"
+date: 2017-09-15
+---
+
+<br />
+<div style="-en-clipboard: true;">
+<span style="line-height: 1.45;">This is the first of a series of posts I plan to create for social media managers in schools. This one&nbsp;</span>focuses<span style="line-height: 1.45;">&nbsp;on my social media channel of choice, Twitter. I hope it will be of use to people who run school Twitter accounts and provide a source of ideas for how to gain some traction in the Twittersphere.</span></div>
+<div style="border: none; margin: 0px 0px 0px 40px; padding: 0px;">
+<ul>
+<li><span style="line-height: 1.45;">My first piece of advice would be to&nbsp;recognize&nbsp;that, done well, your role will cut-across multiple areas of school life. Teachers in schools - particularly in independent settings -&nbsp;</span><span style="line-height: 1.45;">are expected</span><span style="line-height: 1.45;">&nbsp;to be</span> <a href="http://www.dw.com/en/eierlegende-wollmilchsau/a-6616972" style="line-height: 1.45;">Eierlegende Wollmilchsau</a><span style="line-height: 1.45;">;&nbsp;you should embrace this approach too. Think about all the various facets of the school life (the</span> <a href="http://tjjteacher.com/post/teachers-should-be-eierlegende-wollmilchsau" style="line-height: 1.45;">diagram on this post</a> <span style="line-height: 1.45;">is a useful starting point) and aim to give your followership a flavour of each. Study the calendar and plan your week to try and capture the essence of what is going on by reporting on aspects of each area of school life.</span></li>
+<li><span style="line-height: 1.45;">Connected to this, I'd encourage you to think big. If all your posts are of the 3rd XI hockey results your posts - no offence to the 3rd XI - are going to be dull for most people. You might get a little following of doting mums and dads, but that will be it. Intersperse domestic posts with posts that will have a wider appeal. Think: what is going on in your school that might get someone in, say, Chile excited? Go on, have a go - build up an engaged community somewhere totally random. The whole fun of Twitter is the&nbsp;</span>serendipitous<span style="line-height: 1.45;">&nbsp;connections it facilitates.</span></li>
+<li><span style="line-height: 1.45;">Avoid being 'broadcast only'. Nothing is more off-putting than being in a conversation with someone who speaks all the time, but never listens; so it is in the online world. Make every effort to actively&nbsp;</span>engage<span style="line-height: 1.45;">&nbsp;with your audience - search out humour, be human. Here's the sort of thing that I mean. It raises a smile, offends no-one and keeps things fun:</span></li>
+</ul>
+<blockquote class="twitter-tweet">
+<div dir="ltr" lang="en">
+The Easter Bunny won’t be the only busy one this April! Essential work is taking place across our network over Easter weekend. Euston will be closed &amp; journeys will be longer during this time. We’d recommend avoiding travel where possible. More info here: <a href="https://t.co/C5eHsGBOdE">https://t.co/C5eHsGBOdE</a> <a href="https://t.co/10Dc5m85cu">pic.twitter.com/10Dc5m85cu</a></div>
+— Virgin Trains (@VirginTrains) <a href="https://twitter.com/VirginTrains/status/1108080704615649281?ref_src=twsrc%5Etfw">March 19, 2019</a></blockquote>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
+<br />
+<div style="text-align: center;">
+</div>
+</div>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
+<br />
+<div>
+<ul>
+<li><span style="line-height: 1.45;">Use Tweetdeck and spend a good deal of time organising your various constituents into lists, to better keep an eye on what is going on. Here's my set up in TweetDeck to give you a flavour of how it can be used:</span></li>
+</ul>
+</div>
+<div style="border: none; margin: 0px 0px 0px 40px; padding: 0px; text-align: center;">
+<blockquote class="twitter-tweet">
+<div dir="ltr" lang="en">
+Use TweetDeck to combine the mentions for all of your accounts into one stream that you can keep your eye on. Works for Direct Messages too! <a href="https://t.co/8eKB5tLXUJ">https://t.co/8eKB5tLXUJ</a></div>
+— TweetDeck (@TweetDeck) <a href="https://twitter.com/TweetDeck/status/1110259394443427841?ref_src=twsrc%5Etfw">March 25, 2019</a></blockquote>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div>
+<div style="border: none; margin: 0px 0px 0px 40px; padding: 0px;">
+<ul>
+<li><span style="line-height: 1.45;">Another great tool is</span> <a href="https://buffer.com/app" style="line-height: 1.45;">Buffer</a><span style="line-height: 1.45;">. Even with the free version you can queue up a decent number of posts and drip feed your followers news throughout the day, even when you're not at your desk.</span></li>
+<li><span style="line-height: 1.45;">The Holy Grail with Twitter is engagement. Posts with pictures get more&nbsp;</span><span style="line-height: 1.45;">engagement</span><span style="line-height: 1.45;">, tagged posts more still.</span> <a href="http://www.socialmediaexaminer.com/twitter-tactics-to-increase-engagement/" style="line-height: 1.45;">Study the metrics</a><span style="line-height: 1.45;">;&nbsp;play the game.</span></li>
+<li><span style="line-height: 1.45; text-align: center;">Spend a good deal of time trawling the blogosphere for material that might be of interest to your constituents.</span> <span style="line-height: 1.45;">Use</span> <a href="https://feedly.com/i/my" style="line-height: 1.45;">Feedly</a><span style="line-height: 1.45;">, or something similar, to curate your favourite blogs.&nbsp;</span><span style="line-height: 1.45; text-align: center;">Share widely, try to be helpful - after all, what's the point in social media if it doesn't actually benefit your constituents? Here's the sort of thing I mean:</span></li>
+</ul>
+</div>
+<div style="border: none; margin: 0px 0px 0px 40px; padding: 0px;">
+<div style="text-align: center;">
+<blockquote class="twitter-tweet" data-partner="tweetdeck">
+<div dir="ltr" lang="en">
+This is true. It's why it really helps to teach in one place and not have dash from building to building carrying handfuls of books whilst kids champ at the bit waiting for you to arrive. School architects - it's worth the extra cost! <a href="https://t.co/BZhmlroPb4">https://t.co/BZhmlroPb4</a></div>
+— Tim Jefferis (@tjjteacher) <a href="https://twitter.com/tjjteacher/status/1116643604368220161?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+</div>
+<ul>
+<li><div>
+<span style="line-height: 1.45;">Every so often do something wacky. Hide something in the school and offer a prize for finding it. Post some pictures of teachers' shoes and offer an early lunch pass to the first person to guess the owners correctly. Encourage parents to take selfies of themselves whilst they wait in the school car park... If you can think of something fun, that will up your engagement do it.</span></div>
+</li>
+<li><div>
+<span style="line-height: 1.45;">Lastly, and most importantly, get out, prowl the corridors, the playing fields and the classrooms. Catch people doing interesting things; catch them doing normal things. Sitting at your desk should be a rarity - particularly if you have the luxury of being able to focus solely on social media in your role. Use the school calendar, but don't be&nbsp;</span><span style="line-height: 1.45;">hidebound</span><span style="line-height: 1.45;">&nbsp;by it. Social media is about speed and immediacy - no one is going to care if your photos are not picture-perfect.</span></div>
+</li>
+</ul>
+</div>
+<div>
+<span style="line-height: 1.45;">Tag me in something, and I'll always respond. See you in the Twittersphere :-)</span></div>

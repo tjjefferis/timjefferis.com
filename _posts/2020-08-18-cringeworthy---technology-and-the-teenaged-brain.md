@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Cringeworthy - Technology and the Teenaged Brain"
+date: 2020-08-18
+---
+
+<p>I've recently rediscovered the embedded video on the school system. It shows one of the first presentations I did to parents when I first arrived in Thailand over three years ago.&nbsp;</p><p>Good grief it's embarrassing! I sound like a rabid English nationalist and the delivery is brash and shouty.&nbsp;</p><p>I've always enjoyed public speaking - even crediting myself with being rather good at it. So watching this is sobering.&nbsp;</p><p>I hope I've learnt to be a bit quieter, a bit more humble and a bit more reflective over the past few years. Most Thais are the antithesis of brash - the poor audience must have been cringing!</p><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/7P5RSajpwU0" width="320" youtube-src-id="7P5RSajpwU0"></iframe></div><p><br /></p>
