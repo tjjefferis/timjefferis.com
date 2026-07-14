@@ -8,6 +8,7 @@ permalink: /:year/:month/:title.html
 
 # Build Settings
 markdown: kramdown
+excerpt_separator: "<!--more-->"
 theme: minima
 plugins:
   - jekyll-feed
