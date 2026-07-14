@@ -4,7 +4,7 @@ title: "The FLMOP Framework"
 date: 2026-02-03
 ---
 
-![The FLMOP Framework](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp73q7HlN-Tn2d1OgWDSvLbq_P-crqFQhP-g2LezFtlRnxQZGigXJLS10R2o0uDO7Xxs6qK-rnUp72xAWX3sfoS9id9diEWFPrfevyg_44H_riOaVTGgfx_5j2Ncy5F170x09i_C03lRJf31rhy2J5K8aRtRUp2hnz37cL2Xjxz2QofuCdOwKuiCh4ZQ/s1600/FLMOP.jpg)
+![The FLMOP Framework](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp73q7HlN-Tn2d1OgWDSvLbq_P-crqFQhP-g2LezFtlRnxQZGigXJLS10R2o0uDO7Xxs6qK-rnUp72xAWX3sfoS9id9diEWFPrfevyg_44H_riOaVTGgfx_5j2Ncy5F170x09i_C03lRJf31rhy2J5K8aRtRUp2hnz37cL2Xjxz2QofuCdOwKuiCh4ZQ/w640-h370/)
 
 ---
 
