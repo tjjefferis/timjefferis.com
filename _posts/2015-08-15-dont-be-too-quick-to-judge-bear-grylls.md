@@ -4,15 +4,13 @@ title: "Don't be too quick to judge Bear Grylls"
 date: 2015-08-15
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://www.blogger.com/blogger.g?blogID=9145285415158126914" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"></a></div>
+
 Last week it was reported that the great British adventurer, Bear Grylls, had caused a Twitter storm by leaving his son an outcrop of rocks some way off the Welsh coast. This sort of thing was fairly typical of the genre:
 
-<br />
-<blockquote class="twitter-tweet" lang="en">
-<div dir="ltr" lang="en">
-RNLI slams Bear Grylls leaving son on rocks off Abersoch <a href="http://t.co/EYDuAE0Ad1">http://t.co/EYDuAE0Ad1</a> &gt; What an <a href="https://twitter.com/hashtag/Idiot?src=hash">#Idiot</a>!!</div>
-— Geri Lloyd-Jones (@scheuy12) <a href="https://twitter.com/scheuy12/status/630450695288786944">August 9, 2015</a></blockquote>
+<br/>
+&gt; "RNLI slams Bear Grylls leaving son on rocks off Abersoch http://t.co/EYDuAE0Ad1 &gt; What an #Idiot!!"
+&gt; 
+&gt; — Geri Lloyd-Jones (@scheuy12) August 9, 2015
 
 
 Whatever the ins and outs of this particular case, Bear Grylls is quite right to point out that most of us are way, way too protective of our children these days. As a teacher, looking after other people's children, I realise it's not my place to be too cavalier about their safety, but with my own children, it's a different matter... And so it should be with all parents.

@@ -4,23 +4,22 @@ title: "Culture and time: things to consider"
 date: 2014-03-15
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://cdn.images.express.co.uk/img/dynamic/130/590x/secondary/daley-385406.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="433" data-original-width="590" height="234" src="https://cdn.images.express.co.uk/img/dynamic/130/590x/secondary/daley-385406.jpg" width="320" /></a></div>
-<div style="-en-clipboard: true;">
-<span face=""><br /></span></div>
+<div class="separator">
+<a href="https://cdn.images.express.co.uk/img/dynamic/130/590x/secondary/daley-385406.jpg"><img border="0" data-original-height="433" data-original-width="590" height="234" src="https://cdn.images.express.co.uk/img/dynamic/130/590x/secondary/daley-385406.jpg" width="320"/></a></div>
+
 <div>
-<div style="-en-paragraph: true; margin-bottom: 1em; margin-top: 1em;">
+<div>
 "Enjoy your three weeks of silent, independent revision, see you in the New Year."</div>
-<div style="-en-paragraph: true; margin-bottom: 1em; margin-top: 1em;">
-Thus I dismissed the lower sixth last week. Earlier in the lesson, I had tried to gee them along by relaying how Daley Thompson had always made a point of training <span style="font-style: italic;">twice</span> on Christmas Day because he knew his competitors would be having the day off. The blank looks said it all&nbsp; - Daley Thompson's retired from athletics in 1992 - a full 4 years before the lower sixth were born.</div>
-<div style="-en-paragraph: true; margin-bottom: 1em; margin-top: 1em;">
-I should have known that this cultural reference had had its day. Added to this Daley Thompson was a <span style="font-style: italic;">British</span> athlete and so wouldn't have had any particular significance anyway for many in the set (1 American, 1 Ukrainian, 1 Nigerian....)</div>
-<div style="-en-paragraph: true; margin-bottom: 1em; margin-top: 1em;">
+<div>
+Thus I dismissed the lower sixth last week. Earlier in the lesson, I had tried to gee them along by relaying how Daley Thompson had always made a point of training twice on Christmas Day because he knew his competitors would be having the day off. The blank looks said it all  - Daley Thompson's retired from athletics in 1992 - a full 4 years before the lower sixth were born.</div>
+<div>
+I should have known that this cultural reference had had its day. Added to this Daley Thompson was a British athlete and so wouldn't have had any particular significance anyway for many in the set (1 American, 1 Ukrainian, 1 Nigerian....)</div>
+<div>
 This reminded me that working in a school with a significant portion of overseas pupils necessitates a more thoughtful approach to the examples used and the references made to popular culture. There isn't necessarily a huge amount of shared hinterland to draw upon.</div>
-<div style="-en-paragraph: true; margin-bottom: 1em; margin-top: 1em;">
+<div>
 The following sensible list of things to consider in your teaching is offered by experts in the field:</div>
-<div style="-en-paragraph: true; margin-bottom: 1em; margin-top: 1em;">
-<span style="font-weight: bold;">Planning</span></div>
+<div>
+Planning</div>
 <ol>
 <li><div>
 Do the course documents take into consideration the individual needs of the learner? (Initial Assessment, Scheme of work, ILP)</div>
@@ -32,8 +31,8 @@ Is the learning environment conducive to learning? (layout, accessibility)</div>
 Are there a variety of learning styles included in the teaching – auditory, visual and kinaesthetic? (Schemes of work, lesson plans) **<b>Addendum</b> - since posting this the concept of learning styles has been roundly debunked. All we take from the idea is the common-sense notion that it pays to shake things up a little in your lessons from time to time. Don't rely solely on one form of delivery for fear of boring your pupils to death **</div>
 </li>
 </ol>
-<div style="-en-paragraph: true; margin-bottom: 1em; margin-top: 1em;">
-<span style="font-weight: bold;">Delivery</span></div>
+<div>
+Delivery</div>
 <ol>
 <li><div>
 Is time allocated during learner’s induction for information and discussion on equality and diversity, including policies, etc? (Scheme of work, lesson plans, ILP, complaints procedure)</div>
@@ -48,8 +47,8 @@ Are appropriate assessment methods used for all learners? (Differentiation)</div
 Using appropriate and sensitive language and challenging inappropriate use of language</div>
 </li>
 </ol>
-<div style="-en-paragraph: true; margin-bottom: 1em; margin-top: 1em;">
-<span style="font-weight: bold;">Diversity</span></div>
+<div>
+Diversity</div>
 <ol>
 <li><div>
 Is diversity included within teaching – making reference and using examples from a variety of cultures, religions, traditions, exploring stereotyping and other topics around equality? (Lesson plan, resources)</div>
@@ -61,8 +60,8 @@ How is prejudice and stereotyping challenged in the classroom?</div>
 How do you build on learner diversity as an educational resource?</div>
 </li>
 </ol>
-<div style="-en-paragraph: true; margin-bottom: 1em; margin-top: 1em;">
-<span style="font-weight: bold;">Resources</span></div>
+<div>
+Resources</div>
 <ol>
 <li><div>
 Are teaching resources accessible for all learners?</div>
@@ -74,8 +73,8 @@ Do learners require additional resources to help them to access information? (In
 Are people from diverse backgrounds, socio-economic, cultural, people with disabilities visible in course materials?</div>
 </li>
 </ol>
-<div style="-en-paragraph: true; margin-bottom: 1em; margin-top: 1em;">
-<span style="font-weight: bold;">Additional support</span></div>
+<div>
+Additional support</div>
 <ol>
 <li><div>
 Are learners given the opportunity to discuss additional support at the beginning and throughout the course?</div>
@@ -84,7 +83,7 @@ Are learners given the opportunity to discuss additional support at the beginnin
 Is there a non-threatening, open culture in which learners feel able to voice concerns?</div>
 </li>
 </ol>
-<div style="-en-paragraph: true; margin-bottom: 1em; margin-top: 1em;">
+<div>
 One key area, of course, where teachers can help pupils from different cultures is by sensible use of differentiation, as <a href="http://tjj.postach.io/differentiation-with-doctopus" shape="rect" target="_blank">I explain in this post.</a></div>
 </div>
-<br />
+<br/>

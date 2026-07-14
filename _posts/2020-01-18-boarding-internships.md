@@ -4,112 +4,102 @@ title: "Boarding internships"
 date: 2020-01-18
 ---
 
-<span style="font-size: 10pt;">A couple of
+A couple of
 years ago Thai visa regulations put a stop to our recruitment of ‘gappies’ -
 young adventurous types looking for a something constructive to do in a year
 off between school and university. So it was that we pivoted to recruiting
-recent graduates for year-long internships instead.</span><br />
+recent graduates for year-long internships instead.<br/>
+
 <div class="MsoNormal">
-<br /></div>
-<div class="MsoNormal">
-<span style="font-size: 10.0pt; line-height: 115%;">What a
+What a
 revelation this has been - at least three years older than the typical gappy,
 and already comfortable with living away from home, their impact in boarding
-has been universally positive.<o:p></o:p></span></div>
+has been universally positive.<o:p></o:p></div>
+
 <div class="MsoNormal">
-<br /></div>
-<div class="MsoNormal">
-<span style="font-size: 10.0pt; line-height: 115%;">Every year
+Every year
 we recruit at least six new interns - two for each boarding house. Our location
 in Thailand helps with recruitment, not least in the sense that we can use
-advertisements like this one:</span></div>
-<div align="center" class="MsoNormal" style="text-align: center;">
-<blockquote class="twitter-tweet">
-<div dir="ltr" lang="en">
-Fancy this? Please RT or pass on if you know someone who might... <a href="https://t.co/sNYoLpZkMB">pic.twitter.com/sNYoLpZkMB</a></div>
-— Tim Jefferis (@tjjteacher) <a href="https://twitter.com/tjjteacher/status/1179244600030044166?ref_src=twsrc%5Etfw">October 2, 2019</a></blockquote>
+advertisements like this one:</div>
+<div align="center" class="MsoNormal">
+&gt; "Fancy this? Please RT or pass on if you know someone who might... pic.twitter.com/sNYoLpZkMB"
+&gt; 
+&gt; — Tim Jefferis (@tjjteacher) October 2, 2019
 
 
  
 </div>
 <div class="MsoNormal">
-<span style="font-size: 10.0pt; line-height: 115%;">When they
+When they
 arrive, we put them through an intensive induction that includes training in:
 safeguarding, Thai culture, lifeguarding, boarding and off-site trip
-management.<o:p></o:p></span></div>
+management.<o:p></o:p></div>
+
 <div class="MsoNormal">
-<br /></div>
-<div class="MsoNormal">
-<span style="font-size: 10.0pt; line-height: 115%;">Interns all
+Interns all
 live on-site in the boarding houses, so very quickly an esprit de corps
 develops. We devise day-time timetables based on their interests. Many want to
 go into teaching once their year with us is up, so we assign them to
 departments where their interests and expertise lie. A mentoring system
 encourages them to self-reflect and actively further their professional
-development.<o:p></o:p></span></div>
+development.<o:p></o:p></div>
+
 <div class="MsoNormal">
-<br /></div>
-<div class="MsoNormal">
-<span style="font-size: 10.0pt; line-height: 115%;">In boarding,
+In boarding,
 they are invaluable members of the house teams. Occupying the borderland
 between fully-fledged teacher and recent school-leaver they are able to connect
 with boarders in a uniquely powerful way. Each brings their own character to
 the role, with boarders taking little time to recognise in them variously:
-older playmate, sounding board, homework-checker or genial interlocutor.<o:p></o:p></span></div>
+older playmate, sounding board, homework-checker or genial interlocutor.<o:p></o:p></div>
+
 <div class="MsoNormal">
-<br /></div>
-<div class="MsoNormal">
-<span style="font-size: 10.0pt; line-height: 115%;">It is the
+It is the
 graduates who mastermind our ‘Friday night challenges’ designed to foster
 teamwork, fun and a bit of lateral thinking. During the week, graduates get
 involved in anything and everything that we organise for the boarders. We find
 that even the most reticent of our boarders become less so when they realise
-that the cool older brother or sister is involved... <o:p></o:p></span></div>
+that the cool older brother or sister is involved... <o:p></o:p></div>
+
 <div class="MsoNormal">
-<br /></div>
-<div class="MsoNormal">
-<span style="font-size: 10.0pt; line-height: 115%;">Graduates spend
+Graduates spend
 a week off-campus in a Thai government school that Harrow has connections with.
 Here they assist with English language acquisition, with sport and with their
 own subject specialism. The interns play a full part in our super-curricular
 provision, volunteering enthusiastically for off-site trips all over Thailand
-and beyond. <o:p></o:p></span></div>
+and beyond. <o:p></o:p></div>
+
 <div class="MsoNormal">
-<br /></div>
-<div class="MsoNormal">
-<span style="font-size: 10.0pt; line-height: 115%;">At the end
+At the end
 of the programme, graduates leave us with first-hand experience of residential
 education and travel experiences to die for. On our part, we get a steady
 stream of young, enthusiastic employees from all over the English-speaking
-world. They enrich our community immeasurably.<span style="mso-spacerun: yes;">&nbsp;
-</span><o:p></o:p></span></div>
+world. They enrich our community immeasurably. 
+<o:p></o:p></div>
+
 <div class="MsoNormal">
-<br /></div>
+Here’s what
+I’d advise anyone else seeking to set up such a programme:<o:p></o:p></div>
 <div class="MsoNormal">
-<span style="font-size: 10.0pt; line-height: 115%;">Here’s what
-I’d advise anyone else seeking to set up such a programme:<o:p></o:p></span></div>
-<div class="MsoNormal" style="margin-left: 36.0pt; mso-list: l0 level1 lfo1; text-indent: -18.0pt;">
-<!--[if !supportLists]--><span style="font-size: 10.0pt; line-height: 115%;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span style="font-size: 10.0pt; line-height: 115%;">Be clear about job descriptions and
+<!--[if !supportLists]-->●      <!--[endif]-->Be clear about job descriptions and
 responsibilities right at the outset. It’s tempting to use interns to fill
-gaps, but they (rightly) expect a coherent and thought-through programme.<o:p></o:p></span></div>
-<div class="MsoNormal" style="margin-left: 36.0pt; mso-list: l0 level1 lfo1; text-indent: -18.0pt;">
-<!--[if !supportLists]--><span style="font-size: 10.0pt; line-height: 115%;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span style="font-size: 10.0pt; line-height: 115%;">Spend a good deal of time on
+gaps, but they (rightly) expect a coherent and thought-through programme.<o:p></o:p></div>
+<div class="MsoNormal">
+<!--[if !supportLists]-->●      <!--[endif]-->Spend a good deal of time on
 induction - manage expectations, clarify responsibilities. Prevention is far
-better than cure.<o:p></o:p></span></div>
-<div class="MsoNormal" style="margin-left: 36.0pt; mso-list: l0 level1 lfo1; text-indent: -18.0pt;">
-<!--[if !supportLists]--><span style="font-size: 10.0pt; line-height: 115%;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span style="font-size: 10.0pt; line-height: 115%;">Make sure you build in opportunities
+better than cure.<o:p></o:p></div>
+<div class="MsoNormal">
+<!--[if !supportLists]-->●      <!--[endif]-->Make sure you build in opportunities
 for certification - our interns leave us as NPLQ lifeguards and are put through
-the NSPCC safeguarding training.<o:p></o:p></span></div>
-<div class="MsoNormal" style="margin-left: 36.0pt; mso-list: l0 level1 lfo1; text-indent: -18.0pt;">
-<!--[if !supportLists]--><span style="font-size: 10.0pt; line-height: 115%;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span style="font-size: 10.0pt; line-height: 115%;">Do what you can to make the package
+the NSPCC safeguarding training.<o:p></o:p></div>
+<div class="MsoNormal">
+<!--[if !supportLists]-->●      <!--[endif]-->Do what you can to make the package
 as attractive as possible. This doesn’t mean you need to pay them a fortune,
 but perks like regular days off, full-board accommodation, paid-for mobile
-phone bills and social events can make a big difference.<o:p></o:p></span></div>
-<div class="MsoNormal" style="margin-left: 36.0pt; mso-list: l0 level1 lfo1; text-indent: -18.0pt;">
-<!--[if !supportLists]--><span style="font-size: 10.0pt; line-height: 115%;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span style="font-size: 10.0pt; line-height: 115%;">Recruit a decent-sized group if you
-can. Happiness increases and homesickness decreases if your interns feel part
-of a team.<o:p></o:p></span></div>
+phone bills and social events can make a big difference.<o:p></o:p></div>
 <div class="MsoNormal">
-<br /></div>
-<div align="right" class="MsoNormal" style="text-align: right;">
-<span style="font-size: 10.0pt; line-height: 115%;">Tim Jefferis</span></div>
+<!--[if !supportLists]-->●      <!--[endif]-->Recruit a decent-sized group if you
+can. Happiness increases and homesickness decreases if your interns feel part
+of a team.<o:p></o:p></div>
+
+<div align="right" class="MsoNormal">
+Tim Jefferis</div>

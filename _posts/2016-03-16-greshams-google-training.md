@@ -4,17 +4,15 @@ title: "Gresham's Google Training"
 date: 2016-03-16
 ---
 
-<span></span><br />
-<div style="-en-clipboard: true;">
-<a href="https://www.blogger.com/blogger.g?blogID=9145285415158126914" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"></a><a href="https://docs.google.com/a/oswestryschool.org.uk/document/d/1Vj2Zq8v4Bt9jIVc1FVPYOal1gAG2l3X9JW0nvvzt0T0/edit?usp=sharing">Click here</a> to enter feedback and/or ask questions as we go along.</div>
+<br/>
 <div>
-<br /></div>
+<a href="https://www.blogger.com/blogger.g?blogID=9145285415158126914" imageanchor="1"></a><a href="https://docs.google.com/a/oswestryschool.org.uk/document/d/1Vj2Zq8v4Bt9jIVc1FVPYOal1gAG2l3X9JW0nvvzt0T0/edit?usp=sharing">Click here</a> to enter feedback and/or ask questions as we go along.</div>
+
 <div>
 Navigating around - the 'Google Waffle'</div>
+
 <div>
-<br /></div>
-<div>
-<span style="font-weight: bold;">E-mail</span></div>
+E-mail</div>
 <ul>
 <li><div>
 labels vs folders</div>
@@ -36,7 +34,7 @@ signatures</div>
 </li>
 </ul>
 <div>
-<span style="font-weight: bold;">Calendar</span></div>
+Calendar</div>
 <ul>
 <li><div>
 <a href="https://sites.google.com/a/oswestryschool.org.uk/oswestry-intranet/home/deputy-head-academic/calendar-entries">making a calendar public</a></div>
@@ -52,7 +50,7 @@ appointment slots</div>
 </li>
 </ul>
 <div>
-<span style="font-weight: bold;">Drive</span></div>
+Drive</div>
 <ul>
 <li><div>
 uploading and converting</div>
@@ -68,7 +66,7 @@ searching</div>
 </li>
 </ul>
 <div>
-<span style="font-weight: bold;">Docs</span></div>
+Docs</div>
 <ul>
 <li><div>
 sharing</div>
@@ -84,7 +82,7 @@ research</div>
 </li>
 </ul>
 <div>
-<span style="font-weight: bold;">Sheets</span></div>
+Sheets</div>
 <ul>
 <li><div>
 sharing, protecting</div>
@@ -94,7 +92,7 @@ mail merges and other addons</div>
 </li>
 </ul>
 <div>
-<span style="font-weight: bold;">Google Forms</span></div>
+Google Forms</div>
 <ul>
 <li><div>
 <a href="https://docs.google.com/a/oswestryschool.org.uk/forms/d/1etJaqUhHrmn8ug9vsMbSJO7tMZDfzSzADvWsQTLEMds/viewform">e.g. minibus bookings</a></div>
@@ -107,14 +105,14 @@ Creating and sharing a form</div>
 </li>
 </ul>
 <div>
-<span style="font-weight: bold;">Slides</span></div>
+Slides</div>
 <ul>
 <li><div>
 sharing etc.</div>
 </li>
 </ul>
 <div>
-<span style="font-weight: bold;">Sites</span></div>
+Sites</div>
 <ul>
 <li><div>
 <a href="https://sites.google.com/a/oswestryschool.org.uk/oswestry-intranet/home">OsNet</a></div>
@@ -127,7 +125,7 @@ Make your own..</div>
 </li>
 </ul>
 <div>
-<span style="font-weight: bold;">Other stuff</span></div>
+Other stuff</div>
 <ul>
 <li><div>
 <a href="https://classroom.google.com/h">Google classroom</a></div>
@@ -142,30 +140,17 @@ Make your own..</div>
 <a href="https://www.youtube.com/watch?v=ljvFCIuN8I8">Google Circles</a></div>
 </li>
 </ul>
-<div>
-<br /></div>
-<div>
-<br /></div>
-<div>
-<br /></div>
-<div>
-<br /></div>
-<div>
-<br /></div>
-<div>
-<br /></div>
-<div>
-<br /></div>
-<div>
-<br /></div>
-<div>
-<br /></div>
-<div>
-<br /></div>
-<div>
-<br /></div>
-<div>
-<br /></div>
-<div>
-<br /></div>
-<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br/>

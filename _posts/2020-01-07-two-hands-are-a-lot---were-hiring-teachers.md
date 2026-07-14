@@ -4,18 +4,19 @@ title: "'Two hands are a lot' - we're hiring teachers "
 date: 2020-01-07
 ---
 
-I was fascinated by <a href="https://dominiccummings.com/2020/01/02/two-hands-are-a-lot-were-hiring-data-scientists-project-managers-policy-experts-assorted-weirdos/" target="_blank">Dominic Cummings's recent call for new Downing Street staff</a>: on the one hand, it gave a little insight into the machinations at the heart of the government complex; on the other, it illustrated rather nicely what happens when someone is so secure in their position that they can say what they really think.<br />
-<br />
-It got me wondering how a Head might advertise for teachers if they were unencumbered by the need for diplomacy (and had a bit more space than the typical TES ad allows!)<br />
-<br />
-Something like this, perhaps?<br />
-<br />
-There are many brilliant people working in education. But there are also some profound problems at the core of the educational establishment. Governments change shades at least every five years; Secretaries of State for Education more regularly than that. As a result, fads come and go, the wind changes this way and that, and schools are buffeted by a tidal wave of not-always-very-helpful advice.<br />
-<br />
-Survival in the system depends on being able to say the right thing at the right time. Above all, it depends on being able to jump through all the hoops whenever presented with a new inspection framework. In this system, those who put inspection and political manoeuvring before children thrive. It is also true that:<br />
+
+I was fascinated by <a href="https://dominiccummings.com/2020/01/02/two-hands-are-a-lot-were-hiring-data-scientists-project-managers-policy-experts-assorted-weirdos/" target="_blank">Dominic Cummings's recent call for new Downing Street staff</a>: on the one hand, it gave a little insight into the machinations at the heart of the government complex; on the other, it illustrated rather nicely what happens when someone is so secure in their position that they can say what they really think.<br/>
+<br/>
+It got me wondering how a Head might advertise for teachers if they were unencumbered by the need for diplomacy (and had a bit more space than the typical TES ad allows!)<br/>
+<br/>
+Something like this, perhaps?<br/>
+<br/>
+There are many brilliant people working in education. But there are also some profound problems at the core of the educational establishment. Governments change shades at least every five years; Secretaries of State for Education more regularly than that. As a result, fads come and go, the wind changes this way and that, and schools are buffeted by a tidal wave of not-always-very-helpful advice.<br/>
+<br/>
+Survival in the system depends on being able to say the right thing at the right time. Above all, it depends on being able to jump through all the hoops whenever presented with a new inspection framework. In this system, those who put inspection and political manoeuvring before children thrive. It is also true that:<br/>
 <blockquote class="tr_bq">
-<span style="font-size: x-small;"><span style="background-color: white; font-family: , , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;roboto&quot; , &quot;ubuntu&quot; , &quot;helvetica neue&quot; , sans-serif; white-space: pre-wrap;"><i>'</i></span><span style="background-color: white; font-family: , , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;roboto&quot; , &quot;ubuntu&quot; , &quot;helvetica neue&quot; , sans-serif; white-space: pre-wrap;"><i>Most of those with power in the English education system are much more interested in appearing to be ‘on the side of the poor and less able’ than they are in&nbsp;raising standards, so many policy debates are really just exercises in moral exhibitionism.</i> (<a href="https://dominiccummings.com/the-odyssean-project-2/" target="_blank">Cummings, 2014, online</a>).</span></span></blockquote>
-But there is a huge amount of low-hanging fruit - trillion-dollar bills lying on the street - in the intersection of:<br />
+<i>'</i><i>Most of those with power in the English education system are much more interested in appearing to be ‘on the side of the poor and less able’ than they are in raising standards, so many policy debates are really just exercises in moral exhibitionism.</i> (<a href="https://dominiccummings.com/the-odyssean-project-2/" target="_blank">Cummings, 2014, online</a>).</blockquote>
+But there is a huge amount of low-hanging fruit - trillion-dollar bills lying on the street - in the intersection of:<br/>
 <ol>
 <li>the in-house training of teachers and school leaders in <a href="https://www.ambition.org.uk/blog/2020-new-perspective-school-leadership/" target="_blank">domain-specific expertise</a></li>
 <li>putting what works in classrooms into practice widely</li>
@@ -23,9 +24,9 @@ But there is a huge amount of low-hanging fruit - trillion-dollar bills lying on
 <li>restoring order to all our schools by adopting the <a href="https://www.theguardian.com/education/2016/dec/30/no-excuses-inside-britains-strictest-school" target="_blank">practices of the best</a></li>
 <li>the elimination of wasteful/greedy educational administrators (there is no need, for example, for anyone in education in the UK, at whatever level, to be <a href="https://schoolsweek.co.uk/investigation-the-highs-and-occasional-lows-of-academy-ceo-pay/" target="_blank">paid more than the Prime Minister</a>)</li>
 </ol>
-We want to hire a set of teachers with different skills, backgrounds and subject expertise. We want to improve performance, reduce waste (financial and human) so that we provide the best education possible for the children in our care given the resource level society/the market has set for us.<br />
-<br />
-To work here, you should have the following:<br />
+We want to hire a set of teachers with different skills, backgrounds and subject expertise. We want to improve performance, reduce waste (financial and human) so that we provide the best education possible for the children in our care given the resource level society/the market has set for us.<br/>
+<br/>
+To work here, you should have the following:<br/>
 <ol>
 <li>A degree (I don't care where it's from - <a href="https://www.bbc.com/news/business-39653431" target="_blank">your personality if more important than your qualifications</a>, I also don't particularly mind whether you've got a PGCE or not - I'm most interested in how you interact with children and other staff and I'll be watching you do this when you come for interview).</li>
 <li>Expert subject knowledge - you need to know your subject inside out and take an ongoing interest in it outside of work.</li>
@@ -39,7 +40,7 @@ To work here, you should have the following:<br />
 <li>The sort of temperament that copes well with uncertainty and complexity - someone who looks for solutions rather than problems.</li>
 <li>'Magpie qualities' - insatiable searching, sifting and incorporating the best of what has been written, said or done into your own practice.</li>
 </ol>
-A couple of further things:<br />
+A couple of further things:<br/>
 <ol>
 <li>If you play office politics you'll be immediately binned (don't say I didn't warn you!)</li>
 <li>Wild cards and weirdos can have a lot to offer - we're a broad church. So if you think you fall into this category and you meet my other criteria, do apply. But you need to be a team player. If your excentricities prove toxic, you'll be binned (I've been transparent here. The health of the organisation is more important than your (or my) mortgage, I'm afraid).</li>

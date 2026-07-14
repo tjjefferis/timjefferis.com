@@ -4,15 +4,13 @@ title: "My three strengths as an educator...."
 date: 2014-09-18
 ---
 
-<span></span><br />
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://theinterviewguys.com/wp-content/uploads/2015/10/what-are-your-strengths.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="315" data-original-width="600" height="168" src="https://theinterviewguys.com/wp-content/uploads/2015/10/what-are-your-strengths.png" width="320" /></a></div>
-<div style="-en-clipboard: true; text-align: center;">
-<br /></div>
+<br/>
+<div class="separator">
+<a href="https://theinterviewguys.com/wp-content/uploads/2015/10/what-are-your-strengths.png" imageanchor="1"><img border="0" data-original-height="315" data-original-width="600" height="168" src="https://theinterviewguys.com/wp-content/uploads/2015/10/what-are-your-strengths.png" width="320"/></a></div>
+
 <div>
 Today's @TeachThought blogging challenge asks teachers to cast modesty aside and name their three biggest strengths.</div>
-<div>
-<br /></div>
+
 <div>
 Here are mine:</div>
 <div>

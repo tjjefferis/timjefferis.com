@@ -4,13 +4,12 @@ title: "Blogs I follow..."
 date: 2019-04-15
 ---
 
-<span></span><br />
-<div style="-en-clipboard: true;">
+<br/>
+<div>
 Someone asked me today for advice on what blogs to follow in the education world. I subscribe to blogs through <a href="https://feedly.com/">Feedly</a>, which presents a convenient way of keeping abreast of things in one place, and at my own leisure. Here are the ones I go to most frequently filed under things I consider to be 'work': Education and Productivity:</div>
+
 <div>
-<br /></div>
-<div>
-<span style="font-weight: bold;">Education</span></div>
+Education</div>
 <div>
 <a href="https://mrkempnz.com/">Mr Kemp NZ</a> - a fellow expat teacher, who shares some useful stuff around teaching and technology</div>
 <div>
@@ -37,17 +36,15 @@ Someone asked me today for advice on what blogs to follow in the education world
 <a href="https://schoolsweek.co.uk/">SchoolsWeek</a> - worth a look for the latest (UK-focused) goings=-on in education</div>
 <div>
 <a href="https://johntomsett.com/">John Tomsett</a> - wrote the most honest and practical <a href="https://www.amazon.co.uk/gp/product/1845909828/ref=s9_simh_gw_p14_d0_i1?pf_rd_m=A3P5ROKL5A1OLE&amp;pf_rd_s=desktop-1&amp;pf_rd_r=01DWBSVFB3AP3RE1WCZ4&amp;pf_rd_t=36701&amp;pf_rd_p=577048787&amp;pf_rd_i=desktop">book on school leadership</a> I have read. Always has sensible things to say.</div>
+
 <div>
-<br /></div>
-<div>
-<span style="font-weight: bold;">Productivity</span></div>
+Productivity</div>
 <div>
 <a href="http://calnewport.com/blog/">Cal Newport</a> - put that mobile phone away!</div>
 <div>
 <a href="https://dougbelshaw.com/blog/">Doug Belshaw</a> - I learn from this guy every single time I either listen to his podcast or read his blog. One of life's beacons. Unbelievably productive</div>
 <div>
 <a href="https://seths.blog/">Seth Godin</a> - one of those guys who trots out quotable aphorisms as though they were going out of fashion</div>
-<div>
-<br /></div>
+
 <div>
 I have hundreds of other blogs I follow in Feedly - too many really. But these are ones I'll tend to read when a new post appears.</div>

@@ -4,10 +4,10 @@ title: "Web-presence tips for schools"
 date: 2018-11-11
 ---
 
-<div style="text-align: center;">
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://cdn-images-1.medium.com/max/1600/1*vTp9xUO-KKu0jI55oRrMZA.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="400" data-original-width="760" height="168" src="https://cdn-images-1.medium.com/max/1600/1*vTp9xUO-KKu0jI55oRrMZA.png" width="320" /></a></div>
-<br /></div>
+<div>
+<div class="separator">
+<a href="https://cdn-images-1.medium.com/max/1600/1*vTp9xUO-KKu0jI55oRrMZA.png" imageanchor="1"><img border="0" data-original-height="400" data-original-width="760" height="168" src="https://cdn-images-1.medium.com/max/1600/1*vTp9xUO-KKu0jI55oRrMZA.png" width="320"/></a></div>
+<br/></div>
 <div>
 A few takeaways from the session on social media at the <a href="https://www.fobisia.org/page.cfm?p=971">Fobisia Leadership Conference 2018</a>:</div>
 <ol>
@@ -47,8 +47,6 @@ examination results</div>
 Social media platforms should drive traffic to your website in order to make sure that your website is used. If you post everything on social media and don't link back to your website, no one will look at your website anymore. Here's an example of the sort of post that drives traffic back to the main site:</div>
 </li>
 </ol>
-<div>
-<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="599" scrolling="no" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmoretonhall%2Fposts%2F2062686583796209&amp;width=500" style="border: none; overflow: hidden;" width="500"></iframe>
-</div>
-<br />
-<br />
+
+<br/>
+<br/>

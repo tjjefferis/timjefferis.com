@@ -4,21 +4,17 @@ title: "Blowing the lid off ISI integrated inspection"
 date: 2016-01-30
 ---
 
-<br />
-<div style="-en-clipboard: true; text-align: center;">
-</div>
+<br/>
+
 <div>
 I am writing this on Saturday 30 Jan, one day after the inspectors have left. Things are very fresh in my mind. For reasons of confidentiality though, I will only put this post in the public domain once our inspection report is also available for all to see. <a href="http://oswestryschool.org.uk/images/articles/news-and-events/school-news/Inspection/Oswestry_School_ISI_inspection_report_2016.pdf">It now is and can be viewed here.</a></div>
-<div>
-<br /></div>
+
 <div>
 I hope in writing this so soon after the event that my thoughts will be of some use to those other schools waiting for the call...</div>
-<div>
-<br /></div>
+
 <div>
 This has been an exhausting week; no matter how well prepared you are (and we were very well prepared, having been waiting since May 2007!) there is something rather unnerving about having people quiz you in such forensic detail, especially when they ask about things on which your professional identity hangs.</div>
-<div>
-<br /></div>
+
 <div>
 First of all a quick outline of the process, which followed these steps:</div>
 <ol>
@@ -29,7 +25,7 @@ The call came on Tuesday and the reporting inspector (RI) spoke directly to the 
 <a href="https://surveys.isi.net/">The questionnaire</a> was distributed to parents and pupils following this conversation by us.</div>
 </li>
 <li><div>
-Throughout the week there was then a flurry of telephone and e-mail conversations between the school and the RI. Fortunately, in our case,&nbsp;<a href="https://sites.google.com/a/oswestryschool.org.uk/policy-documents/">all our paperwork was online</a>. I had uploaded a letter with the relevant links to the ISI site sometime beforehand.</div>
+Throughout the week there was then a flurry of telephone and e-mail conversations between the school and the RI. Fortunately, in our case, <a href="https://sites.google.com/a/oswestryschool.org.uk/policy-documents/">all our paperwork was online</a>. I had uploaded a letter with the relevant links to the ISI site sometime beforehand.</div>
 </li>
 <li><div>
 On Friday afternoon I had a telephone conversation with the RI about the logistics and the programme. We elected to convert the Word document he provided us into a Google document. This was in an attempt to have a single canonical document for the goings-on in the inspection week, one that was always current and reflected the inevitable changes that need to take place in a week of such complexity. The document we used (which I crossed out which much delight as the days went by!) <a href="https://docs.google.com/a/oswestryschool.org.uk/document/d/10SzdE2gdIRx74O5HjsJSzM30FFms-Zlx4vfgdov5c0E/edit?usp=sharing">is here</a>.</div>
@@ -62,7 +58,7 @@ Every evening there was an opportunity to meet with the RI and chat about the in
 As the inspection drew to a close things became rather secretive, with the door to the inspection room remaining firmly closed and communication dropping off. This was a little disconcerting, but with hindsight, the inspectors had a lot to write up at this stage and so we need not have read anything into their evasiveness.</div>
 </li>
 <li><div>
-The week came to a close on Friday afternoon with the RI convening a meeting attended by all the SMT and several representatives from the governing body. The RI set out the context of this meeting and then the various sections of the report were read out by the different inspectors responsible for each bit. ISI inspection reports do not deliver an overall judgment but are split into nine sections each of which has its own judgement.&nbsp; The judgement is read out in each case, followed by the text of the (as yet provisional) report. After this meeting, we took the liberty of comparing our judgements with local competitors and <a href="https://docs.google.com/spreadsheets/d/19QuixRMRlyvEpTv27xke0MQAHvgpCwEvyk3-qqluTCY/edit#gid=0">compiled a list.</a> At this meeting discussion is invited about the wording of the report, but not about the judgements themselves. As Bill Burn, our RI, explained the judgements represent the corporate view of the inspection team.</div>
+The week came to a close on Friday afternoon with the RI convening a meeting attended by all the SMT and several representatives from the governing body. The RI set out the context of this meeting and then the various sections of the report were read out by the different inspectors responsible for each bit. ISI inspection reports do not deliver an overall judgment but are split into nine sections each of which has its own judgement.  The judgement is read out in each case, followed by the text of the (as yet provisional) report. After this meeting, we took the liberty of comparing our judgements with local competitors and <a href="https://docs.google.com/spreadsheets/d/19QuixRMRlyvEpTv27xke0MQAHvgpCwEvyk3-qqluTCY/edit#gid=0">compiled a list.</a> At this meeting discussion is invited about the wording of the report, but not about the judgements themselves. As Bill Burn, our RI, explained the judgements represent the corporate view of the inspection team.</div>
 </li>
 </ol>
 <div>
@@ -75,7 +71,7 @@ Base your safeguarding policy on the ISI template - and get it checked by a repo
 Do the statutory things ruthlessly - if anyone works in your school with children they must have done the checks, no exceptions, no sloppiness. I have seen and heard of very good schools drop the ball in this area. It's tough, and sad in a way that it has to be like this, but there's no use moaning. Get an inflexible stickler for detail overseeing your single central register, give him or her adequate time, and let them loose.</div>
 </li>
 <li><div>
-Get the questionnaire answered by ALL the pupils if you can - it will give the inspectors much more representative results. The danger of making it voluntary is that the (hopefully few!) disaffected voices will feature disproportionately and you'll end up with annoying phrases like: '..a significant number of pupils told us via the questionnaire that they were dissatisfied X. However the inspectors found no evidence to substantiate these criticisms during the inspection...')&nbsp; N.B. ISI, quite rightly, warns against any suggestion of coercion in this area so be careful - but if you are too relaxed about getting people to fill it in, most won't. Get the balance right - you'll be glad you did when the results come in.</div>
+Get the questionnaire answered by ALL the pupils if you can - it will give the inspectors much more representative results. The danger of making it voluntary is that the (hopefully few!) disaffected voices will feature disproportionately and you'll end up with annoying phrases like: '..a significant number of pupils told us via the questionnaire that they were dissatisfied X. However the inspectors found no evidence to substantiate these criticisms during the inspection...')  N.B. ISI, quite rightly, warns against any suggestion of coercion in this area so be careful - but if you are too relaxed about getting people to fill it in, most won't. Get the balance right - you'll be glad you did when the results come in.</div>
 </li>
 <li><div>
 In the letter that you send out to parents asking them to fill in the inspectors' questionnaire flag up (gently) that they will be doing you a favour. Parents with an axe to grind will fill it in anyway, but you want the voice of the contented majority to come through forcefully. If you don't flag this to parents you'll be surprised how many perfectly content parents don't bother to fill it in. Again, make sure that you don't fall foul of ISI guidance on this issue - there must be no suggestion of coercion.</div>
@@ -109,19 +105,16 @@ Inspection is a grim and serious business but you don't have to be - I had in my
 </li>
 </ol>
 <div>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Being serious is not the mark of a professional. Doing a good job is. Damn right! This week&#39;s TIDE nugget from <a href="https://twitter.com/dajbelshaw?ref_src=twsrc%5Etfw">@dajbelshaw</a> and <a href="https://twitter.com/daibarnes?ref_src=twsrc%5Etfw">@daibarnes</a></p>&mdash; Tim Jefferis (@tjjteacher) <a href="https://twitter.com/tjjteacher/status/691744151558328320?ref_src=twsrc%5Etfw">January 25, 2016</a></blockquote> 
+<blockquote class="twitter-tweet"><p dir="ltr" lang="en">Being serious is not the mark of a professional. Doing a good job is. Damn right! This week's TIDE nugget from <a href="https://twitter.com/dajbelshaw?ref_src=twsrc%5Etfw">@dajbelshaw</a> and <a href="https://twitter.com/daibarnes?ref_src=twsrc%5Etfw">@daibarnes</a></p>— Tim Jefferis (@tjjteacher) <a href="https://twitter.com/tjjteacher/status/691744151558328320?ref_src=twsrc%5Etfw">January 25, 2016</a></blockquote>
 </div>
-<div>
-<br /></div>
+
 <div>
 I raise this point because just once during the inspection process I had dealings with an inspector who was joyless and unnecessarily officious. This particular inspector was needlessly brusque to support staff and combative in questioning staff about their roles. Happily, she/he was the exception that proved the rule - the rest of the team were unfailingly courteous and unafraid to leaven conversations with humour. In the unlikely event that the offending inspector is reading this, take note: being dour and serious is not a mark of professionalism.</div>
+
 <div>
-<br /></div>
-<div>
-<span style="font-weight: bold;">Final thoughts</span></div>
+Final thoughts</div>
 <div>
 Although I've been through inspections several times before, this was the first inspection I've been through where I've had such direct, up-close involvement. I had feared clip-board wielding lunatics with an eye for legislative detail, but not much else but happily there were none. In fact I was mightily impressed by the whole process. The inspectors were thorough, demanding but courteous. It is enormously reassuring that the inspectors themselves are teachers, with direct and recent experience of what it's really like to run a school on a day-to-day basis. And when all is said and done we are very pleased with the judgements handed down - they reflect accurately the strengths and weaknesses we can see in ourselves and give us things to work on going forward.</div>
-<div>
-<a href="https://www.blogger.com/blogger.g?blogID=9145285415158126914" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"></a><br /></div>
+
 <div>
 #enormoussenseofrelief</div>

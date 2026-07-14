@@ -4,23 +4,19 @@ title: "Getting ready for UCAS"
 date: 2014-04-17
 ---
 
-<div style="-en-clipboard: true; text-align: center;">
-</div>
+
+
 <div>
-<br clear="none" /></div>
-<div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/UCAS_logo.svg/1200px-UCAS_logo.svg.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="267" data-original-width="800" height="106" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/UCAS_logo.svg/1200px-UCAS_logo.svg.png" width="320" /></a></div>
-<br />
+<div class="separator">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/UCAS_logo.svg/1200px-UCAS_logo.svg.png" imageanchor="1"><img border="0" data-original-height="267" data-original-width="800" height="106" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/UCAS_logo.svg/1200px-UCAS_logo.svg.png" width="320"/></a></div>
+<br/>
 Now seems as good a time as any to discuss what we do at Oswestry in terms of getting ready for the new round of UCAS applications. The golden rule is:</div>
+
 <div>
-<br clear="none" /></div>
-<div style="text-align: center;">
 "Do as much as you can this term - it will make the hectic autumn term much, much easier...!"</div>
+
 <div>
-<br clear="none" /></div>
-<div>
-<span style="font-weight: bold;">So what do I advise?</span></div>
+So what do I advise?</div>
 <ul>
 <li><div>
 Send out letters early explaining what you will be doing. Make sure parents and pupils are aware that they will be back in lessons after their exams (our L6th came back this morning). Advertise the last three weeks of the summer term as a good time to go off on open days (far better than missing teaching during the all-important first few weeks of the new academic year).</div>
@@ -31,16 +27,16 @@ Get all the L6th together on the morning of their return to brief them on the la
 <li><div>
 Set up a UCAS day. Get them all off timetable for a day - yes a whole day. Get the L6th tutors off timetable too, you need them supporting you all the way. Book an outside speaker if you can, so that it's not all from you, but make sure most of the day is led and managed by you. The presentation used at Oswestry <a href="https://docs.google.com/presentation/d/1C-WiXmyImT2L8HqNaTtAKHwDHuAPzqO33FX8J38_1Dk/edit?usp=sharing" shape="rect" target="_blank">is here</a>. None of them should leave without having:</div>
 </li>
-<li style="margin-left: 60px;"><div>
+<li><div>
 logged on to UCAS and got a username</div>
 </li>
-<li style="margin-left: 60px;"><div>
+<li><div>
 entered all their biographical information</div>
 </li>
-<li style="margin-left: 60px;"><div>
+<li><div>
 entered their exam results (have a list of the school's exam boards to hand, they never know them themselves!)</div>
 </li>
-<li style="margin-left: 60px;"><div>
+<li><div>
 made a purposeful start on their UCAS statements</div>
 </li>
 <li><div>
@@ -48,12 +44,10 @@ Wrap the day up with an e-mail/letter to parents explaining what you have done. 
 </li>
 </ul>
 <div>
-<span style="font-weight: bold;">Predicted Grades</span></div>
-<div style="margin-left: 30px;">
-These can be a minefield. At Oswestry, we issue 'working grades' at the end of every term so we tell the pupils to use their last (Spring) working grade as a guide for now as to where they might get into. Proper working grades, made in the light of the AS results, are given to the pupils at the start of the autumn term. Inevitably there is pressure to alter them - resist this as much as you can, not doing so can end in needless heartache and faffing around in clearing in late August. If you do decide to give in, always make your decision conditional on something that they do: a better mark in the next test, good reports from teacher x, no late or missing work for the next 2 weeks etc....</div>
+Predicted Grades</div>
 <div>
-<br clear="none" /></div>
+These can be a minefield. At Oswestry, we issue 'working grades' at the end of every term so we tell the pupils to use their last (Spring) working grade as a guide for now as to where they might get into. Proper working grades, made in the light of the AS results, are given to the pupils at the start of the autumn term. Inevitably there is pressure to alter them - resist this as much as you can, not doing so can end in needless heartache and faffing around in clearing in late August. If you do decide to give in, always make your decision conditional on something that they do: a better mark in the next test, good reports from teacher x, no late or missing work for the next 2 weeks etc....</div>
+
 <div>
 Anyway, for what it's worth, that's what we do here. The key things is that little bit of preparation this term, really can go a long way.</div>
-<div>
-<br /></div>
+
