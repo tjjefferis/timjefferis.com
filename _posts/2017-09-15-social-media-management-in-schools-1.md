@@ -17,13 +17,13 @@ date: 2017-09-15
 <div dir="ltr" lang="en">
 The Easter Bunny won’t be the only busy one this April! Essential work is taking place across our network over Easter weekend. Euston will be closed &amp; journeys will be longer during this time. We’d recommend avoiding travel where possible. More info here: <a href="https://t.co/C5eHsGBOdE">https://t.co/C5eHsGBOdE</a> <a href="https://t.co/10Dc5m85cu">pic.twitter.com/10Dc5m85cu</a></div>
 — Virgin Trains (@VirginTrains) <a href="https://twitter.com/VirginTrains/status/1108080704615649281?ref_src=twsrc%5Etfw">March 19, 2019</a></blockquote>
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
 
 <br />
 <div style="text-align: center;">
 </div>
 </div>
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
 
 <br />
 <div>
@@ -36,7 +36,7 @@ The Easter Bunny won’t be the only busy one this April! Essential work is taki
 <div dir="ltr" lang="en">
 Use TweetDeck to combine the mentions for all of your accounts into one stream that you can keep your eye on. Works for Direct Messages too! <a href="https://t.co/8eKB5tLXUJ">https://t.co/8eKB5tLXUJ</a></div>
 — TweetDeck (@TweetDeck) <a href="https://twitter.com/TweetDeck/status/1110259394443427841?ref_src=twsrc%5Etfw">March 25, 2019</a></blockquote>
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div>
+</div>
 <div style="border: none; margin: 0px 0px 0px 40px; padding: 0px;">
 <ul>
 <li><span style="line-height: 1.45;">Another great tool is</span> <a href="https://buffer.com/app" style="line-height: 1.45;">Buffer</a><span style="line-height: 1.45;">. Even with the free version you can queue up a decent number of posts and drip feed your followers news throughout the day, even when you're not at your desk.</span></li>
@@ -50,7 +50,7 @@ Use TweetDeck to combine the mentions for all of your accounts into one stream t
 <div dir="ltr" lang="en">
 This is true. It's why it really helps to teach in one place and not have dash from building to building carrying handfuls of books whilst kids champ at the bit waiting for you to arrive. School architects - it's worth the extra cost! <a href="https://t.co/BZhmlroPb4">https://t.co/BZhmlroPb4</a></div>
 — Tim Jefferis (@tjjteacher) <a href="https://twitter.com/tjjteacher/status/1116643604368220161?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
 </div>
 <ul>
 <li><div>

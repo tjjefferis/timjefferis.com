@@ -12,7 +12,7 @@ The #TeachMeet went fantastically well with some great presentations and that un
 <div dir="ltr" lang="en">
 Great to share excellent teaching practice at <a href="https://twitter.com/hashtag/ostm?src=hash&amp;ref_src=twsrc%5Etfw">#ostm</a> and of course drink wine and win the raffle! <a href="https://twitter.com/OswestrySchool?ref_src=twsrc%5Etfw">@OswestrySchool</a></div>
 — Sarah Liddell (@MsLiddell) <a href="https://twitter.com/MsLiddell/status/593486893729378305?ref_src=twsrc%5Etfw">April 29, 2015</a></blockquote>
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
 </div>
 <div>
 This little post will act as a repository for all the various presenters' presentations so that those who were in attendance (as well as those who weren't!) can see what was covered. The presentations are linked to the speaker names below:</div>

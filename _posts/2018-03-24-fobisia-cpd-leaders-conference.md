@@ -36,7 +36,7 @@ date: 2018-03-24
 <div dir="ltr" lang="en">
 ‘Just walk around the room and introduce yourself,’ he said. ‘But don’t use words.’ &lt; Ugh... insufferable. <a href="https://t.co/C8POxMeYQs">https://t.co/C8POxMeYQs</a></div>
 — Carl Hendrick (@C_Hendrick) <a href="https://twitter.com/C_Hendrick/status/939441890675617792?ref_src=twsrc%5Etfw">December 9, 2017</a></blockquote>
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
 
 <div style="margin: 0mm 0mm 2.81mm; text-indent: 0mm;">
 <span style="color: #010101; font-family: &quot;calibri&quot;; font-size: 11pt; line-height: 108%; text-indent: 0mm;">Perhaps there wasn't time, but uncritical discussion of:</span></div>
@@ -77,7 +77,7 @@ date: 2018-03-24
 <div dir="ltr" lang="en">
 <a href="https://twitter.com/DrChips_?ref_src=twsrc%5Etfw">@DrChips_</a> Example of really big mistake: calling formative assessment formative assessment rather than something like "responsive teaching"</div>
 — Dylan Wiliam (@dylanwiliam) <a href="https://twitter.com/dylanwiliam/status/393045049337847808?ref_src=twsrc%5Etfw">October 23, 2013</a></blockquote>
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
 </div>
 <div style="margin: 0mm 0mm 2.81mm; text-indent: 0mm;">
 <span style="color: #010101; font-family: &quot;calibri&quot;; font-size: 11pt; line-height: 108%; text-indent: 0mm;">And rubbing shoulders with other people in the same line of work, making contacts and comparing notes was, as always, extremely valuable. A weekend well spent.</span></div>

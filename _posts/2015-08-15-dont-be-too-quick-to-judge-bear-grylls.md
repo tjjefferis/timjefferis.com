@@ -13,7 +13,7 @@ Last week it was reported that the great British adventurer, Bear Grylls, had ca
 <div dir="ltr" lang="en">
 RNLI slams Bear Grylls leaving son on rocks off Abersoch <a href="http://t.co/EYDuAE0Ad1">http://t.co/EYDuAE0Ad1</a> &gt; What an <a href="https://twitter.com/hashtag/Idiot?src=hash">#Idiot</a>!!</div>
 — Geri Lloyd-Jones (@scheuy12) <a href="https://twitter.com/scheuy12/status/630450695288786944">August 9, 2015</a></blockquote>
-<script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script>
+
 
 Whatever the ins and outs of this particular case, Bear Grylls is quite right to point out that most of us are way, way too protective of our children these days. As a teacher, looking after other people's children, I realise it's not my place to be too cavalier about their safety, but with my own children, it's a different matter... And so it should be with all parents.
 

@@ -34,9 +34,8 @@ date: 2015-12-22
 <div dir="ltr" lang="en">
 <span style="font-family: inherit;">“when it gets down to brass tacks computing nothing beats a good Windows laptop.” <a href="https://t.co/YvB0TZ8O5Z">https://t.co/YvB0TZ8O5Z</a></span></div>
 <span style="font-family: inherit;">— Tim Jefferis (@tjjteacher) <a href="https://twitter.com/tjjteacher/status/664652375521652737?ref_src=twsrc%5Etfw">November 12, 2015</a></span></blockquote>
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
 </div>
 </div>
 <blockquote class="twitter-tweet" lang="en">
 </blockquote>
-<script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script>

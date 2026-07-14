@@ -14,4 +14,4 @@ This is not to say that staff haven't expected to work hard, and for long hours 
 <div dir="ltr" lang="en">
 This, from Jonty Driver, is good. What makes a professional: <a href="https://t.co/BrDuKXhXgh">pic.twitter.com/BrDuKXhXgh</a></div>
 — Tim Jefferis (@tjjteacher) <a href="https://twitter.com/tjjteacher/status/775711899405127680?ref_src=twsrc%5Etfw">September 13, 2016</a></blockquote>
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+

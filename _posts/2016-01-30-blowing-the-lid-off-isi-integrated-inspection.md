@@ -109,7 +109,7 @@ Inspection is a grim and serious business but you don't have to be - I had in my
 </li>
 </ol>
 <div>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Being serious is not the mark of a professional. Doing a good job is. Damn right! This week&#39;s TIDE nugget from <a href="https://twitter.com/dajbelshaw?ref_src=twsrc%5Etfw">@dajbelshaw</a> and <a href="https://twitter.com/daibarnes?ref_src=twsrc%5Etfw">@daibarnes</a></p>&mdash; Tim Jefferis (@tjjteacher) <a href="https://twitter.com/tjjteacher/status/691744151558328320?ref_src=twsrc%5Etfw">January 25, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Being serious is not the mark of a professional. Doing a good job is. Damn right! This week&#39;s TIDE nugget from <a href="https://twitter.com/dajbelshaw?ref_src=twsrc%5Etfw">@dajbelshaw</a> and <a href="https://twitter.com/daibarnes?ref_src=twsrc%5Etfw">@daibarnes</a></p>&mdash; Tim Jefferis (@tjjteacher) <a href="https://twitter.com/tjjteacher/status/691744151558328320?ref_src=twsrc%5Etfw">January 25, 2016</a></blockquote> 
 </div>
 <div>
 <br /></div>

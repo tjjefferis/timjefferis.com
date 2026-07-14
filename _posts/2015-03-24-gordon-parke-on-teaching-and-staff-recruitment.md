@@ -9,7 +9,7 @@ date: 2015-03-24
 Thank you to everyone who attend OW day. Fantastic to see old and current Headmasters together again. <a href="http://t.co/pQP0YQJltQ">pic.twitter.com/pQP0YQJltQ</a><br />
 <blockquote class="twitter-tweet">
 — Great Walstead (@greatwalstead) <a href="https://twitter.com/greatwalstead/status/481368324098756608?ref_src=twsrc%5Etfw">June 24, 2014</a></blockquote>
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
 </div>
 <div>
 I noticed to my delight the other day that my old prep school headmaster - Gordon Parke - whom I thought impossibly old even way back in the mid-1980s is still alive (or at least was as recently as summer 2014 as the tweet above shows).</div>

@@ -22,7 +22,7 @@ I realise that most people don't care:</div>
 <div dir="ltr" lang="en">
 When people announce they are 'signing off for Christmas' on Twitter. <a href="https://t.co/UYnpNElBjc">pic.twitter.com/UYnpNElBjc</a></div>
 — Carl Hendrick (@C_Hendrick) <a href="https://twitter.com/C_Hendrick/status/1077114944125050886?ref_src=twsrc%5Etfw">December 24, 2018</a></blockquote>
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
 
 <div>
 <br /></div>

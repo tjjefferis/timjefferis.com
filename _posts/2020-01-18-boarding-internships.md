@@ -28,7 +28,7 @@ advertisements like this one:</span></div>
 <div dir="ltr" lang="en">
 Fancy this? Please RT or pass on if you know someone who might... <a href="https://t.co/sNYoLpZkMB">pic.twitter.com/sNYoLpZkMB</a></div>
 — Tim Jefferis (@tjjteacher) <a href="https://twitter.com/tjjteacher/status/1179244600030044166?ref_src=twsrc%5Etfw">October 2, 2019</a></blockquote>
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
 
  
 </div>
