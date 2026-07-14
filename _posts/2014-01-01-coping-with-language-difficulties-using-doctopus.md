@@ -14,6 +14,9 @@ I wanted to explore whether technology could be brought to bear - particularly i
 
 I found just such a thing in the shape of a GoogleApps script called Doctopus.
 
+<!--more-->
+
+
 Having seen overseas pupils struggle to keep up in class, frantically translating each new word into their own tongue and scrawling annotations over worksheets and textbooks it occurred to me that Doctopus could be used to produce custom made worksheets for each nationality.
 
 Here's what needs to be done.

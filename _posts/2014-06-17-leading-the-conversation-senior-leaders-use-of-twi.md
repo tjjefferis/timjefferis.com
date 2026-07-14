@@ -14,6 +14,9 @@ For senior leaders, doing jobs that have traditionally been isolating, the poten
 
 In view of its explosive, democratising power I have decided to make Twitter the focus of my EdD thesis. Having been following Birmingham University's EdD in Leaders and Leadership since September 2011 and having completed the two taught years of the course, I am now embarking on the research element.
 
+<!--more-->
+
+
 I have framed a series of research questions and intend to follow as many senior school leaders as I can on Twitter to analyse what is being said and how the medium is being used.
 
 Of course, in the spirit of Twitter, I don't expect the traffic to be all one way and will periodically be posting updates on my findings. Interacting with the very thing I'm investigating in this way poses some interesting dilemmas about possible Hawthorn effects which I'm sure will keep me busy when I come to writing up!

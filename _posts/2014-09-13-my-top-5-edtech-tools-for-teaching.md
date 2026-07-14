@@ -22,6 +22,9 @@ Today's @teachthought 30-day blogging challenge asks bloggers to list their to E
 </li>
 <li>
 <a href="http://www.gapminder.org/">Gapminder</a> - One for geographers, this. An invaluable tool for comparing nations. I haven't pointed pupils to the back of a paper atlas for years...
+
+<!--more-->
+
 </li>
 <li>
 <a href="http://www.census.gov/population/international/data/idb/informationGateway.php">IDB population pyramids</a> - Another one for geographers. Population pyramids for any country you like now, in the past and in the future. How did we ever manage beforehand?
@@ -31,4 +34,3 @@ Today's @teachthought 30-day blogging challenge asks bloggers to list their to E
 Bonus:
 
 <a href="http://mapfight.appspot.com/">Mapfight</a> - Couldn't resist this, which I stumbled across a little while ago. It's a bit of fun and a great way to introduce a new country to a group.
-

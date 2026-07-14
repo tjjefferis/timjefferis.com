@@ -16,9 +16,11 @@ And as I'm <a href="https://longrideforrainbow.blogspot.com/2020/03/caveat-empto
 
 Equally, there are lots of things that I've tweeted in the nine years since I first got an account that I still hold to be true - passionately so in some cases. Sometimes these are things that other perfectly pleasant and normal people take exception to - we just happen to hold different views. I also recognise in myself a propensity for slipping into an avuncular style which leaves plenty of potential for people to get the wrong end of the stick. And because people can hide behind the anonymity of their screens things can get ugly pretty quickly, even with those purportedly looking for intelligent debate. Then, of course, there are those - growing in number, sadly - trawling timelines looking for things to take issue with. Like most people who've been on Twitter for a while, I bear the scars of the odd <a href="https://www.urbandictionary.com/define.php?term=dogpile" target="_blank">dogpile</a>.
 
+<!--more-->
+
+
 Even amongst my own friends, I've found that social media affords an intrusive level of insight into opinions that have the potential to sour relationships. Evidently, there's a degree of <a href="https://draft.blogger.com/blog/post/edit/9145285415158126914/5615201563864662453">assortative mixing</a> with friends. But by and large, friendships shouldn't be contingent on political alignment. Prior to the share-all imperative of social media, we were all blissfully unaware of the things about which we disagreed and we got on just fine.
 
 That's how I want it to be for people who don't know me but who might look up me up the internet, so I've used <a href="https://twitwipe.com/dashboard#" target="_blank">TwitWipe</a> to delete all my tweets. I can't remember the last time I searched my own timeline for something useful(!) so I doubt I'll miss my tweets much.<o:p></o:p>
 
 I plan to continue engaging with Twitter (it's still such a useful source of professional information) but I'll keep my timeline 'well-trimmed' to ensure that people intent on taking offence find absolutely nothing to enrage them. After all, we might find common ground despite differing views on the price of fish :-)<o:p></o:p>
-

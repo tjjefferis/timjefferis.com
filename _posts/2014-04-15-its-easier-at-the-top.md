@@ -19,6 +19,9 @@ It all came flooding back: the energy-sapping physical, emotional and procedural
 
 When I was a housemaster, I remember reading <a href="https://drive.google.com/file/d/0B5yekSQQ3RwPb05XYXhqMThBZUE/edit?usp=sharing">Stephen Winkley's parting shot</a> on the life of a head in which he confides that: "One of the first things I discovered when I moved from Housemastering to Headship was that Heads can go to bed early." At the time I thought he simply indulging in a bit of self-deprecation, but now I'm closer to the throne myself, I'm not so sure...
 
+<!--more-->
+
+
 You see being one step removed from the front line makes a big difference. This was brought home to me by the way the three troublesome lads entered my study. They were meek, mild, apologetic; even a little embarrassed. This had nothing, I must stress, to do with their particular reverence for me. At least two of them, being new to the school, hardly knew who I was. No, it had to do with the fact that I was dealing with things remotely, after the event.
 
 The housemaster had had to deal with things in all their messy immediacy. I, on the other hand, had the luxury of becoming involved when things had simmered down. The meeting took place in my office - significant in itself as a place removed from the tension of all that had gone before. They were brought to me, came into my space as 'guests' and, having the social graces that all but the most disturbed are able to draw on, they behaved accordingly.

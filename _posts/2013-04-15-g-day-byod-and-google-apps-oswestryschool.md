@@ -14,6 +14,9 @@ The way we communicate has changed too - gone are bits of paper filtered through
 
 Converting to Google has resulted in a huge increase in our ability to collect and disseminate information about pupils, and get their opinions. We regularly use Google forms to elicit pupil feedback on food, accommodation and teaching - often anonymized to encourage candour. We also use Google forms to collect data from 'mentor meetings', our attempt to replicate the one-to-one tutorials that are a feature of Oxbridge colleges and some of the more expensive boarding schools in the country. Teachers meet with their mentees twice a term and record the contents of their discussions on a Google form. The form changes each session, depending on the particular focus we want to place on issues at key points in the calendar. We also have a 'flag for immediate SMT action' option on the form so that senior managers can be alerted if the mentor discussion uncovers something that can't wait before it's dealt with.
 
+<!--more-->
+
+
 And what of BYOD? Well, we started gently by rolling it out only for Year 10 and above. <a href="https://docs.google.com/document/d/1t8VJpVH6wYbbP2x27h3IimSEr3htK8NvAllP08Bzipk/edit?usp=sharing" shape="rect" target="_blank">This is a copy</a> of the letter we sent to parents. In the event, no parents or pupils chose to take us up on our offer to buy suitable devices centrally, but all pupils in that top part of the school are now equipped with their own device, all with keyboards for better content creation.
 
 Our new wireless network has generally been more than up to the task of serving the demands of pupils and teachers. We block Facebook during the day and sites like YouTube during breaks and lunchtime, but other than that we have a fairly liberal approach to filtering, believing it better to let pupils get used to managing their own time online.
@@ -31,4 +34,3 @@ As I've explained <a href="http://tjj.postach.io/realtimeboard-an-analysis-of-t
 <li>Have a robust ICT policy that covers all basis: social networks, cyberbullying, proper use of the school's networks etc. Ours is <a href="https://docs.google.com/a/oswestryschool.org.uk/document/d/1IZGRd4wingCy5C3eftc-BiKQzMIUpkZ5JD6piTJHxWk/edit#" shape="rect" target="_blank">here</a> (but already could do with updating).</li>
 <li>Steel yourself for the fact that no matter how robust your network, you'll still get kids connecting to the internet via 3G/4G!</li>
 </ol>
-

@@ -14,4 +14,7 @@ In the past, when I've been introduced as 'my head of geography' or 'my deputy' 
 
 Heads, please, if you must introduce staff by their title use: 'the head of geography', 'the director or IT'. To do otherwise is to elevate yourself to a status that is not yours.
 
+<!--more-->
+
+
 Have the humility to accept that, just like the rest of us, you are a salaried employee, whose tenure will end, working in the service of an institution that will likely long outlast you.

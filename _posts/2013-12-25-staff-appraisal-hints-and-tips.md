@@ -14,6 +14,9 @@ Having been on the receiving end of several appraisal systems (both good and bad
 Firstly let me set my stall out clearly against the pernicious target culture which has infected some much of the modern workplace and has had disastrous unintended consequences in some cases. Schools deal with human beings, not with sales figures or spreadsheets. Any attempt to persuade people otherwise - however well-meaning - must be robustly repudiated. That said, the era in which teachers could close their classroom doors and expect to be left to their own devices throughout a 40-year career has, quite rightly, come to an end.
 
 But appraisal in schools is still fraught with difficulty:
+
+<!--more-->
+
 <ol>
 <li>
 how do school leaders accurately and fairly measure teacher performance?
@@ -112,4 +115,3 @@ Often hard to do when focusing on the nebulous aspects of most teacher's jobs,
 Set review dates
 
 Appraisal is not supposed to be merely a once a year chore. Have regular review sessions say once a term – they don’t need to take long but they will much improve the overall process and make the formal once a year session much easier.
-

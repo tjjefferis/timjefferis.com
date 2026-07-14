@@ -16,6 +16,9 @@ Your love of sport also took root during your school days. You played rugby for 
 
 After school, you headed off to Edinburgh University to read Economics and Politics. Headmastering was far in the future and you had a wild time. Your love of sport and of socialising found its outlet in your role as President of Edinburgh University Rugby Club. Whilst a student your connection with Africa and with Zimbabwe, in particular, took root. You took it upon yourself to cycle/hitchhike the 2500km from Nairobi to Harare making it all the way AND taking in a successful climb of Kilimanjaro on the way. After university the lure of Africa proved irresistible and you returned to Harare to teach at Prince Edwards school - the school now linked so strongly and successfully with Oswestry.
 
+<!--more-->
+
+
 Up to this point, life had been a breeze - you had collected academic and sporting accolades effortlessly and enjoyed robust good health - but here you encountered your first major setback. A motorbike accident in Harare resulted in a terribly damaged leg and the onset of septicemia. You were evacuated to Sydney where your parents were staying with your sister at the time - the Robbs are adventurous people. You won’t like the pop psychology I’m about to indulge in now, but it’s quite possible that battling against that terrible infection honed the steely grit that you’ve needed to draw on some times at Oswestry. There have been difficult, unpopular decisions to make - decisions that have required perseverance and a great deal of self-belief - no one can ever accuse you of timidity or indecision. We’re going to miss that hugely when you leave.
 
 The senior management team got a bit of an insight into this at the meal that had been laid on for the three shortlisted candidates to succeed you. As we walked into the bar at the Sweeney hotel the elephant, quite literally wasn’t in the room. It felt odd. The person who always has an answer or an opinion wasn’t there - all of us commented on how it made us feel vulnerable and exposed.
@@ -33,4 +36,3 @@ Just before I came into the marquee I received a call from Johnny Hammond-Chambe
 Bramston faces onto the market square at Oundle and things could get a bit rowdy at the weekends. Your ability to scare off hordes of drunken locals with a cricket bat - sometimes dressed only in boxer shorts - speaks volumes about the presence and authority you command.
 
 But you’re an ambitious sort and so it’s not surprising that after 10 years Oundle could constrain you no more and you came to Oswestry. We’re very glad you did…
-

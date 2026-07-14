@@ -16,6 +16,9 @@ Prevention is better than cure. Disciplinary incidents happen in every school,
 </li>
 <li>
 Timely reminders. Both pupils and staff need to be reminded periodically - at least once a year -  about offences that will leave you with no choice but to get out the big guns. Doing this makes it much easier to make difficult decisions when the time comes.
+
+<!--more-->
+
 </li>
 <li>
 Check your paperwork. Good policies legally checked and watertight help enormously when unpicking thorny disciplinary cases. It is worth also documenting how such incidents will be dealt with including details of how evidence will be gathered, how interviews will be carried out, the possibility of the need to segregate pupils and temporarily remove mobile phones.

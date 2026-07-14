@@ -14,6 +14,9 @@ However, the broader educational landscape is rarely uniform. At various points,
 
 <b data-index-in-node="0" data-path-to-node="6,0,0">Boundary Testing:</b> Defiance, aggression, and a casual approach to uniform standards.
 
+<!--more-->
+
+
 </li><li>
 
 <b data-index-in-node="0" data-path-to-node="6,1,0">Presence Issues:</b> Endemic absenteeism and the internal "truancy" of wandering corridors.

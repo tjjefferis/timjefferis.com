@@ -13,3 +13,5 @@ This is day 4 of the @teachthought 30-day blogging challenge. This time the task
 For me this is easy - it's the day-to-day interactions with pupils. In no other job do you get to rub shoulders on a daily basis with people in the flower of youth. They are wonderfully devoid of cynicism and full of hope.
 
 A particular privilege of mine in my current role is to meet with all the pupils in the school who are filling out their UCAS forms prior to heading off to university. It's hard work, but the rewards are great. These pupils are on the verge of adulthood. They all have incredible stories to tell and are all wonderfully different. I love hearing from them what their plans are for the future, what they have done with their lives so far. And I often feel a pang of jealousy as they head off to pastures new, to study fascinating subjects, make new friends and forge a path for themselves in the world. To be able to advise and encourage at this important juncture in their lives - one that is likely to determine the course of their career for decades to come - is very special.
+
+<!--more-->

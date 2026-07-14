@@ -14,6 +14,9 @@ So what do I advise?
 <ul>
 <li>
 Send out letters early explaining what you will be doing. Make sure parents and pupils are aware that they will be back in lessons after their exams (our L6th came back this morning). Advertise the last three weeks of the summer term as a good time to go off on open days (far better than missing teaching during the all-important first few weeks of the new academic year).
+
+<!--more-->
+
 </li>
 <li>
 Get all the L6th together on the morning of their return to brief them on the last few weeks of term. Head off the old chestnuts before they emerge: "Yes you DO all have to go to all lessons, even if you're planning on dropping a subject. You never know what might happen in the summer..." Encourage them to go on open days (<a href="http://www.opendays.com/" shape="rect" target="_blank">http://www.opendays.com/</a>), but make sure there are some bureaucratic hoops for them to jump through. You want to be able to forestall pointlessly unrealistic trips and the inevitable: "Let's all go to Bristol for a **** up." that can emerge from time to time.
@@ -43,4 +46,3 @@ Predicted Grades
 These can be a minefield. At Oswestry, we issue 'working grades' at the end of every term so we tell the pupils to use their last (Spring) working grade as a guide for now as to where they might get into. Proper working grades, made in the light of the AS results, are given to the pupils at the start of the autumn term. Inevitably there is pressure to alter them - resist this as much as you can, not doing so can end in needless heartache and faffing around in clearing in late August. If you do decide to give in, always make your decision conditional on something that they do: a better mark in the next test, good reports from teacher x, no late or missing work for the next 2 weeks etc....
 
 Anyway, for what it's worth, that's what we do here. The key things is that little bit of preparation this term, really can go a long way.
-

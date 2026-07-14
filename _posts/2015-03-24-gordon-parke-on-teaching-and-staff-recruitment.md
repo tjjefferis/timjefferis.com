@@ -17,6 +17,9 @@ He retired in 1985 and at the time, of course, I couldn't have cared less about 
 
 Here he is holding forth:
 
+<!--more-->
+
+
 On what makes a good teacher (his memories of having asked children)
 <ol>
 <li>

@@ -14,6 +14,9 @@ One particular pupil got me thinking though. This individual, who left a couple 
 
 What kind of idiot regime has allowed this sort of thing to happen? This lad is a vulnerable individual, who needs support. How much effort would it really have taken to make special accommodation for his needs? I know exactly the sort of arguments that will have been advanced: 'health and safety'; 'union rules'; 'rights to protected non-contact time'... But these are a smokescreen for bone-idleness and/or a mindset so poisoned by corporate culture that all common sense has been thrown out of the window. The really sad thing, I suspect, is that even those staff in this establishment who do possess a modicum of common sense probably feel that the management wouldn't support them in the extremely unlikely event that something did go wrong. Don't get me wrong, I'm not suggesting that the lad should be left alone in a room full of circular saws or controlled chemicals, but come on... No one is able to organize a quiet space for him to work?
 
+<!--more-->
+
+
 I have long admired the <a href="http://www.telegraph.co.uk/finance/jobs/john-timpson/">management advice of John Timpson</a> and am particularly drawn to this sign, which hangs in many of his shops:
 
 <a href="https://thecustomerblog.files.wordpress.com/2012/07/timpsonservicedeclaration.jpg" imageanchor="1"><img border="0" data-original-height="598" data-original-width="800" height="239" src="https://thecustomerblog.files.wordpress.com/2012/07/timpsonservicedeclaration.jpg" width="320"/></a>

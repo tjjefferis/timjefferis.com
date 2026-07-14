@@ -10,6 +10,9 @@ Sarah was Deputy Head at Uppingham where we overlapped for a short spell. As a y
 
 I hope Bryanston continue to leave up her posts up on their website as an archive. In case they don't, I'll be liberally cutting and pasting from them whilst I can. Here's an excerpt, for example, from <a href="https://www.bryanston.co.uk/blog/?pid=288&amp;nid=74&amp;storyid=1154" target="_blank">her post about school rules</a>:
 
+<!--more-->
+
+
 >
 
 <i>Bryanston’s fundamental rules are, by contrast, ultra simple. There are just four of them.</i>
@@ -28,4 +31,3 @@ I suspect you can't do away completely with a more comprehensive set of rules so
 But Sarah's simpler set are far better for sharing, better for ready reference in pupil planners and on noticeboards.&nbsp;
 
 They will enter my own canon forthwith!
-

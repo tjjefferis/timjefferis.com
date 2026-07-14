@@ -17,6 +17,9 @@ I have felt for some time that overseas parents, particularly those unable to sp
 <ol>
 <li>
 Be honest with yourselves and your child about their level of competence in English. If they are not close to fluent they will struggle significantly with UK public examinations. Both GCSEs and A-levels are designed for native speakers. Non-native speakers will invariably underachieve unless they have a very good grasp of English BEFORE they begin. The <a href="https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages">Common European Framework for Reference</a> is a useful starting point. As a guide, if pupils are not at B1 or above on starting GCSEs (B2 for A-levels in my view) then they should not be starting conventional schooling in the UK. Look to a specialist language school first.
+
+<!--more-->
+
 </li>
 <li>
 Many of you, quite rightly, choose to take the advice of an educational agent in your own country to advise you on gaining entry to the UK system. Many, if not most, agents are superb. Remember, though, however diligent your agent, that they are running a business. Unfortunately, the profit motive can and does cloud people's judgment. Shop around, do your homework. Make sure that the agent you employ is thoroughly transparent about how their commission works; make sure you are wise to the incentives such commission sets up.

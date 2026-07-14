@@ -15,6 +15,9 @@ My (now rather dusty) copy of <a href="http://www.amazon.co.uk/Becoming-Secondar
 <ul>
 <li>
 by outcome
+
+<!--more-->
+
 </li>
 <li>
 by task

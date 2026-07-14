@@ -13,6 +13,9 @@ I hope in writing this so soon after the event that my thoughts will be of some 
 This has been an exhausting week; no matter how well prepared you are (and we were very well prepared, having been waiting since May 2007!) there is something rather unnerving about having people quiz you in such forensic detail, especially when they ask about things on which your professional identity hangs.
 
 First of all a quick outline of the process, which followed these steps:
+
+<!--more-->
+
 <ol>
 <li>
 The call came on Tuesday and the reporting inspector (RI) spoke directly to the Headmaster to outline the process (we'd had a mock inspection a year or so beforehand so we knew what to expect).

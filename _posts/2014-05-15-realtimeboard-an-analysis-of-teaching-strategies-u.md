@@ -14,6 +14,9 @@ Since the start of this term, I have been using <a href="https://realtimeboard.c
 
 To organise my thinking, I've loosely categorised the ways in which I've used the technology according to the SAMR model:
 
+<!--more-->
+
+
 Substitution
 
 I've used RTB as a glorified Powerpoint on numerous occasions. Geography is a very visual subject and it has often been my custom to have an image on the screen when the kids arrive. I've continued doing this and in this sense little has changed - a substitution.

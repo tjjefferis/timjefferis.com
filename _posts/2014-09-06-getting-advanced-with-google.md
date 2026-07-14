@@ -18,6 +18,9 @@ These are the things I'm going to show them:
 </li>
 <li>
 Labs in calendar
+
+<!--more-->
+
 </li>
 <li>
 Appointment slots in Google calendar
@@ -56,4 +59,3 @@ Labs in e-mail
 <a href="https://support.google.com/drive/answer/3323935?hl=en&amp;ref_topic=2525251">Tracking the activity of files in the new Drive</a>
 </li>
 </ol>
-

@@ -33,7 +33,9 @@ The chances are that this line of business will be new to you and so I offer a l
 
 I really hope it all goes well for you. I, for one, am rooting for you because the world needs more well-led schools with owners who have gone into the enterprise with the right motivation.
 
+<!--more-->
+
+
 Best of luck!
 
 Tim
-

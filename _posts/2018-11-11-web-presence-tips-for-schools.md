@@ -17,6 +17,9 @@ Don't use .pdfs for any part of your website. They are not searchable by Google'
 </li>
 <li>
 Pretty much all schools work in multi-lingual environments these days. There are good reasons for not translating everything on your website, but your admissions page should be viewable in every language your customers come at you with. Get it translated.
+
+<!--more-->
+
 </li>
 <li>
 Your enquiries page should be as simple to fill in as falling off a log. People should be able to make an enquiry whilst holding their phone in one hand at a supermarket queue. You only need two pieces of information at the enquiry stage - name and phone number or e-mail. Don't annoy potential customers by asking for anything else - you can fill in the gaps later once you know you've got someone through the door.

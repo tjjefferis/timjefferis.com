@@ -12,6 +12,9 @@ A year or so before I left the school was having a clear out. Hundreds of surplu
 
 Over the years I've had many clearouts myself but I've always held back from chucking out my collection of old school magazines. Flicking through one the other day I came across this editorial which I share with you now, in its entirety. It's from 1976. The cost of school fees might make you smile, as might the idea that we should save costs by having pupils mow the grass; but there's plenty here that's much the same today, nearly 40 years on. I think it's rather lovely:
 
+<!--more-->
+
+
 A parent whose son has just passed his Common Entrance said to me sadly last week, "I am afraid he will never be able to send his children to an independent school."
 
 The reason? Not any dissatisfaction with independent schools (quite the contrary). Not a feeling about the inadequacy of his son (he gained a good pass to a good school). No, it was the fees.

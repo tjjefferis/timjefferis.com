@@ -20,4 +20,7 @@ But I don't think teachers are done for quite yet. Just today (sorry this post's
 
 But I have been blown away (as teachers in my own school are tired of hearing) by the power of Google Doc for real collaboration between kids. I know there are other ways, but at the moment, for me, this is the most exciting. I wince when I think what I had to put up with in terms of computer-based collaboration before cloud computing became fashionable. And Google Classroom has made creating, sharing and collaborating between students even easier! As just one example of this, I wrote <a href="https://drive.google.com/file/d/0B5yekSQQ3RwPV0RLakZyZ2hGZmxxa0lmRGNzdlBjemlHdHBN/edit?usp=sharing" shape="rect" target="_blank">this piece</a> for Teaching Geography a year or so ago explaining what can be done. It's amazing.
 
+<!--more-->
+
+
 <br/>

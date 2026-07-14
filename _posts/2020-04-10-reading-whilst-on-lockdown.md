@@ -90,6 +90,9 @@ by <a href="https://www.goodreads.com/author/show/7.Bill_Bryson" rel="nofollow">
 
 Great read. Love Bryson's work.
 
+<!--more-->
+
+
 <a href="https://www.goodreads.com/review/show/2788144939?utm_medium=api&amp;utm_source=custom_widget" rel="nofollow" title="HTML, XHTML and CSS All-In-One for Dummies"><img alt="HTML, XHTML and CSS All-In-One for Dummies" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348704771l/7724342._SX50_.jpg"/></a>
 
 <img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png"/>

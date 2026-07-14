@@ -12,6 +12,9 @@ Right now we're in the process of recruiting for roles at <a href="https://www.m
 
 I've tried to list the reasons why people's applications failed to get through to the shortlist stage. This, I hope, will give a bit more insight into the process than the: <i>'It was a strong field' </i>brush off that is rather too common in job application correspondence, but that helps nobody.
 
+<!--more-->
+
+
 You may have failed to make the shortlist because your application displayed one or more of the problems listed below. Only a tiny handful of these mistakes are immediately 'fatal' but when placed in a pool of applications without them they place your application at a disadvantage; and that, in a large field, is all it takes not to make it to the shortlist. So here we go:
 
 Things you can fix:

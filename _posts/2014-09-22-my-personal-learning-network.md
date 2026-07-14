@@ -16,6 +16,9 @@ PLNs are a subject very close to my heart, not least because I am in the process
 
 I use Twitter almost exclusively as a professional social network, reserving Facebook for personal posts - this model seems to have served me well thus far. I also have a <a href="https://www.linkedin.com/profile/view?id=220084321&amp;trk=nav_responsive_tab_profile_pic">LinkedIn account</a> and two <a href="https://plus.google.com/">Google+ accounts</a> but am pretty passive on these channels.
 
+<!--more-->
+
+
 On Twitter, I check my feed morning and night, as time allows. I use lists extensively and so far have these lists to my name:
 
 <a href="https://twitter.com/tjjteacher/lists/teachthought-bloggers">Teachthought bloggers</a>

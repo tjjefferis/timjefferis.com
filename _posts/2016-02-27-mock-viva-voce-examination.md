@@ -15,6 +15,9 @@ Today I attended the university, at the request of my supervisors, to undergo a 
 
 After the initial pleasantries, the event quickly became almost comically serious. This was role-play, I was told and promptly banished from the room to wait until I was invited back in.
 
+<!--more-->
+
+
 <a href="https://www.blogger.com/blogger.g?blogID=9145285415158126914" imageanchor="1"></a>I didn't have long outside to ponder my predicament before my supervisors - both adopting inscrutably stern expressions - summoned me back in. Two men I had got to know reasonably well over the last few years were now talking to me in hushed and sombre tones that were strongly reminiscent of school-boy visits to the Headmaster's study for a good ticking off...
 
 And so we began. Could I summarize the findings of my research in less than one minute? I could.

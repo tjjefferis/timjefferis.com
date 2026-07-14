@@ -17,4 +17,7 @@ For those of us who are teachers, it is easy to forget as the years march on wha
 
 This time of year, in particular, is an enchanting time for children; those of us who are getting a bit longer in the tooth need to rediscover some of that enchantment. No matter how many times we might have done something, for the children we teach things are new and exciting. We owe it to them to share in the delight of learning something for the first time.
 
+<!--more-->
+
+
 Have a very happy Christmas.

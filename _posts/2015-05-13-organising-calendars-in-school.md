@@ -14,6 +14,9 @@ We are a <a href="https://www.google.com/edu/products/productivity-tools/" shape
 
 I am the owner of this calendar and have set up an <a href="https://ifttt.com/" shape="rect">IFTTT</a> recipe to alert me when anyone makes any alterations. The e-mails this generates can be a little annoying (right after the PE departments have just input a raft of fixtures for example) but they give me a little peace of mind. I'd be able to see - though I should stress this has never happened - if someone deleted another member of staff's entry maliciously, for example. The alerts also allow me to head off clashes and unsuitable trips before they get any further through the system. In order to gain traction fast, I made <a href="https://drive.google.com/file/d/0B5yekSQQ3RwPd0p1UlMyMWxaYTA/view?usp=sharing">a little video</a> explaining to staff what they needed to do.
 
+<!--more-->
+
+
 At the base of the shared calendar page on our intranet I've typed out the various steps in the process, and who's responsible for them, as follows:
 
 Workflow for the people who make this work:

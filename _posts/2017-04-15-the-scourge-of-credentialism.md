@@ -13,3 +13,5 @@ Richard Taylor <a href="http://theedtechpodcast.libsyn.com/53-an-angel-investor-
 Sifting through applications for jobs I find often find - for expediency's sake if nothing else - that I have to use academic credentials as a proxy for suitability. But Richard reminds us that this is small-minded. Who hasn't worked alongside the holder of a doctorate who can't teach for toffee? Or the unfortunate recipient of a third from a 'second-rate' university who has pupils eating out of his hand?
 
 It's tough when sifting through 50+ applications to a tight deadline to spot the <a href="http://tjjteacher.com/post/gordon-parke-on-teaching-and-staff-recruitment">pied pipers </a>but it's surely worth it. Wildcards can sometimes be superb.
+
+<!--more-->

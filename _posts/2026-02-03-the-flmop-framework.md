@@ -16,6 +16,9 @@ The goal is to provide the Means of Participation (MoP) before the Task/Question
 
 **Front-Load (The "Signal")**
 
+<!--more-->
+
+
 Before you reveal the question, you tell the pupils exactly how they will be expected to participate. This settles their "behavioural" brain so their "cognitive" brain can focus on the content.
 
 **Example:** "In a moment, I am going to ask you about the causes of the Cold War. You will have 30 seconds of Silent Solo thinking time, and then I will use Cold Call."

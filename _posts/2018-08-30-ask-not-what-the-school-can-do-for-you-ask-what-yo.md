@@ -16,4 +16,7 @@ If these are your primary concerns, I question whether you are in teaching for t
 
 I've met many such teachers in my time and they are rarely any good in the classroom. Worse, they tend to be hopeless working at schools where there is a big emphasis on boarding and a vibrant extra-curricular life.
 
+<!--more-->
+
+
 Teaching is a vocation. Yes, teachers need to be well looked after, but if you want o go far, you go for a job because you're looking for professional challenge and fulfilment, not because the hours are cushy and there's a nice-sized pay packet.It's worth keeping in the back of your mind the chiasmus: 'Ask not what the school can do for you, ask what you can do for the school'.

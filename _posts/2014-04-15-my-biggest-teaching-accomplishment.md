@@ -17,6 +17,9 @@ But this is not to say there haven't been moments of pride along the way. These 
 
 But a large crate of wine and a lovely letter arrived in the post a few days later - all was forgiven! When I met him a few years later he was the very image of charm and sophistication - I consoled myself with the thought that I'd done my bit to nudge him in the right direction.
 
+<!--more-->
+
+
 Beyond the classroom and face-to-face contact with pupils, I am most proud of some of the systems I've put in place in the places where I've worked. At Uppingham, my big labour of love was cataloguing every single department resource right down to the last infiltrometer in the fieldwork cupboard. Everything was labelled and inputted into an Access database searchable by all. I like to think that, for a while at least, we were the most organised department in the school. More recently at Oswestry, the development of an Intranet - OsNet - from which almost all of the day-to-day administration of the school is run has been my proudest achievement.
 
 There it is.

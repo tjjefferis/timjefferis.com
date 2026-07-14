@@ -24,5 +24,7 @@ Pretty much everything you have to do as a school leader will fall into one of t
 
 I'll be using this list to check that what I'm doing on a day-to-day basis is broadly balanced and doesn't neglect any one of these domains.
 
-Thanks, Tom and Jen :-)
+<!--more-->
 
+
+Thanks, Tom and Jen :-)

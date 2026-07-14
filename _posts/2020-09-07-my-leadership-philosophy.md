@@ -30,6 +30,9 @@ Have a sense of humour. The ashen-faced leader, brow furrowed with the seriousne
 
 Communicate, communicate, communicate. Keep people informed, regularly and across multiple channels. Staff like to know what’s happening, why and when. If things must be kept secret, then treating staff as adults and explaining why a message isn’t being given at the moment is itself important. Treat. People. Like. Adults.
 
+<!--more-->
+
+
 </li><li dir="ltr">
 
 Give people your undivided attention. Good leaders make time for small talk. However stressful the circumstances, however much the inbox is filling up, good leaders listen and engage. They ask the staff how they are, what they did at the weekend, how the family are etc. They are interested in people. If Bill Clinton could make people feel that they were the only person in the room, with all the travails that come with being US President, then so can even the busiest school leader.

@@ -26,6 +26,9 @@ Effective questioning is a kingpin of effective teaching and is not considered i
 <ul>
 <li>
 dispense with hands up - pick on pupils to answer according to your knowledge of them and what you are seeking to get in terms of an answer
+
+<!--more-->
+
 </li>
 <li>
 get into the habit of probing pupils further 'how do you know', 'are you sure?', 'is that always the case?' etc. this can be a powerful way of deepening and extending knowledge
@@ -106,4 +109,3 @@ A whole gamut of further reading was suggested including:
 I have been a follower of Tom's blog and tweets for some time, so I had an idea of what to expect from this workshop and knew that his views largely chimed with my own. As a result, I was a little wary of indulging in confirmation bias as I nodded along with his pronouncements. Nonetheless, I got a lot out of the day: it was challenging and thought-provoking - a great way in which to kick off the new school year.
 
 Thank you, Tom :-)
-

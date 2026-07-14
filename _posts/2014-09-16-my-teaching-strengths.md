@@ -15,6 +15,9 @@ Here are mine:
 <ol>
 <li>
 I always put my classroom teaching first. There are a hundred and one other demands on teachers' time (crazy, I know - how did we create such a system?!) but I view prioritising my teaching as a non-negotiable. If you don't spend adequate time planning, marking and focusing on the craft of teaching you very rapidly lose credibility in a school. Rightly so.
+
+<!--more-->
+
 </li>
 <li>
 I am ruthlessly efficient with paperwork. I may be a little OCD about my inbox, but I wouldn't have it any other way. Clearing my desk frequently and efficiently gives me a huge sense of satisfaction and I hope is something colleagues thank me for.

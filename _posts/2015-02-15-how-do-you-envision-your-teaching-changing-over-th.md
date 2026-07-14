@@ -14,6 +14,9 @@ Before contemplating what might happen to my teaching over the next five years I
 
 Looking back through my teaching notes for that year I see that I had begun the process of digitizing everything. I was scanning things in, saving them to .pdf and printing them out again for distribution to pupils. A typical planning page looked like this:
 
+<!--more-->
+
+
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyGe5uolD2RI4sXCkOQj_O9IlD0s3XllhiPhAl61XiNnUvkI-Ii3PfVMkfLv_cezFsV7RTUPClBhoJPcBhxvLFcKfv_xe-lfb3BK1esjBYMrswzgpRUumhe8_1Ui1BcWA1pDULjJ7OSoY/s1600/notes.PNG" imageanchor="1"><img border="0" data-original-height="838" data-original-width="624" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyGe5uolD2RI4sXCkOQj_O9IlD0s3XllhiPhAl61XiNnUvkI-Ii3PfVMkfLv_cezFsV7RTUPClBhoJPcBhxvLFcKfv_xe-lfb3BK1esjBYMrswzgpRUumhe8_1Ui1BcWA1pDULjJ7OSoY/s320/notes.PNG" width="238"/></a>
 
 I was teaching in a big room at the time, with the ability to project onto the wall with a data projector, use an overhead projector and write on a big whiteboard all at the same time. This was quite a luxury and I exploited it to the full. My teaching notes show that I was using powerpoint (.ppt files) and printing out handouts (H/O) that I would also project onto the board as I discussed them with pupils. I was also scrawling diagrams and key terms onto the whiteboard. All my teaching notes were stored in ring-binders - binders that have followed me to my current job but are now essentially defunct.

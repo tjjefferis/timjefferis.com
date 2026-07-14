@@ -12,6 +12,9 @@ Thus I dismissed the lower sixth last week. Earlier in the lesson, I had tried t
 
 I should have known that this cultural reference had had its day. Added to this Daley Thompson was a British athlete and so wouldn't have had any particular significance anyway for many in the set (1 American, 1 Ukrainian, 1 Nigerian....)
 
+<!--more-->
+
+
 This reminded me that working in a school with a significant portion of overseas pupils necessitates a more thoughtful approach to the examples used and the references made to popular culture. There isn't necessarily a huge amount of shared hinterland to draw upon.
 
 The following sensible list of things to consider in your teaching is offered by experts in the field:

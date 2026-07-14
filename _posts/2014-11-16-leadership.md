@@ -12,6 +12,9 @@ Having read <a href="http://staffrm.io/@jillberry/Om10ijWvMB">what she wrote</a>
 
 What is your most memorable experience of leadership while at school?
 
+<!--more-->
+
+
 In my final year at school, I was promoted to the lofty position of House Captain. As I recall we didn't get much by way of training but were supposed to have picked up what to do having seen others do the job ahead of us (much as it still is in school leadership in many schools!) Aside from wearing <a href="http://tjj.postach.io/in-defence-of-private-school-a-teenaged-toff-reminds-me-of-what-there-is-to-lose">a ridiculous uniform</a>, the job mainly involved organising house teams, events and chivvying reluctant fellow teenagers into playing their part. It also involved, though - and here it was a really useful experience - a bit of public speaking.
 
 At the end of every term, it fell to the House Captain to make a speech in front of the whole house (70+ boys, parents and assorted members of staff). I had seen this done before by my predecessors - some were clearly terrified by the experience, others, by contrast, were effortlessly brilliant. I think I fell somewhere in the middle, but have never been particularly perturbed by public speaking since. I can't speak without notes as some lucky people can, but I actually rather enjoy crafting what I'm going to say and then standing up and saying it. And having worked under <a href="http://tjj.postach.io/what-i-learnt-from-stephen-winkley">Stephen Winkley</a> - an inspirational public speaker - I am aware of the extent to which good oratory can make up for a multitude of sins.
@@ -77,4 +80,3 @@ Finish this sentence:  'Leadership is....'
 Who I'd like to complete these questions:
 
 Philip Cheshire, the head I admired from afar as a young teacher at Warwick.
-

@@ -13,6 +13,9 @@ One of the things I really love about being a teacher is the number of times you
 At these junctures, I quite often convince myself it will all be different this time, that I'll get up and run every morning, that I'll crack my marking on the day the work's handed in, that I'll scour the blogs before flopping in front of the TV and so on... Sometimes these things stick, more often than not they don't. But that doesn't stop me trying...
 
 Here are a few of the things I'd like to get done professionally and personally this year:
+
+<!--more-->
+
 <ol>
 <li>
 Finish my EdD (having handed in the first draft of my thesis by February at the latest (I'm studying senior leaders' use of Twitter).

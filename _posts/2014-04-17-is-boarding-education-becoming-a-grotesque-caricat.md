@@ -15,9 +15,11 @@ True, most of my schoolmates came from determinedly middle-class backgrounds and
 
 I am concerned that this is no longer the case. Boarding fees, which hover either side of £30k even in the most modest establishments, are out of reach for the category of parents with children that I rubbed shoulders with (teachers, doctors, soldiers, accountants etc.) Increasingly the schools with these exorbitant fees are populated by the global super-rich who live in a world quite detached from normal people's reality.
 
+<!--more-->
+
+
 Whereas I would have been quite happy for my children to spend their formative years in the company of 'people like us' (if you'll pardon that horrible phrase) I am much less sure I'd want him in a school where they only come into contact with the children of hedge fund managers or Russian oil oligarchs.
 
 Nor is it good enough to allay these fears by pointing to a bursary/scholarship programme especially if that programme is only used to afford access to the tutored-to-the-hilt-super-boffins. A dose of reality and balance is needed if such schools are to avoid becoming hideous caricatures of their former selves.
 
 As I have explained <a href="http://tjj.postach.io/in-defence-of-private-school-a-teenaged-toff-reminds-me-of-what-there-is-to-lose" shape="rect" target="_blank">here</a> independent schools are, on balance, a good thing. But there is a certain category of school - typically the 'premier league' boarding type - where a ludicrous facilities arms race has resulted in too much exclusivity. There needs to be a reality check: bin the plans for a new tartan athletics track, or Olympic-sized swimming pool (always shamefully underused in any case) and focus on the core mission of providing a good education to a healthy cross-section of pupils.
-

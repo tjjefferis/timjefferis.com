@@ -14,6 +14,9 @@ The last time I was observed was by @oswestryschool's head of learning support. 
 
 1. nothing can be taken for granted - they won't, it seems, start a new page, use a sensible pen or find out the date of their own accord
 
+<!--more-->
+
+
 2. transitions need to be micromanaged - especially entrances and exits from the classroom
 
 3. variety and pace - always important - are even more so in order to retain interest throughout an hour-long lesson

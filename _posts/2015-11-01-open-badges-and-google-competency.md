@@ -16,6 +16,9 @@ In late August 2016 I devised <a href="https://docs.google.com/document/d/18dgnm
 
 ...to complete the tasks, so far as possible, in the course of your normal job, not as an academic exercise.
 
+<!--more-->
+
+
 The original deadline for all of this was just before Christmas, at the end of the Michaelmas term. I introduced all the tasks to the staff at our staff training in September.
 
 As the term wore on, it became increasingly apparent that staff were not engaging with the tasks as I had hoped they might. Despite (or perhaps because of?) the generous provision of time for the tasks staff were finding it hard to find to set aside time to complete them. It was also clear that some staff lacked the skills associated with being able to research problems on the internet quickly and efficiently.
@@ -45,4 +48,3 @@ Make it clear from the outset that completion of these tasks would be formal req
 </ol>
 
 Now off to chase some recidivists...!
-

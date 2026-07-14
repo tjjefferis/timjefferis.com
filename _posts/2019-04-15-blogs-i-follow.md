@@ -18,6 +18,9 @@ Education
 
 <a href="https://learningspy.co.uk/">David Didau</a> - I seldom read a post of David's without feeling validated. I know it's bad to live in a filter bubble, but hey...!
 
+<!--more-->
+
+
 <a href="https://gregashman.wordpress.com/">Filling the Pail</a> - superb for puncturing the group-think that sometimes infects staff rooms and PGCE courses
 
 <a href="https://www.hmc.org.uk/hmc-blog/">HMC blog</a> - posts are sporadic, but there are occasionally some guest-post gems

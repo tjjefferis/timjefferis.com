@@ -16,6 +16,9 @@ On this day 29 years ago, believe it or not, the first Apple Mac was released. T
 
 That first Apple, though it looks ridiculously simple to us now, was a revolutionary device. It was the first personal computer to make use of a mouse. It was also the first computer to adopt a GUI - with a Mac no longer was computing to be the reserve of nerds. Anyone could use this machine, pointing and clicking at the graphics on the screen. It got its name from the McIntosh Red, a type of apple.
 
+<!--more-->
+
+
 The first Mackintosh had a beige case, a floppy disk drive and a simple screen. It also cost a lot more that today's typical personal computers: $2495. Despite its apparent simplicity, it was a revolutionary machine, changing the landscape of computing for good. Apple, and Steve Jobs, in particular, saw themselves as smashing conformity. In an advert released that year, they showed how the new Mac prevented the dystopian future envisaged by George Orwell for 1984 from ever occurring.
 
 Apple famously started in the garage of Steve Job's parents. But it's evident that Steve Jobs was ambitious right from the start. In poaching an early employee from Pepsi Jobs asked: "Do you want to sell sugar water for the rest of your life or do you want to come with me and change the world."

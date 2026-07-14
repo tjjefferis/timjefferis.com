@@ -14,6 +14,9 @@ And I should stress that I'm no big brother manager - I happen to think that mo
 
 That said, I recognize the need for occasional checks and balances to ensure that there is a degree of consistency across the organization, that no one is struggling, and that pupils are getting the help they need. Work scrutiny is just one of the many tools at managers' disposal to ensure that things are ticking along nicely. It's an important one, but boy can it be laborious...
 
+<!--more-->
+
+
 To circumvent the worst of the logistical and bureaucratic aspects of the task I decided to automate the process as far as possible. Here's what I did:
 
 I made a Google form like the one below:

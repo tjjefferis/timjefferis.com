@@ -14,6 +14,9 @@ Here's how I do it:
 <ul>
 <li>
 Exercise books - lower down the school (I teach a couple of Y8 classes this year, last year I taught a Y7 one) I still use good, old-fashioned exercise books. I get pupils A4-sized hardback ones as I find soft covers quickly start looking scruffy. There's nothing particularly special about what I do here except that I really try to reinforce good 'academic housekeeping' habits on the pupils. And I reduce all my handouts down to A5 so that they fit nicely in the kids' books without paper sticking out at the edges. The idea is that pupils learn to take pride in their work.
+
+<!--more-->
+
 </li>
 </ul>
 

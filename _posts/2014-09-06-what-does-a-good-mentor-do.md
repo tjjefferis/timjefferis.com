@@ -20,5 +20,8 @@ to be open about my own practice - to share, to invite observation and to encour
 
 But the single most important attribute of a mentor I'd argue is being somewhat of a champion for the person you are mentoring. It is quite remarkable what people are capable of given a bit of encouragement to fuel their self-belief.
 
+<!--more-->
+
+
 Looking back over my career so far at the various mentors I have had it has been the ones who took the time to affirm, encourage and praise in a genuine and heartfelt way who I've grown most under. This doesn't, of course, preclude pointing out people's mistakes - far from it. But the best mentors are able to identify nascent strengths in their mentees and bring these out in them.
 <br/>

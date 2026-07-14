@@ -14,6 +14,9 @@ So I have elected to take a leaf out of <a href="http://www.brainpickings.org/20
 
 In my case, I am at my most productive and energetic when I live about six miles from my place of work, have no car and am therefore forced to cycle into work. For nearly four years when I first started at Uppingham this was my situation. Since then I have lived on site and so have not fully been able to realise this archetype again.
 
+<!--more-->
+
+
 So here it is, my ideal (work-day) routine:
 
 0600 - rise, have breakfast, get bike out of shed, stretch the dog's legs

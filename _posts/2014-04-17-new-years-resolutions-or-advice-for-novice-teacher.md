@@ -15,6 +15,9 @@ As the new academic year draws ever nearer I thought I'd pen a few tips for thos
 <ol>
 <li>
 Record everything, plan everything. It's easy when you're in a rush to let things slide but don't. Particularly if you're teaching a new course make sure you plan properly and record what you've done (you'll reap huge rewards next year!)
+
+<!--more-->
+
 </li>
 <li>
 Reflect, borrow, observe. Don't assume that because you've just completed your PGCE (or have been in the job for 20 years) that your work is done. Be a magpie, pick up new ideas, discard ones that didn't work. Be generous with your time and resources and others will return the favour. And remember although it's good to have ownership of your own teaching and resources it's not a productive use of your time to reinvent the wheel.

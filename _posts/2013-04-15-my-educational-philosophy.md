@@ -27,6 +27,9 @@ Most of us can remember very little of what we learnt at school. Beyond the broa
 <br/>
 * Progressive vs traditionalist - people like me who spend too long on Twitter are constantly exposed to the fierce debate between traditionalists and progressives. To stereotype the two camps the progressives want group work, experiential learning and teachers as facilitators; the traditionalists want children sitting silently in rows, whilst the teacher holds court and the pupils eagerly note down everything he or she is saying. To get into philosophy here this is the scourge of essentialism. It bedevils the educational debate - people must be pigeonholed as one or the other. It afflicts other areas of the education debate too: do you believe in co-ed or single-sex? are you a disciplinarian or a libertarian? Essentialism might have worked for Plato - a circle is a circle; distinct from a triangle however much you might like to argue the case but it doesn’t work in education. Teachers deal with wonderfully complex individuals - no two the same. Teaching is an art, not a science and so categories are blurred, fuzzy, they overlap. On the issue of traditional vs progressive I am a pragmatist. I’ve seen both work wonderfully - most teachers use their common sense and mix and match anyway.<br/>
 
+<!--more-->
+
+
 * Growth mindset - I want to mention briefly here the work of the American psychologist Carol Dweck. Those of you who have followed her work will know that she gave a group of young children a task that was too difficult for them and divided the children into those who gave up and those who plugged away. She then tracked these pupils in a longitudinal study over many years - and you can probably guess what she found. The upshot of her work is this: failure isn’t bad, failing to try is. The growth mindset can be contrasted to the more widespread fixed mindset thus:<table><colgroup><col/><col/></colgroup><tbody>
 <tr><td>Fixed</td><td>
 Growth
@@ -73,4 +76,3 @@ No-one champions new technology as enthusiastically as I do. Making use of what�
 
 Computers don’t work in shipwrecks!
 <br/>
-

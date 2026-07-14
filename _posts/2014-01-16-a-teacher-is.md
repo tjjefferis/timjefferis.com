@@ -20,6 +20,9 @@ Teaching is like Facebook: time-consuming, strangely addictive, but you'll never
 
 Tweachers are like Chromebooks - bright, shiny, full of new ideas, but pretty useless without an internet connection.
 
+<!--more-->
+
+
 Do comment if you can think of any more...
 
 And just for the hell of it, a limerick with a Scottish theme:

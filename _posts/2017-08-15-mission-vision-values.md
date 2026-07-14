@@ -13,6 +13,9 @@ Specifically, we were shown the school's mission statement:
 <a href="https://www.harrowschool.ac.th/uploaded/About_Us/Mission/Mission-plaque3.jpg" imageanchor="1"><img border="0" data-original-height="675" data-original-width="800" height="270" src="https://www.harrowschool.ac.th/uploaded/About_Us/Mission/Mission-plaque3.jpg" width="320"/></a>
 
 We were then shown the six values that members of the school community are enjoined to rally behind:
+
+<!--more-->
+
 <ul>
 <li>
 Contributing positively to the community

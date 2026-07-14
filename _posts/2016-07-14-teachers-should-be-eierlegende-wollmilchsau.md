@@ -21,6 +21,9 @@ Take the notion that you should find something in life that makes you happy. Thi
 
 <br/>But the pursuit of happiness in this way - to follow your 'passion', to 'not settle' until you do so - is a well-trodden route to disappointment. As <a href="http://calnewport.com/about/">Cal Newport</a> has pointed out, after extensive research into the issue:
 
+<!--more-->
+
+
 <i>“Follow your passion” assumes: a) you have preexisting passion, and b) if you match this passion to your job, then you’ll enjoy that job. When I studied the issue, it was more complex. Most people don’t have preexisting passions. And research on workplace satisfaction tells that people like their jobs for more nuanced reasons than simply they match some innate interests.</i>
 <br/>
 

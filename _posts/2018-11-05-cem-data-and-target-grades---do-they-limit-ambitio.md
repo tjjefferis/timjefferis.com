@@ -15,4 +15,7 @@ Almost any grade can be obtained from almost any starting point.
 Those of us who have to counsel students on their prospects would do well to remind them of this. And it illustrates the extreme caution that needs to be taken in using target grades for students or - as I gather happens in some schools - requiring students to stick their target grades to the front of their books.
 
 Far better to shoot for the stars, and talk in terms of probability rather than concrete targets or predictions. Anything else really does risk limiting ambition.
+
+<!--more-->
+
 <br/>

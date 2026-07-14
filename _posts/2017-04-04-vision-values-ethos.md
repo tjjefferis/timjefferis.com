@@ -12,6 +12,9 @@ Vision, values, mission and ethos are much talked about aspects of good leadersh
 
 Aims are relatively straightforward to compose and will differ little from school to school given that, ultimately, all schools are trying to do roughly the same thing. Vision, values and ethos, however, are a whole different kettle of fish and ought to differ significantly from school to school. I have visited the websites of the following schools:
 
+<!--more-->
+
+
 <ol>
 <li>
 <a href="https://www.warwickschool.org/">Warwick School</a> (where I first worked)
@@ -87,4 +90,3 @@ I would like to think that independent schools can be a little bit more forthrig
 How important is it for any school to have a clear statement of what they believe or what their priorities are?
 
 Clearly, it is very important for the head and the staff to have a firm take on what they and the school stand for. I also think it’s important that there’s buy-in from everyone in the organisation. I remember when Richard Harman took over Uppingham we had a big staff session in which we all shared ideas about what the school should be like and where it should go. From that meeting emerged a set of values that we all had a stake in.
-

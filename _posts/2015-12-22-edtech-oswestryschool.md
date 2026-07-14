@@ -12,6 +12,9 @@ Perhaps naively, I have in my head an image of that sort of life for the reside
 
 Richard is enthusiastic, seems to know everyone, and has invested in some great fledgeling companies including <a href="https://www.nightzookeeper.com/" shape="rect" target="_blank">NightZookeeper</a>, <a href="https://www.edapt.org.uk/" shape="rect" target="_blank">Edapt</a> and <a href="https://www.neardesk.com/" shape="rect" target="_blank">NearDesk</a>. When I went to the finals of <a href="http://ed-invent.mediataylor.com/" shape="rect" target="_blank">EdInvent</a> last year Richard offered to come up to Oswestry and run something similar for us in school and I jumped at the chance.
 
+<!--more-->
+
+
 The kids, dragooned into attendance by virtue of studying computer science or ICT, quickly rose to the challenge. This was all as new for them as it had been for me a few months back. In his inimitable way, Richard got them fired up from the off by waving around £100 and offering it to anyone who could answer his first question.
 
 As the day wore on they learn about what works and what doesn't in EdTech, how to gauge the size of a market, how to make a pitch and - perhaps most importantly of all - that they had ideas worth airing too. All the while the diminutive antipodean danced around excitedly encouraging and chastising by turns as the pupils worked on their submissions. True, by the end of the day no million dollar companies had been dreamt up, but Rome wasn't build in a day.

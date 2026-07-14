@@ -14,6 +14,9 @@ As the person responsible in my school for ensuring 'compliance' this news came 
 
 But of course, I can't protest to the change on the basis of personal annoyance. If this is the right thing to do, then the change must go ahead. There is little argument that all schools need to be inspected rigorously and held accountable for the quality of the work that they do. Nonetheless, many in the sector have nagging doubts about the wisdom of adopting the OFSTED model for the inspection of independent schools. The OfSTED framework differs from the ISI one in several respects, including the following:
 
+<!--more-->
+
+
 1. One day’s notice of inspections for schools.
 
 2. Judgements to be made on the achievement of pupils at the school; the quality of teaching at the school; the behaviour and safety of pupils at the school; and the quality of leadership in, and management of, the school.

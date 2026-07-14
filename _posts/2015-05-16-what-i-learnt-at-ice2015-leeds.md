@@ -14,6 +14,9 @@ Here is a rundown of what I took away:
 <ol>
 <li>
 <a href="https://support.google.com/docs/answer/4492226?hl=en">Google voice typing</a> really works. No longer a gimmick. Report writing might actually be fun -:)
+
+<!--more-->
+
 </li>
 <li>
 <a href="https://www.youtube.com/watch?v=_FT6u2JDGyY&amp;feature=youtu.be">Google tone</a> is a useful way of sharing pages across Chrome in a class.

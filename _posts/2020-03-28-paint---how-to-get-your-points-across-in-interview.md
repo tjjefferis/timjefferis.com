@@ -46,6 +46,9 @@ He suggests using the acrostic <b>PAINT</b> to help you prepare responses for th
 
 <b>N</b> - stands for <b>NEXT TIME</b>. You'll come across as arrogant if all you do is champion your achievements. You need to show some humility an that you're reflective professional. Andy recommends you reflect back on your story and offer at least one thing that on reflection you could have done better or differently. This is your opportunity to show self-reflection. If you can pre-empt follow up questions and show an ability to lead the conversation so much the better. Remember that if you're going for a senior role, the panel will want to feel that they are in the presence of an expert, who's totally at ease with themselves and their material.
 
+<!--more-->
+
+
 <b>T</b> - stands for <b>THIS SCHOOL</b>. This is your opportunity to sat what you think about the school you are applying for. If you have concerns voice them clearly and unapologetically. Andy points out that failing to do so could mean storing up problems for the future. So, for example, if it is your strong view that the Science Department needs to be rebuilt as the first step in any future development plan, say it. There will be nothing worse than arriving at the school and finding that all your plans for it are stymied by people with opposing views.<br/>
 <br/>
 Andy runs an <a href="https://www.andybuck.org.uk/" target="_blank">independent coaching and leadership consultancy</a> and - much to my delight - is also a geographer :-)

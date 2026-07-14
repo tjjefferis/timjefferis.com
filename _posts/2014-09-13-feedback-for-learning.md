@@ -13,6 +13,9 @@ I am amazed by the voluminous amounts of guff that is spouted on the subject of 
 A lazy or disengaged pupil who has scrawled drivel on the page isn't going to read a detailed account of areas to address for future progress. Nor could he or she care less that their miserable efforts have been recorded on camera and neatly stuck down next to their work. This is feedback for inspectors, not feedback for learners.
 
 Ultimately there are only a few things you need to know about feedback:
+
+<!--more-->
+
 <ol>
 <li>
 It should be timely. However conscientiously conducted, aligned to levels, assessment objectives and learning goals any feedback you give a pupil rapidly loses its effectiveness if it's taken too long to come back. A good rule of thumb for written work is that feedback should be given the very next lesson. It's tough keeping up with it sometimes, but the pile of marking never goes away so you may as well just get on with it.
@@ -30,4 +33,3 @@ Feedback that requires action on pupils' part is also very effective. This might
 Lastly, pupils need to know how they've done. There is a current vogue for not placing a mark on any piece of work - the thinking being that if you do the pupil will look at the mark and ignore the comment. I'm sure there's some element of truth in this. But for examination sets in particular pupils need to know where they stand. They need to know where a piece of work they've done places them along the continuum. Concealing the truth from pupils does them no good at all. The increase in the number of pupils I have coming to me with wildly over-ambitious university choices is, I'm sure, in part a function of teachers' reluctance to be honest right from the word go.
 </li>
 </ol>
-

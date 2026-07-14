@@ -21,6 +21,9 @@ A pupil will forget their login password.
 </li>
 <li>
 A pupil will forget their username.
+
+<!--more-->
+
 </li>
 <li>
 A pupil will forget their username and password.

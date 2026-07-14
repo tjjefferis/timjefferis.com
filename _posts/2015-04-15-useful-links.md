@@ -20,6 +20,9 @@ Sue and I went on a course at which we met the indefatigable <a href="https://tw
 </li>
 <li>
 <a href="http://labs.tineye.com/multicolr">Multicolr</a> - applications in art and design?
+
+<!--more-->
+
 </li>
 <li>
 <a href="http://simple.wikipedia.org/wiki/Simple_English_Wikipedia">Simple English Wikipedia</a> - applications for EAL, SEN (everybody in fact!)
@@ -81,4 +84,3 @@ Sue and I went on a course at which we met the indefatigable <a href="https://tw
 </ol>
 
 Happy playing....!
-

@@ -17,6 +17,9 @@ It's true that small independent schools often struggle to compete in terms of 
 <tr><td rowspan="1">
 Economies of scale mean that there is likely to be a broader curriculum, particularly when it comes to making option choices at GCSE and A-level.
 
+<!--more-->
+
+
 </td><td rowspan="1">
 It is difficult to make 'niche' subjects like Latin, psychology, accounting etc. pay. Even if clever staffing and resource management do make laying on such subjects possible something is lost by being in a class of 2 as opposed to a class of 12. Small classes are only preferable up to a point...
 </td></tr>

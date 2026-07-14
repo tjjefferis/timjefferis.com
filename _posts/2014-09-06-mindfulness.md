@@ -12,6 +12,9 @@ Over the last day or so you will have been bombarded with new timetables, new na
 
 It's no surprise you can't concentrate. On top of this, the modern world bombards us with constant distractions. We check our e-mails texts and social media updates incessantly. A recent study found that the average Brit spends 9 hours a day in front of a screen. If you add those hours up over a lifetime they tot up to 30 years! Many of us, myself very much included get bored if we're required to stay to wait in a queue or wait for a bus. We don't know what to do with ourselves. When we're not in front of a screen we have to do something play sport, go to the shops, tidy up, chat - anything to avoid being still it seems.
 
+<!--more-->
+
+
 Teachers sometimes complain that the attention span of children is not what it used to be. More social than ever before we're spending less time alone and with our thoughts and even less relating to other animals and to nature. Our little experiment showed that distractions make you miss things.
 
 Some experts suggest mindfulness as a cure to all this. Mindfulness is the act of just sitting in the present, emptying your mind and relishing in the fact of your existence.

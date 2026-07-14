@@ -14,6 +14,9 @@ I think this is a really great idea. Thank you to @bleidolf67 for dreaming up th
 
 Day 1 <a href="http://tjj.postach.io/goals-for-the-2014-15-school-year" shape="rect" target="_blank">Write your goals for the school year. Be as specific or abstract as you’d like to be!</a>
 
+<!--more-->
+
+
 Day 2 <a href="http://tjj.postach.io/new-technology-the-wacom-pen-tablet" shape="rect" target="_blank">Write about one piece of technology that you would like to try this year, and why. You might also write about what you’re hoping to see out of this edtech integration.</a>
 
 Day 3 <a href="http://tjj.postach.io/improving-my-teaching" shape="rect" target="_blank">Discuss one “observation” area that you would like to improve on for your teacher evaluation.</a>

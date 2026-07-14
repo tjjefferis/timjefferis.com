@@ -11,6 +11,9 @@ Last week it was reported that the great British adventurer, Bear Grylls, had ca
 &gt;
 &gt; — Geri Lloyd-Jones (@scheuy12) August 9, 2015
 
+<!--more-->
+
+
 Whatever the ins and outs of this particular case, Bear Grylls is quite right to point out that most of us are way, way too protective of our children these days. As a teacher, looking after other people's children, I realise it's not my place to be too cavalier about their safety, but with my own children, it's a different matter... And so it should be with all parents.
 
 There are far too many children out there leading dull and cosseted lives. As a result they are woefully ill-prepared when they have to play by big boys' rules in the real world. Particularly at fault are the new breed of helicopter parents (yes, there are some in every school) who leap to the aid of their children at the first hint of difficulty or danger. What they may not realise is that far from helping their children succeed their overprotective actions may, in fact, be doing the exact opposite.

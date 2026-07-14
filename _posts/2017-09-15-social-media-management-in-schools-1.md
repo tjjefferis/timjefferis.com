@@ -15,6 +15,9 @@ This is the first of a series of posts I plan to create for social media manager
 </ul>
 &gt; "The Easter Bunny won’t be the only busy one this April! Essential work is taking place across our network over Easter weekend. Euston will be closed &amp; journeys will be longer during this time. We’d recommend avoiding travel where possible. More info here: https://t.co/C5eHsGBOdE pic.twitter.com/10Dc5m85cu"
 &gt;
+
+<!--more-->
+
 &gt; — Virgin Trains (@VirginTrains) March 19, 2019
 
 <br/>

@@ -14,6 +14,9 @@ A colleague's chance encounter with Jonny Mitchell, headteacher of <a href="htt
 
 The first target set after each appraisal is data-driven and must include what Jerry O'Hara referred to as a 'basket of measures' - a range of stretching but achievable targets that are quantifiable and measurable.
 
+<!--more-->
+
+
 The second is directly linked to the Teacher Standards. Teachers must run down the list of standards and identify areas where they would like to improve. These areas then form the basis of what they set themselves as a second target.
 
 The final target is one set by the school that marries in with the weaknesses the school has identified as part of it self-evaluation. In Thornhill's case this year there is a school-wide focus on differentiation, so targets based around differentiation are set for all staff as their third area of focus.

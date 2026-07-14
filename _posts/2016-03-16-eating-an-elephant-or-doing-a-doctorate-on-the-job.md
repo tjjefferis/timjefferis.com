@@ -16,6 +16,9 @@ That colleague's exhortations prompted me to do an <a href="http://www2.le.ac.uk
 
 Fast forward a few years though and I found myself in a school with no Saturday lessons. A burning ambition developed in me to get to the top of the <a href="http://www.accreditedqualifications.org.uk/qualifications-and-credit-framework-qcf.html">national qualifications framework</a> (I'm competitive like that!) So it was that I enrolled for a <a href="http://www.birmingham.ac.uk/postgraduate/courses/combined/edu/edd-education.aspx">professional doctorate at Birmingham</a> in September 2011.
 
+<!--more-->
+
+
 I had hoped to get in done in 4 years, but in the event it will have taken at least five. Here's the advice I'd offer to anyone looking to complete a doctorate faster than I have:
 <ol>
 <li>

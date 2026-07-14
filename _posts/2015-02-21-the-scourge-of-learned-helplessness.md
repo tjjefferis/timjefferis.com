@@ -14,6 +14,9 @@ Our daughter, we were told, was displaying signs of dyslexia: would we like her 
 
 The report, we'd be told, would enable teachers to understand our daughter and come up with 'intervention strategies' to help her. To those not in the know it sounds so beguiling - hand it over to the professionals and they'll take care of things.
 
+<!--more-->
+
+
 But let me tell you, people - in most cases these assessments are a complete waste of time and money. The educational psychologists who profit from them are charlatans and the schools which peddle them are weak and naive. If someone is struggling it's easier to call in professional help than it is to spend the hours needed going 'back to basics'.
 
 In my own daughter's case, sure enough, several months after the assessment, the report arrived. And sure enough, just as I had feared, it was poorly formatted and littered with spelling mistakes including, believe it or not, the misspelling of my daughter's surname. Vast chunks of the report had been lifted wholesale from elsewhere; it trotted out banal, catch-all statements that put me in mind of a <a href="http://skepdic.com/barnum.html" shape="rect">Barnum statement</a>.

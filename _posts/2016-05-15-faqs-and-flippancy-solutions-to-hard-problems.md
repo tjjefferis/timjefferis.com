@@ -15,6 +15,9 @@ document. First off, the act of constructing such a thing really focuses the min
 Secondly, if you get it right, it can be disseminated publicly and so diffuse much
 of the angst that unpopular decisions precipitate.<o:p></o:p>
 
+<!--more-->
+
+
 I also find that by phrasing at least some
 of your questions in the manner of your most obstreperous constituent you can really
 take the wind out of their sails. Clearly you have to be careful here, but a bit
@@ -78,4 +81,3 @@ bit of ‘pain’ now is worth it as a small repayment for the loyalty shown by 
 pupils and their parents.<o:p></o:p>
 
 <br/>
-

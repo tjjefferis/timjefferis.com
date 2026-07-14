@@ -11,6 +11,9 @@ date: 2016-03-16
 Navigating around - the 'Google Waffle'
 
 E-mail
+
+<!--more-->
+
 <ul>
 <li>
 labels vs folders

@@ -16,6 +16,9 @@ Current mobile device: <a href="http://www.htc.com/uk/smartphones/htc-one-m8/" 
 
 Current computer: HP Chromebook - I am completely enveloped in the Google ecosystem - for most of my work that is all I need.
 
+<!--more-->
+
+
 One word that best describes how you work: Digital
 
 What apps/software/tools can't you live without?

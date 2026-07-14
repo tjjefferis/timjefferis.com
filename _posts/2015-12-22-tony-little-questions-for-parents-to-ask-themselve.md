@@ -15,6 +15,9 @@ I have only met Tony Little once - at a dinner in Eton for the friends of master
 When, earlier this year, I spotted that he had written <a href="http://www.amazon.co.uk/An-Intelligent-Persons-Guide-Education/dp/1472913116" shape="rect">a book to coincide with his retirement</a> I rushed out to buy it. Sure enough, it didn't disappoint. The book, written in an easy conversational style, is full of the sort of wise, sensible advice that results from years of on-the-job experience. It will now sit alongside my collection of <a href="https://en.wikipedia.org/wiki/John_Rae_(educator)" shape="rect">John Rae's</a> writings, to be regularly dipped into for inspiration and moral support.
 
 At the end of Little's book, he poses ten questions which he wishes parents would ask themselves before considering his school. They are rather wonderful, so I record them here in full:
+
+<!--more-->
+
 <ul>
 <li>
 Do I believe my child is almost perfect?

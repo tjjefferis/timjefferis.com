@@ -16,6 +16,9 @@ But reading the <a href="http://dougbelshaw.com/blog/archives/" shape="rect" tar
 
 So, I'm going to try return to bit more of a routine with blogging. One of blogging's most useful functions, for me, has been that the act of writing things down forces me to think and to crystallise my opinions. Blogging is also a useful way of holding myself publicly accountable, and for recording progress over time. For this reason - following Doug's example - I thought I'd start with a monthly '<a href="http://dougbelshaw.com/blog/2010/05/03/calling-myself-into-the-office-may-2010/" shape="rect" target="_blank">Calling myself into the office</a>' series.
 
+<!--more-->
+
+
 This happens to be a perfect time to start such a series as it coincides with the end of my first year working abroad and the fact that I have been asked to do one of these for real before the new year starts; the personal and professional collide nicely.
 
 In my next post, therefore, I will be 'calling myself into the office' and will endeavour to keep these going on a monthly basis going forward. These days Doug does even more regular <a href="http://dougbelshaw.com/blog/2018/06/08/weeknote-23-2018/" shape="rect" target="_blank">weeknotes</a> but I somehow doubt I'll be able to sustain that level of output. Added to this, weekly posts might make it harder to build some opacity into what I write and so avoid divulging 'state secrets'. Once a month it is.

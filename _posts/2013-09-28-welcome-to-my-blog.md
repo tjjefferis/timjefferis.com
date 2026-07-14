@@ -14,6 +14,9 @@ Useful things I learnt today were:
 <ol>
 <li>
 <a href="http://tweetdeck.com/" shape="rect" target="_blank">Tweetdeck</a> is a powerful way of managing your Twitter and Facebook feeds BUT the IoS version is soon going offline so I've opted for HootSuite instead.
+
+<!--more-->
+
 </li>
 <li>
 There is a whole new world of research out there ripe for the picking: netnography, mining of meta-data etc.

@@ -10,5 +10,7 @@ Good grief it's embarrassing! I sound like a rabid English nationalist and the d
 
 I've always enjoyed public speaking - even crediting myself with being rather good at it. So watching this is sobering.
 
-I hope I've learnt to be a bit quieter, a bit more humble and a bit more reflective over the past few years. Most Thais are the antithesis of brash - the poor audience must have been cringing!
+<!--more-->
 
+
+I hope I've learnt to be a bit quieter, a bit more humble and a bit more reflective over the past few years. Most Thais are the antithesis of brash - the poor audience must have been cringing!

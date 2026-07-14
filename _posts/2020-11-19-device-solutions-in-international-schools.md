@@ -14,6 +14,9 @@ Since I rolled out <a href="https://timjefferis.blogspot.com/2019/04/g-day-byod-
 
 Unfortunately, like most things IT-related, there are some acronyms it's useful to know about before diving into the detail. In relation to device-use in schools here are the ones you're likely to come across:
 
+<!--more-->
+
+
 <b>BYOD</b> - bring your own device. Pupils (and/or teachers) may bring their own device into school to connect to the network.
 
 <b>CYOD</b> - choose your own device. Pupils/teachers may choose their own device from a range of school-ordained options.
@@ -166,4 +169,3 @@ Teachers are supplied with a Dell laptop, the newest versions of which (Latitude
 Over the past few years we've mulled over becoming an Apple school and we've toyed with the idea of rolling out Microsoft Surfaces etc. But when it has come down to the nuts and bolts, no one solution has been the right fit for the whole school. As a result, we've made a strength out of not having committed ourselves too firmly to any particular platform. Although the array of choices can be bewildering at times, pupils leave our school not having had any particular system foisted on them. They go out into the world with the flexibility to embrace whatever computer system best fits the projects they find themselves working on.
 
 I'd love to hear how things work in your school, particularly if you work in a K-12 international school. Do you have a similar setup? What have you found that works?
-

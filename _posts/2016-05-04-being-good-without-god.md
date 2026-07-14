@@ -14,6 +14,9 @@ Richard Dawkins was on the side of the decent thing brigade, making the point th
 
 "If you find somebody's wallet and nobody (no umpire) sees you pick it up, you don't keep it, you walk to a police station &amp; hand it in".
 
+<!--more-->
+
+
 I have to say that I agree with Dawkins wholeheartedly.  Too often, even in schools, this sort of poor sportsmanship is laughed off with a wink and a nod. Why is it that otherwise upstanding teachers (and parents) accept dishonest behaviour in the name of sport? The odd stamp here, the odd appeal there is seen as fair game.
 
 I won't have any of it, and neither will Dawkins. It is significant that Dawkins, as a vociferous atheist, takes the moral high ground here. Many religious people opine that those without belief in god have no reason to be good, honest and upright.

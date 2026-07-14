@@ -38,6 +38,9 @@ A portal website will be set up designed to collect basic biographical informati
 
 This biographical information will be analyzed by UK based specialists (the minimum viable product doesn't envisage needing to employ anyone extra on the payroll, subsuming the early inquiries into the workload of the already extant marketing department at Oswestry School). Once a selection of suitable schools have been identified Rabbits will call parents back at an agreed time.
 
+<!--more-->
+
+
 Rabbits are critical to the whole process and will be carefully recruited UK university students of the appropriate nationality. They will have been trained in the processes involved in testing, advising and matching pupils to schools. Close liaison between the Rabbits and the main UK office will ensure that parental questions are dealt with promptly and honestly. At this stage in the process:
 
 1. Skype tests/interviews will take place to assess the candidate's suitability for the various programmes on offer at UK boarding schools

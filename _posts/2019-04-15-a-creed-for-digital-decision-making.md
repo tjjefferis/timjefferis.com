@@ -16,6 +16,9 @@ I gave members of the committee two minutes to write on post-it notes things tha
 <ul>
 <li dir="ltr">
 <a href="https://www.blogger.com/blogger.g?blogID=9145285415158126914" imageanchor="1"></a>Stick to ICT and systems
+
+<!--more-->
+
 </li>
 <li dir="ltr">
 Do not mention products or brand names

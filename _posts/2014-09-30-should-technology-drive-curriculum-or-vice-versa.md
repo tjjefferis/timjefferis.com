@@ -14,6 +14,9 @@ I know what he meant. Beyond a certain - quite limited - diet of things every ch
 
 But more importantly, you are far better off being taught anything by an expert, enthusiastic and steeped in their subject, than you are by a layperson. Anything is the operative word here. Quite what they teach matters not; those experts will be giving you something priceless all the same.
 
+<!--more-->
+
+
 This is why getting teachers to teach PSHE (and getting pupils to enjoy it) is such an uphill struggle in schools. The teachers aren't experts, the majority aren't turned on by the subject, and the kids know this. So it is with humanities departments where non-specialists find themselves teaching disciplines they have no particular affinity for. Lessons become Gradgrindian affairs where 'material' is 'delivered' to hapless 'consumers'.  Ugh.
 
 Management-speak and a misguided belief in the immutability of curriculum content suck all the innocent delight in learning something - anything - just for the fun of it. It would be a brave head who designed the curriculum around the strengths of her staff, but I think having taken the plunge things would change for the better pretty quickly.

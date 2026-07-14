@@ -16,6 +16,9 @@ There is a long lead up to a CIS re-accreditation, with the cycle repeating on a
 <ul>
 <li>
 A huge amount of weight is put on the findings of each domain by the visiting team. Having someone highly competent to upload the findings and all the supporting documentation to the CIS portal is a must. We were lucky to have <a href="https://www.linkedin.com/in/dr-denry-machin-14587427/">Dr Denry Machin</a> do this for us. He'd been through the process (both as the accredited and as the accreditor) several times and so knew the pitfalls. Leave plenty of time for doing this - it is a labour of love.
+
+<!--more-->
+
 </li>
 <li>
 Once the date has been set for the accreditation there is likely to be a long wait. I found this unnerving, but you shouldn't worry. In the background, CIS are putting together your team and this takes time, given that they recruit team members from across the world.

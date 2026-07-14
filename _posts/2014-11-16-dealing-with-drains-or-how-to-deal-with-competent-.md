@@ -19,6 +19,9 @@ And here's the nub of the problem: if they were doing something truly awful you'
 <ol>
 <li>
 Confront - draw attention as soon as you notice it is becoming a problem to the 'vibe' they are giving off. Ignoring the problem can normalise it and then you really are in trouble...
+
+<!--more-->
+
 </li>
 <li>
 Listen - these kinds of needy individuals can sometimes be turned around simply by the act of listening. They have things that they need to get off their chest so let them, in private, sound off.

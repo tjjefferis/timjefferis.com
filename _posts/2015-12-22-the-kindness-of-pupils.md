@@ -14,6 +14,9 @@ All this is nice, of course, but for me, it's the personal messages of thanks pe
 
 This year, for one reason or another, I've not given my classroom teaching the full attention it deserves. I've missed rather more lessons than I would have liked and, for the ones I have been in attendance for, I've fallen back on trusted staples more often than I have spent time preparing new material. So the praise I've received this year from pupils - more direct an effusive than I can ever remember - seems especially undeserved. Perhaps there's even more truth than I first supposed in the importance of <a href="http://tjj.postach.io/post/simple" shape="rect" target="_blank">keeping things simple</a>, and sticking with what works. Pupils seem to like it.
 
+<!--more-->
+
+
 But I suspect I'm reading too much into things. There is no rhyme or reason to the levels of kindness and appreciation pupils show when they part teachers' company. I can think of plenty of pupils who I went to extraordinary lengths for, but who I've never heard from since. Equally, there are pupils who just got on with things without fuss and whom I felt, as a consequence, I rather neglected and yet they seem infused with gratitude.
 
 This year, exactly these sort of pupils, saw fit to compose <a href="https://docs.google.com/document/d/1-WR6RSHbRp9VIK0DiNkRQd1rKFucr9HJQ06HhsEWA3U/edit?usp=sharing" shape="rect" target="_blank">a song for me</a>. I found this incredibly touching - even if it is a sobering reminder of what pupils pick up on (must get rid of those putty-coloured trousers). Whilst another pupil - a hard-working and very self-sufficient one - sent me this lovely note just before she left. To say it makes it all worthwhile would be an understatement...

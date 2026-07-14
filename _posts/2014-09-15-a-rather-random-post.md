@@ -16,6 +16,9 @@ Share five random facts about yourself.
 
 2. My favourite place on earth is the Langdale Valley, Cumbria.
 
+<!--more-->
+
+
 3. I once pulled the emergency cord on a high-speed inter-city train.
 
 4. I'm deaf in my right ear.

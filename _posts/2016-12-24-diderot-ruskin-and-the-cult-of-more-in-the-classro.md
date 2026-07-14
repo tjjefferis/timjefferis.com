@@ -14,6 +14,9 @@ I was asked recently in an interview how important I thought resources and the b
 
 I didn't stop here, of course, but I learnt later that the panel had considered this response flippant. The more time I spend in the profession, though, the more I have come to believe that the best teachers are those able to teach with meagre resources. I should stress that I'm no Luddite: I think it's right that schools are well resourced and that teachers and pupils are properly equipped. My point is that in most cases the equipment is a nice to have not a need to have. That's an important distinction. When teachers get into the mindset that they can't teach without this or that tool, then we're in trouble.
 
+<!--more-->
+
+
 James Clear's <a href="http://jamesclear.com/diderot-effect">post about the Diderot effect</a> has a message for us as teachers too. Diderot observed that obtaining a new possession can result in a spiral of consumption that leads us to acquire yet more new things. As James explains:
 
 Life has a natural tendency to become filled with more. We are rarely looking to downgrade, to simplify, to eliminate, to reduce. Our natural inclination is always to accumulate, to add, to upgrade, and to build upon.

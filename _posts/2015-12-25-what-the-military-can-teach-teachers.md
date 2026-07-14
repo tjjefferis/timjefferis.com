@@ -14,6 +14,9 @@ I'm not a military man per se (though those who know me will get that my rathe
 
 I have however had a long and very rewarding association with various branches of the military. I was a CCF cadet at school and, inspired by the formidable <a href="https://www.linkedin.com/profile/view?id=52068613&amp;authType=NAME_SEARCH&amp;authToken=Qr8W&amp;locale=en_US&amp;srchid=2200843211423746846462&amp;srchindex=1&amp;srchtotal=4&amp;trk=vsrp_people_res_name&amp;trkInfo=VSRPsearchId%3A2200843211423746846462%2CVSRPtargetId%3A52068613%2CVSRPcmpt%3Aprimary" shape="rect" target="_blank">John Ing</a>, flirted for some time with the idea of joining the Royal Marines. But, having failed to get a Royal Marines scholarship whilst still at school (sour grapes), I turned my attention to the Irish Guards and throughout most of my time at university had every intention of signing up as soon as I'd finished my studies. I joined the 3rd (TA) Bn Worcestershire and Sherwood Foresters whilst I was at Nottingham and had earnt my commission by the time my degree came to an end. The three weeks I spent at Sandhurst on the weekend warriors' version of the commissioning course were as formative as any other 21 day period I can recall having had before or since.
 
+<!--more-->
+
+
 In the end, the imminent arrival of my (now 16-year-old) daughter persuaded me that signing for a bachelor life of mess high-jinx and months abroad would be irredeemably selfish. I enrolled on the Nottingham PGCE instead and the rest, as they say, is history.
 
 But I've kept close connections with the military. For a short while I commanded a TA Platoon in Canley, Coventry until my Saturday school commitments made continuing to do so unworkable. And I have now clocked up over 16 years' continuous service as a CCF officer. During that time I've seen a lot of military-style instruction, both good and bad. Here though are some of the good bits:

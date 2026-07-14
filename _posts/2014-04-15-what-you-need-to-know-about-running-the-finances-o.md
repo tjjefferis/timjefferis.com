@@ -15,6 +15,9 @@ As an added fillip today, the final interview day, I'm free to blog whilst the r
 
 In this case, the interview panel thought my Achilles' heel was my knowledge of school finance. So in view of the fact that the <a href="http://ideas.time.com/2011/11/30/the-protege-effect/" shape="rect">best way of learning something is to teach it</a>, I thought I'd seek to address this weakness by writing a blog post on the topic:
 
+<!--more-->
+
+
 How do you find out what state a school's finances are in?
 
 Independent Schools, as charities, must publish their accounts on the  <a href="http://www.charity-commission.gov.uk/" shape="rect">Charity Commission website</a>. It is fairly easy to see therefore what the turnover of an institution is, what its staff costs are and whether there are any significant debts on the books etc.  <a href="https://www.youtube.com/watch?v=dcXRu42xi3s" shape="rect">Here's how to do it</a>. Once you've looked up a school's financial records and deciphered what's going on a rule of thumb in assessing the financial health of a school is that it should be generating an operating surplus of 7-10%.

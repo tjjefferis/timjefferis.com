@@ -14,6 +14,9 @@ But there is another potentially powerful aspect to the concept of the flipped c
 
 My little bunch of U6th geographers need this kind of high-input, one-on-one help. This year's examinations require them to write essays, though they all find this very difficult. Really they need me standing over them, feeding them ideas, advising them on planning and helping them marshal their thoughts on paper. But I am conscious that by setting them too many in-class essays I would eating into valuable teaching time and endangering my ability to get through the syllabus content. In addition, one-to-one tuition in the traditional classroom setting is difficult to achieve (the normal model is that pupils in a class are asked to work quietly on something and then called out one at a time to the teacher's desk for their allocated dose of personal attention). This is never entirely satisfactory, not least because conversations had with pupils in this way are in no way private and because there is usually some disruption to the flow of teaching to allow such meetings to take place.
 
+<!--more-->
+
+
 But by making use of real-time online collaboration applications these problems are removed. I opted to try using Hackpad to help my U6th geographers better compose their essays. Taking a leaf out of @dajbelshaw's <a href="http://dougbelshaw.com/blog/2013/08/25/the-silent-writing-collective/" shape="rect" target="_blank">'Silent Writing Collective'</a> I agreed with my set that we'd meet online at 8pm on Sunday night for an essay writing session. It worked a treat:
 
 <ul>

@@ -14,6 +14,9 @@ So here they are, in no particular order (if you're not on this list, please don
 <ol>
 <li>
 <a href="https://twitter.com/dajbelshaw" shape="rect">@dajbelshaw</a> - he and I come from <a href="http://staffrm.io/@tjjteacher/OPbRHZlN93" shape="rect">different ends of the political spectrum</a>, but share a good deal in common nonetheless. He was one of the first people I followed on Twitter when I started back in 2011. I'm not even quite sure how our paths crossed - that's the wonderful thing about Twitter it results in serendipitous connections that would likely never happen in 'real life'. Anyway, he <a href="http://dougbelshaw.com/blog/" shape="rect">blogs</a> and tweets feverishly about all things to do with education and technology. He's a deep thinker and prolific connector. If anyone amongst the people I follow deserves to be described as a 'thought leader' it's him. I've subscribed to his <a href="https://dougbelshaw.makes.org/thimble/LTE5NTkxMzI2NzI=/things-we-learned-this-week" shape="rect">weekly newsletter</a> since I first became aware of it and there are not many weeks where I don't learn something new as a result. Recently he's started a <a href="http://dougbelshaw.com/blog/2015/03/10/tide-podcast/" shape="rect">podcast on EdTech ideas</a> with Dai Barnes (cf) which has also become a weekly ritual for me. If you don't follow him yet, you should.
+
+<!--more-->
+
 </li>
 <li>
 <a href="https://twitter.com/daibarnes" shape="rect">@daibarnes</a> - Dai has recently become head of digital strategy at Oundle. He's doing a job which closely mirrors mine (or at least what I hope mine will become!) He has <a href="http://daibarnes.info/blog/" shape="rect">a great blog</a> on which he occasionally interviews heroes in the EdTech world. I never tire of reading his <a href="http://daibarnes.info/blog/category/how-i-work/" shape="rect">'This is how I work posts'</a>. He seems quieter on Twitter than many, but whenever I remember, his timeline is worth a scroll through.
@@ -69,4 +72,3 @@ Then, the drink is to be lifted with a ‘cheers’ before the participant nomin
 The educator that is now (newly) nominated, has 7 days to compose their own <a href="https://twitter.com/search?f=realtime&amp;q=%23TwitteratiChallenge&amp;src=typd" shape="rect" target="_blank">#TwitteratiChallenge </a>blog post and identify who their top-5 go-to educators are.
 </li>
 </ol>
-

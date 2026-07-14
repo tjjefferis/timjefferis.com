@@ -17,6 +17,9 @@ This could have been embarrassing! I have forced myself to be honest though and 
 
 If I'm honest this drawer is a bit of a window into the past. I put things in the drawer that I don't use very often. There's a hole punch, a stapler and some ring-reinforcers in there. I used to religiously file away all my teaching notes and document everything that I taught so that I could refer to it again.
 
+<!--more-->
+
+
 These days I try to do away with paper as much as I possibly can, using a combination of <a href="https://evernote.com/">Evernote</a>, <a href="https://drive.google.com/">Google Drive</a> and <a href="https://realtimeboard.com/">RealTimeBoard</a>. The special Filofax hole punch - purchased at great expense - is similarly an item from another era.
 
 The little tartan pencil case contains stuff for refereeing - whistles, a red and yellow card, garters and some spare football studs. Since coming to Oswestry, where we have a large team of specialist sports staff, the items in this bag have been sorely underused. Without the need to head out onto the games pitches three times a week I've had to really work at getting myself out from behind the desk and keeping myself healthy. Trips such as the <a href="http://www.cyclingforcharity.org/">one I carried out this summer</a> are, at least in part, an attempt to keep the middle-aged spread at bay!

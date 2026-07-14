@@ -15,6 +15,9 @@ Posts <a href="http://lifehacker.com/5738093/why-you-learn-more-effectively-by-w
 <ol>
 <li>
 Going digital, and insisting that pupils do the same, enables far greater collaboration than the old way of doing things ever did. Pupils can collaborate with pupils and, better still, pupils can collaborate with the teacher. Applications like RTB make it relatively easy to set up exercises in which there are real demands for intellectual engagement with a topic that go far beyond the process of simply scribbling down notes.
+
+<!--more-->
+
 </li>
 <li>
 Going digital removes several of the scourges of the old paper-based way of doing things:

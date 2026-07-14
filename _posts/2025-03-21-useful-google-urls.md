@@ -12,6 +12,9 @@ Here are some examples:
 
 The whole point of Google is generally to adopt the canonical principle, but there are use cases for forcing a recipient of a document you’re sending to make a copy of it. If you want to do this, here’s how.
 
+<!--more-->
+
+
 Make sure you share the document and are using the share URL:
 
 <a href="https://blogger.googleusercontent.com/img/a/AVvXsEjqneoasKYSbDuK3gBAgfrMdXk3O-uynWFsp56avdR0YjydpaNExyRcncA_rBJV_QivcIP11-mI2NSMXsWFT5HAcTgZK_W6fBNITlX4njaMudNdZLbs8aAhA_H0EFqqIP_lWt9lpBCv1SmTVK1eGjK0nYS2F1aVhH_O0aKQTWSjXdehhxuG6ALKoLfNj7I">

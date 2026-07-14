@@ -12,9 +12,11 @@ Just after midnight on New Year's Eve, I deleted LinkedIn, Facebook, Twitter, In
 
 I realise that most people don't care:
 
+<!--more-->
+
+
 &gt; "When people announce they are 'signing off for Christmas' on Twitter. pic.twitter.com/UYnpNElBjc"
 &gt;
 &gt; — Carl Hendrick (@C_Hendrick) December 24, 2018
 
 But on the off chance that you are wanting to get to me through these networks, my response this year will be slow.
-

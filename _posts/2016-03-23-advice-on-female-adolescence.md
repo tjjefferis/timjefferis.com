@@ -14,6 +14,9 @@ Having been reminded in a <a href="http://www.nickdennis.com/blog/2015/08/18/one
 
 I have used John McConnell's structure heavily - because I think it's so wonderful - and doctored his letter to apply instead to the parents of 14-year-old girls. My own daughter is 16 now, so as you can imagine I rather enjoyed writing this. I started with 14 as the age of the fictional girl because that's the age (or possibly earlier) that I think girls start to wrestle hardest with the demon adolescence.
 
+<!--more-->
+
+
 <i>Dear Mr and Mrs X,</i>
 
 <i>Today is Jemima's 14th birthday. You will be pleased to hear that she has been receiving a large and varied assortment of Amazon parcels all week in the lead-up to this momentous occasion. This morning, throughout breakfast, her phone was buzzing ceaselessly with notification updates - a testament to her popularity within the school. I'm afraid I had to remove the device from her temporarily to allow her to finish her cornflakes in peace.</i>

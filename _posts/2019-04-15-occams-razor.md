@@ -14,6 +14,9 @@ Put simply (there is no other way!) William of Occam's principle boils down to
 
 It is a principle that can be applied to almost any organisational problem, and it works wonders. And the more organisations rely on computers for their functioning, the more important the principle becomes. As <a href="http://www.techrepublic.com/blog/it-security/security-complexity-and-the-gui-environment/">this article</a> explains:
 
+<!--more-->
+
+
 "Every time you increase the complexity of a system, you increase the opportunity for something to go wrong in its design."
 
 Developing this theme, another <a href="http://www.techrepublic.com/blog/it-security/the-danger-of-complexity-more-code-more-bugs/">TechRepublic article</a> quotes <a href="https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry">Antoine de Saint-Exupery</a> as having said:

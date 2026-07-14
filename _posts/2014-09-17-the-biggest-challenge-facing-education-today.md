@@ -14,6 +14,9 @@ So long as no one undoes his good work, within a year the scourge of L6 modules 
 
 But Mr Gove's most eloquent detractors rightly identify a flaw in his plans. Whilst they represent excellent provision for those of an academic disposition provision remains patchy and inadequate for those turned off by traditional school work. Part of the problem has to do with the status non-academic routes into work are accorded in the national psyche.
 
+<!--more-->
+
+
 The much-vaunted knowledge economy also needs people skilled in what used, rather pejoratively, to be called the 'trades'. We need to develop the equivalent of the German Berufsschule to train up the highly skilled tradespeople of the future. The sloppy diet of 'ed-lite' courses currently offered in many sixth form colleges won't do. People who have been failed by the system, leaving school with few or no GCSEs are being further let down by low-quality vocational training.
 
 The biggest change that needs to happen though is in the minds of parents - the worst of whom, sadly, send their children to private school. There needs to be an acceptance that not every child is destined to be a high court judge, doctor or a university professor but that those don't enter the professions are equally valued by society and remunerated as such. Taking vocational training much more seriously would be a step in the right direction.

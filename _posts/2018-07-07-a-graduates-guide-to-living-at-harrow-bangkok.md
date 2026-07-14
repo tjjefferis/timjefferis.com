@@ -18,6 +18,9 @@ Nightmarket - if you walk out of the back of boarding, there is an excellent nig
 </li>
 <li>
 7-11 food stand - opposite Sienna House there is a 7-11 and in front of this 7-11 is a food stand. This seems to be open most nights and you can get a very filling meal for under 50THB.
+
+<!--more-->
+
 </li>
 </ul>
 

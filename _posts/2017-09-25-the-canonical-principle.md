@@ -14,4 +14,7 @@ The holy-grail, I've found - greatly facilitated by cloud computing packages lik
 
 Once you have adopted the canonical principle setting up and maintaining your intranet becomes a cinch - links work, and don't need updating. Also, staff know that the document they've found reflects the current truth about an issue. It also becomes possible for documents to link to each other and a coherent, joined-up whole starts to develop. The principle works particularly well in respect of policy documentation, but it doesn't end there. In my experience there are vanishingly few exceptions to the rule that all school documents should be cloud-based and canonical. It's probably only documents that must actually be printed that fall into the exception category (prospectuses perhaps?), though even here there's a strong case to be made for the source files themselves to be canonical. It's far safer to link to a dynamic cloud-based prospectus than to a static one: you know the link won't break, nor will you run the risk of advertising out-of-date information.
 
+<!--more-->
+
+
 I encourage you to join me in adopting the canonical principle :-)

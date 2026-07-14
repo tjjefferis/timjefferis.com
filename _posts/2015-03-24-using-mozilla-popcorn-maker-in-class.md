@@ -14,6 +14,9 @@ But of course, using video is not without its problems. If the activity isn't ma
 
 I've found that a bit of time spent setting the activity up and reducing the opportunities for off-task activity can make a world of difference and generate some impressive results. Also since <a href="https://popcorn.webmaker.org/" shape="rect">Mozilla Popcorn</a> maker has been available making videos - a task that used to require a good deal of expensive specialist equipment - has become a cinch.
 
+<!--more-->
+
+
 I recently used the Popcorn maker to get a class of U6th geographers to document some fieldwork they had done in the Lake District. The trip involved a 'look see' at some of the classic glacial landforms. I wanted to ensure that the things they had seen in the field stuck in their minds and that they were able to relate them to the stylized text-book diagrams they'd seen before we left. Making short films about each glacial feature seemed an obvious way to do this.
 
 So, armed with a selfie stick and our phones we headed off into the field.
@@ -23,4 +26,3 @@ Every time we came across a feature that I wanted them to identify I explained w
 By way of example, <a href="https://george97.makes.org/popcorn/2rgr">this is the sort of thing</a> we were able to produce in a matter of minutes on return to the classroom.
 
 Definitely worth a play.
-

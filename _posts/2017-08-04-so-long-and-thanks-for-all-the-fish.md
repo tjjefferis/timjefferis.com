@@ -13,3 +13,5 @@ So, after six years I have finally packed up and left <a href="http://oswestrysc
 It has been a wonderful place to work and to test and then refine my skills as a senior manager. In being a small school (only 350 pupils in total) teachers must be jacks of all trades. I can think of no better place to have cut my teeth before moving onto something <a href="http://www.harrowschool.ac.th/">bigger and slightly more exotic</a>.
 
 Thailand here we come...!
+
+<!--more-->

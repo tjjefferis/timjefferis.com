@@ -18,4 +18,7 @@ But if I'm honest it might result in the 'wrong sort of attention' being paid. I
 
 So no, I think if I was offered a superpower I'd go for something a little more modest. I'd go for one that conferred on me the ability to fix any IT problem without deviating from the course of my lesson. Slow logins would be banished with a click of my heels; forgotten logins with a touch of my earlobe. Corrupted or 'lost' coursework (now, thanks to Google, mercifully rare) would be restored with a slight incline of my head, such that my lessons progressed uninterrupted in a kind of digital utopia. Bemused colleagues - particularly those given to trumpeting how things were better when we sent each other paper notes and wrote reports by hand - would leave my presence marvelling at the simplicity of it all, at how stuff just worked. No fuss, no delay, no downtime and certainly no blue screens of death...
 
+<!--more-->
+
+
 If I could do that I think my life would be complete.

@@ -23,9 +23,11 @@ I spend most of my holidays up in the <a href="http://en.wikipedia.org/wiki/Lak
 </li>
 <li>
 I really enjoy reading and listening to podcasts. Current affairs interest me and so I am able to make my teaching relevant. Geographers - much maligned as pencil-sharpening rugger-buggers - actually have a lot to say about the world.
+
+<!--more-->
+
 </li>
 <li>
 I keep myself fit and recently have taken to setting myself big physical challenges. Last year I did <a href="http://www.cyclingforcharity.org/" shape="rect" target="_blank">this</a>, this year I intend to do <a href="http://en.wikipedia.org/wiki/Bob_Graham_Round" shape="rect" target="_blank">this</a>. I like to think that these things give me a bit of a spring to my stride and make my lessons more energetic than they might otherwise be.
 </li>
 </ol>
-

@@ -13,6 +13,9 @@ The other day I took a group of staff to <a href="https://teacherhead.com/about/
 I realise now that this was a mistake. If you offer something to people for free, they don't value it as much as if they had paid for it themselves. Two staff members pulled out at the last minute and I was unable to find replacements - a cost to the school of $300.
 
 What I should have done was to ask staff to sign up, pay for themselves, and arrange for reimbursement afterwards. I think this principle holds for almost anything of great value that you intend to offer free of charge. I note that at my school:
+
+<!--more-->
+
 <ul>
 <li>
 we ask for teachers to pay for higher education courses themselves first, and then reimburse
@@ -26,4 +29,3 @@ we expect all parents to have 'skin in the game' in terms of fees, even if heavy
 </ul>
 
 This, I have no doubt, annoys those who have to come up with the money themselves first, but there is a good reason for it. Self-paying gives ensures a better sense of value and worth and reduces the likelihood of last minute changes of heart.
-

@@ -55,6 +55,9 @@ Graduates spend
 a week off-campus in a Thai government school that Harrow has connections with.
 Here they assist with English language acquisition, with sport and with their
 own subject specialism. The interns play a full part in our super-curricular
+
+<!--more-->
+
 provision, volunteering enthusiastically for off-site trips all over Thailand
 and beyond. <o:p></o:p>
 

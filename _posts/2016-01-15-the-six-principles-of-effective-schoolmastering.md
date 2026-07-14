@@ -14,6 +14,9 @@ In each of these schools, there has been a very clear expectation that teachers 
 <ol>
 <li>
 Enjoy the company of children outside the confines of the classroom in both informal and formal situations. Pupils should like being with you, and you with them. Your relationship with them should be relaxed and convivial without there ever being any doubt as to your status as the responsible adult.
+
+<!--more-->
+
 </li>
 <li>
 Be prepared to write off term-time as leaving little time for much outside. Your compensation will come in long holidays - which you should guard jealously - but whilst school is in session you must be able to accept, without resentment, that there will be little in the way of work-life balance. The best schoolmasters cope with this state of affairs by avoiding a sharp distinction between work and leisure and embracing schoolmastering as a lifestyle choice.

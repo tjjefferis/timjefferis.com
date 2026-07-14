@@ -20,6 +20,9 @@ the history department being branded the 'shitory' department following a series
 </li>
 <li>
 a reply to all in which an-under-the-table deal between the director of sport and a teacher who rather fancied being free on Wednesday afternoons came to light: 'I thought we'd agreed you'd say I was doing badminton!'
+
+<!--more-->
+
 </li>
 </ul>
 

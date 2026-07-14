@@ -20,6 +20,9 @@ This is tough. There is so much good stuff out there. I came back from a course 
 
 <a href="http://www.sheppardsoftware.com/Geography.htm" shape="rect" target="_blank">Sheppard Software</a> - the geography area of this site is a rich seam of locational knowledge quizzes of varying difficulty. A great place to point pupils for homework, or something to use as a starter or finisher, or as part of an end of term quiz. I come back again and again and have been doing so for years...
 
+<!--more-->
+
+
 Addendum
 
 I was contacted recently (3/2/2017) by a young geographer called Dakota. She put me onto <a href="http://www.shearcomfort.com/take-seat-road-trip-geography.asp">this resource</a> and asked if I'd be willing to share it here. Bloggers are always delighted to hear from their readership and so, of course, I am only too happy to oblige. Thank you, Dakota. It looks like a really interesting resource. It contains curated links to a number of websites and resources: useful for novice and experienced geographers alike :-)

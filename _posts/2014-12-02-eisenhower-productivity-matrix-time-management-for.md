@@ -12,6 +12,9 @@ Last night was a write off work-wise because of the new staff drinks - a pleasan
 
 Also on your desk is a request from the department of education to check the figures they have for the school's summer examination results. The deadline for the letter is Monday 7th October. Tomorrow there is an academic extension meeting at lunchtime and it's your turn to run the session. The head of 5th form has asked you to prepare something to say to the year group about what lies ahead of them - you'd like to say something high impact and make a real impression on them but there might not be time...
 
+<!--more-->
+
+
 Also on your to-do list are:
 
 <ol>

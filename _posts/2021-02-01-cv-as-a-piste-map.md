@@ -10,5 +10,7 @@ This is potentially dull stuff, so I wanted to make something that would catch p
 
 Mmm I thought... maybe I could do the same as a piste map? So I had a go, using Keynote as he suggests. Here's the result - a bit of fun if nothing else :-)
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnNDvtGWz0XxHiY4JRJOGrq6JK6doZdNwHYQo_pmTXzcDwVZVBt_pJP377RQ5GceseSeqjisejsZ1qDQPuDnyFi4Jcc7zPqgtx41eeVggOrgv2zDr0aPWSfyp0cN6Ng3YKzoJww_VvrgL1/s754/Resume.jpg"><img border="0" data-original-height="424" data-original-width="754" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnNDvtGWz0XxHiY4JRJOGrq6JK6doZdNwHYQo_pmTXzcDwVZVBt_pJP377RQ5GceseSeqjisejsZ1qDQPuDnyFi4Jcc7zPqgtx41eeVggOrgv2zDr0aPWSfyp0cN6Ng3YKzoJww_VvrgL1/w640-h360/Resume.jpg" width="640"/></a>
+<!--more-->
 
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnNDvtGWz0XxHiY4JRJOGrq6JK6doZdNwHYQo_pmTXzcDwVZVBt_pJP377RQ5GceseSeqjisejsZ1qDQPuDnyFi4Jcc7zPqgtx41eeVggOrgv2zDr0aPWSfyp0cN6Ng3YKzoJww_VvrgL1/s754/Resume.jpg"><img border="0" data-original-height="424" data-original-width="754" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnNDvtGWz0XxHiY4JRJOGrq6JK6doZdNwHYQo_pmTXzcDwVZVBt_pJP377RQ5GceseSeqjisejsZ1qDQPuDnyFi4Jcc7zPqgtx41eeVggOrgv2zDr0aPWSfyp0cN6Ng3YKzoJww_VvrgL1/w640-h360/Resume.jpg" width="640"/></a>

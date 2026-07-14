@@ -9,6 +9,9 @@ Last weekend I attended the [FOBISIA CPD leaders' conference](https://www.fobisi
 The conference was held at the [Prince of Wales Island International School (POWIIS)](https://www.powiis.edu.my/) and kicked off with an address from [the Principal](https://www.powiis.edu.my/about-us/from-the-principal/). He made a few points which resonated with me:
 
 1. When looking through applications, a long list of CPD courses attended is never something that leaps out at him.
+
+<!--more-->
+
 2. CPD should focus on building teachers' strengths - too often it is used to try to address their weaknesses.
 3. The best sort of CPD centres around people and connections, not keynote speakers.
 4. Recruiting staff is like following a recipe - you look for the right ingredients, and sometimes can't find them. Nonetheless, the 'wrong' ingredients can sometimes interact in quite surprising and positive ways.

@@ -14,6 +14,9 @@ A quick trawl of the internet confirms that the camps still peddle an unapologet
 <ol>
 <li>
 Everyone is going to hell. You need to turn to Christ and accept (the Iwerne strain of) Christianity or you are doomed. Bringing others to faith should be treated with the same urgency that would attend evacuating people from a burning building. Hell is real and ever-lasting. The Bible's authors describe fire and burning lakes only as metaphors for something far worse.
+
+<!--more-->
+
 </li>
 <li>
 There are two ways to live - the sinful way and the Iwerne (conservative evangelical) way. The salvation of anyone not choosing the Iwerne way is in doubt. You especially, as someone having had the (mis?)fortune to have heard the Good News, will go to hell if you reject it.
@@ -45,4 +48,3 @@ Nonetheless, there is an unpleasant side to conservative Christianity - yes, I, 
 Then there is the problem that 'Bible-believing' Christians are so certain of their rectitude on matters of faith that they will dismiss anyone who disagrees with them, not only as mistaken but as an agent of the Devil himself. You cannot reason with such people.
 
 I suppose, at a push, I might have been happy for my own children to have gone to the camps if the opportunity had arisen, but I'd have had a quiet word with them first. In the event, they never went. And now, as they head off to university, they have turned out just as sceptical as I am. The relief is palpable.
-

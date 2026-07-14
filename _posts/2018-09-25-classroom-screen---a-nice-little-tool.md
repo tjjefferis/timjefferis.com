@@ -14,6 +14,9 @@ Someone told me about this the other day. It needs sharing more widely.
 <ul>
 <li>
 Random name picker
+
+<!--more-->
+
 </li>
 <li>
 QR code of the screen

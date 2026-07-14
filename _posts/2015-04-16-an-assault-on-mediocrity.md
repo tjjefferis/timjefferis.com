@@ -16,6 +16,9 @@ Our aim must be, surely, to make sure that in all areas of the school, by whatev
 
 An average child
 
+<!--more-->
+
+
 I don’t cause teachers trouble,<br/>
 My grades have been O.K.<br/>
 I listen to my classes.<br/>

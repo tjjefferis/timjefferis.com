@@ -16,6 +16,9 @@ Secondly, I've tried the '3 Bs before me' technique I first heard about in an IN
 <ul>
 <li>
 Brain
+
+<!--more-->
+
 </li>
 <li>
 Book

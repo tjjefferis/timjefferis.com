@@ -16,6 +16,9 @@ This is where the <a href="http://gg.gg/">gg.gg link shortener</a> comes in. It�
 
 There is a <a href="https://chrome.google.com/webstore/detail/gggg-url-shortener/cafdppcejinjbhomjdojpmjblmneoilh/related">Chrome extension</a> to speed the process up. I’m sure there’s also something for IE and for Firefox etc., but I don’t care…!
 
+<!--more-->
+
+
 Gem #2
 
 As I have <a href="http://tjjteacher.com/post/the-canonical-principle">banged on about many times</a>, it’s generally best to treat documents as canonical and bid farewell forever to the scourge of complicated version control.

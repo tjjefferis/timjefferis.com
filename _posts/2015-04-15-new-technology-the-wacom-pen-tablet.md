@@ -13,3 +13,5 @@ Today's post is about new technology I'd like to try this year so it is rather f
 But rather than talk about software I thought I'd mention a piece of hardware that I am planning to put to good use this year. A little while ago I purchased for myself a <a href="http://www.wacom.com/en/in/creative/one-wacom-s">Wacom pen tablet</a>. I became aware that with my adoption of a <a href="http://tjj.postach.io/doing-things-digitally-making-the-leap-in-class">completely digital learning environment</a> I had lost the immediacy and fluidity of being able to write with a pen (particularly when drawing diagrams). There is something rather special and, I believe, important for learners about being able to show them how to build up a diagram by hand.
 
 The Wacom tablet can also be used in conjunction with <a href="https://www.educreations.com/">educreations</a> to record such experiences for posterity too. I plan to put my artistic skills to the test over this year and see what can be done... Don't laugh, but <a href="https://www.educreations.com/course/lesson/view/conservative-margin/18635822/">this is an early attempt.</a>
+
+<!--more-->
