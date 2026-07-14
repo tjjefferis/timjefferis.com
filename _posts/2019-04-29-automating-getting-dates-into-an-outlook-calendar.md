@@ -40,16 +40,16 @@ So you'll need to run a VBA script to get your events and attendees across into 
 <li>Then click on Developer &gt; Visual Basic:</li>
 </ul>
 <br/>
-<div class="separator">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi77F8Tmg5WbjqvhPZK_VO1CWTT6Hmy1KzPdZjGVeA6YqBGmv47Ag_vKJTSYwBdFzbEVoUDJgTwSFaVXQxmZojp9OhVDs70QQt4RVg6hqizUjV2NvBYNnXL8UIdXhf76XgFCOXf9Oga3Wk/s1600/vba.PNG" imageanchor="1"><img border="0" data-original-height="167" data-original-width="539" height="99" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi77F8Tmg5WbjqvhPZK_VO1CWTT6Hmy1KzPdZjGVeA6YqBGmv47Ag_vKJTSYwBdFzbEVoUDJgTwSFaVXQxmZojp9OhVDs70QQt4RVg6hqizUjV2NvBYNnXL8UIdXhf76XgFCOXf9Oga3Wk/s320/vba.PNG" width="320"/></a></div>
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi77F8Tmg5WbjqvhPZK_VO1CWTT6Hmy1KzPdZjGVeA6YqBGmv47Ag_vKJTSYwBdFzbEVoUDJgTwSFaVXQxmZojp9OhVDs70QQt4RVg6hqizUjV2NvBYNnXL8UIdXhf76XgFCOXf9Oga3Wk/s1600/vba.PNG" imageanchor="1"><img border="0" data-original-height="167" data-original-width="539" height="99" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi77F8Tmg5WbjqvhPZK_VO1CWTT6Hmy1KzPdZjGVeA6YqBGmv47Ag_vKJTSYwBdFzbEVoUDJgTwSFaVXQxmZojp9OhVDs70QQt4RVg6hqizUjV2NvBYNnXL8UIdXhf76XgFCOXf9Oga3Wk/s320/vba.PNG" width="320"/></a>
 <br/>
 <br/>
 <ul>
 <li>Make sure you are in a project associated with 'ThisOutlookSession':</li>
 </ul>
 <br/>
-<div class="separator">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6I5ewhREdAd3ZKKTNRcxOPpaYd-IN9nR3dhKM1DFcF37P10qlGMLT1Rk-W4C1jIocqryVyWQtN5dpf0NJR7Ywwf4REdaQA7EERW95R7DfKxYHB4BFbFOPjEk_pQuAHI-anV5IEw3r0t4/s1600/vba1.PNG" imageanchor="1"><img border="0" data-original-height="174" data-original-width="321" height="173" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6I5ewhREdAd3ZKKTNRcxOPpaYd-IN9nR3dhKM1DFcF37P10qlGMLT1Rk-W4C1jIocqryVyWQtN5dpf0NJR7Ywwf4REdaQA7EERW95R7DfKxYHB4BFbFOPjEk_pQuAHI-anV5IEw3r0t4/s320/vba1.PNG" width="320"/></a></div>
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6I5ewhREdAd3ZKKTNRcxOPpaYd-IN9nR3dhKM1DFcF37P10qlGMLT1Rk-W4C1jIocqryVyWQtN5dpf0NJR7Ywwf4REdaQA7EERW95R7DfKxYHB4BFbFOPjEk_pQuAHI-anV5IEw3r0t4/s1600/vba1.PNG" imageanchor="1"><img border="0" data-original-height="174" data-original-width="321" height="173" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6I5ewhREdAd3ZKKTNRcxOPpaYd-IN9nR3dhKM1DFcF37P10qlGMLT1Rk-W4C1jIocqryVyWQtN5dpf0NJR7Ywwf4REdaQA7EERW95R7DfKxYHB4BFbFOPjEk_pQuAHI-anV5IEw3r0t4/s320/vba1.PNG" width="320"/></a>
 <br/>
 <br/>
 <br/>

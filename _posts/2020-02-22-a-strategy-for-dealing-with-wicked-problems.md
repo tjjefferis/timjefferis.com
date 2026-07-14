@@ -16,8 +16,8 @@ Here's how Andy coached me through the problem:<br/>
 <li>Construct a table like the one below and fill it in with as many pros and cons for each of your solutions as you can:</li>
 </ul>
 <br/>
-<div class="separator">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjhwhbfofsjYtbge9_c4N2meHtzgE_lXUtWooZ6pkhIY5jt0wG2-IxbnheQfH1KhKTHL4gQobeG1lmzrMdpu4dsLhTh4h2jWPZ-frxJDCdFAnZqL7b-NY489KtaC_b1N1XqEZL5RsdUHo/s1600/andybuck4.JPG" imageanchor="1"><img border="0" data-original-height="205" data-original-width="1036" height="126" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjhwhbfofsjYtbge9_c4N2meHtzgE_lXUtWooZ6pkhIY5jt0wG2-IxbnheQfH1KhKTHL4gQobeG1lmzrMdpu4dsLhTh4h2jWPZ-frxJDCdFAnZqL7b-NY489KtaC_b1N1XqEZL5RsdUHo/s640/andybuck4.JPG" width="640"/></a></div>
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjhwhbfofsjYtbge9_c4N2meHtzgE_lXUtWooZ6pkhIY5jt0wG2-IxbnheQfH1KhKTHL4gQobeG1lmzrMdpu4dsLhTh4h2jWPZ-frxJDCdFAnZqL7b-NY489KtaC_b1N1XqEZL5RsdUHo/s1600/andybuck4.JPG" imageanchor="1"><img border="0" data-original-height="205" data-original-width="1036" height="126" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjhwhbfofsjYtbge9_c4N2meHtzgE_lXUtWooZ6pkhIY5jt0wG2-IxbnheQfH1KhKTHL4gQobeG1lmzrMdpu4dsLhTh4h2jWPZ-frxJDCdFAnZqL7b-NY489KtaC_b1N1XqEZL5RsdUHo/s640/andybuck4.JPG" width="640"/></a>
 <br/>
 <ul>
 <li>On a scale of 1-5 rank each of the pros and each of the cons according to their importance or severity. On the pro side 5 is very good, 1 is the least good. On the con side 5 is very bad, 1 is the least bad. Try not to reuse numbers more than 2/3 times - so no marking everything as 5, or 1, or 3 etc. </li>

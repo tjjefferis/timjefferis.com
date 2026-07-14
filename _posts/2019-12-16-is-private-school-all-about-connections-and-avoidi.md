@@ -4,8 +4,7 @@ title: "Is private school all about connections and avoiding contact with the 'H
 date: 2019-12-16
 ---
 
-<div class="separator">
-<a href="https://i.pinimg.com/originals/6a/eb/97/6aeb976f3d87bd9930b3f86cdeacacc5.jpg" imageanchor="1"><img border="0" data-original-height="581" data-original-width="800" height="232" src="https://i.pinimg.com/originals/6a/eb/97/6aeb976f3d87bd9930b3f86cdeacacc5.jpg" width="320"/></a></div>
+<a href="https://i.pinimg.com/originals/6a/eb/97/6aeb976f3d87bd9930b3f86cdeacacc5.jpg" imageanchor="1"><img border="0" data-original-height="581" data-original-width="800" height="232" src="https://i.pinimg.com/originals/6a/eb/97/6aeb976f3d87bd9930b3f86cdeacacc5.jpg" width="320"/></a>
 <br/>
 My first - and so far only - brush with celebrity came from a <a href="https://www.telegraph.co.uk/finance/personalfinance/household-bills/11864055/We-save-20000-a-year-by-eating-school-dinners-but-can-we-afford-a-350000-house.html" target="_blank">Telegraph article</a> that was written about my finances back in 2015. It caused a little bit of a stir at work and taught me some important lessons of the perils of courting publicity whilst being in someone else's employ.<br/>
 <br/>

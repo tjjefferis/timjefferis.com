@@ -5,139 +5,137 @@ date: 2016-03-16
 ---
 
 <br/>
-<div>
-<a href="https://www.blogger.com/blogger.g?blogID=9145285415158126914" imageanchor="1"></a><a href="https://docs.google.com/a/oswestryschool.org.uk/document/d/1Vj2Zq8v4Bt9jIVc1FVPYOal1gAG2l3X9JW0nvvzt0T0/edit?usp=sharing">Click here</a> to enter feedback and/or ask questions as we go along.</div>
 
-<div>
-Navigating around - the 'Google Waffle'</div>
+<a href="https://www.blogger.com/blogger.g?blogID=9145285415158126914" imageanchor="1"></a><a href="https://docs.google.com/a/oswestryschool.org.uk/document/d/1Vj2Zq8v4Bt9jIVc1FVPYOal1gAG2l3X9JW0nvvzt0T0/edit?usp=sharing">Click here</a> to enter feedback and/or ask questions as we go along.
 
-<div>
-E-mail</div>
+Navigating around - the 'Google Waffle'
+
+E-mail
 <ul>
-<li><div>
-labels vs folders</div>
+<li>
+labels vs folders
 </li>
-<li><div>
-labs</div>
+<li>
+labs
 </li>
-<li><div>
-forwarding</div>
+<li>
+forwarding
 </li>
-<li><div>
-labs</div>
+<li>
+labs
 </li>
-<li><div>
-themes</div>
+<li>
+themes
 </li>
-<li><div>
-signatures</div>
+<li>
+signatures
 </li>
 </ul>
-<div>
-Calendar</div>
+
+Calendar
 <ul>
-<li><div>
-<a href="https://sites.google.com/a/oswestryschool.org.uk/oswestry-intranet/home/deputy-head-academic/calendar-entries">making a calendar public</a></div>
+<li>
+<a href="https://sites.google.com/a/oswestryschool.org.uk/oswestry-intranet/home/deputy-head-academic/calendar-entries">making a calendar public</a>
 </li>
-<li><div>
-using <a href="https://ifttt.com/">IFTTT</a> to set up alerts from calendar alterations</div>
+<li>
+using <a href="https://ifttt.com/">IFTTT</a> to set up alerts from calendar alterations
 </li>
-<li><div>
-inviting people to meetings</div>
+<li>
+inviting people to meetings
 </li>
-<li><div>
-appointment slots</div>
+<li>
+appointment slots
 </li>
 </ul>
-<div>
-Drive</div>
+
+Drive
 <ul>
-<li><div>
-uploading and converting</div>
+<li>
+uploading and converting
 </li>
-<li><div>
-copying, sharing</div>
+<li>
+copying, sharing
 </li>
-<li><div>
-putting something in two places at once (SHIFT+Z)</div>
+<li>
+putting something in two places at once (SHIFT+Z)
 </li>
-<li><div>
-searching</div>
+<li>
+searching
 </li>
 </ul>
-<div>
-Docs</div>
+
+Docs
 <ul>
-<li><div>
-sharing</div>
+<li>
+sharing
 </li>
-<li><div>
-revision history</div>
+<li>
+revision history
 </li>
-<li><div>
-voice typing</div>
+<li>
+voice typing
 </li>
-<li><div>
-research</div>
+<li>
+research
 </li>
 </ul>
-<div>
-Sheets</div>
+
+Sheets
 <ul>
-<li><div>
-sharing, protecting</div>
+<li>
+sharing, protecting
 </li>
-<li><div>
-mail merges and other addons</div>
+<li>
+mail merges and other addons
 </li>
 </ul>
-<div>
-Google Forms</div>
+
+Google Forms
 <ul>
-<li><div>
-<a href="https://docs.google.com/a/oswestryschool.org.uk/forms/d/1etJaqUhHrmn8ug9vsMbSJO7tMZDfzSzADvWsQTLEMds/viewform">e.g. minibus bookings</a></div>
+<li>
+<a href="https://docs.google.com/a/oswestryschool.org.uk/forms/d/1etJaqUhHrmn8ug9vsMbSJO7tMZDfzSzADvWsQTLEMds/viewform">e.g. minibus bookings</a>
 </li>
-<li><div>
-Google apps script - <a href="http://tjjteacher.com/post/how-i-automated-the-staff-duty-rota">an example of a duty rota</a></div>
+<li>
+Google apps script - <a href="http://tjjteacher.com/post/how-i-automated-the-staff-duty-rota">an example of a duty rota</a>
 </li>
-<li><div>
-Creating and sharing a form</div>
+<li>
+Creating and sharing a form
 </li>
 </ul>
-<div>
-Slides</div>
+
+Slides
 <ul>
-<li><div>
-sharing etc.</div>
+<li>
+sharing etc.
 </li>
 </ul>
-<div>
-Sites</div>
+
+Sites
 <ul>
-<li><div>
-<a href="https://sites.google.com/a/oswestryschool.org.uk/oswestry-intranet/home">OsNet</a></div>
+<li>
+<a href="https://sites.google.com/a/oswestryschool.org.uk/oswestry-intranet/home">OsNet</a>
 </li>
-<li><div>
-<a href="https://sites.google.com/a/oswestryschool.org.uk/oswestry-intranet/message-board">Apps Script (e.g. message board)</a></div>
+<li>
+<a href="https://sites.google.com/a/oswestryschool.org.uk/oswestry-intranet/message-board">Apps Script (e.g. message board)</a>
 </li>
-<li><div>
-Make your own..</div>
+<li>
+Make your own..
 </li>
 </ul>
-<div>
-Other stuff</div>
+
+Other stuff
 <ul>
-<li><div>
-<a href="https://classroom.google.com/h">Google classroom</a></div>
+<li>
+<a href="https://classroom.google.com/h">Google classroom</a>
 </li>
-<li><div>
-<a href="https://docs.google.com/presentation/d/1ZctYo1hZWbzCHIPc1YJtNVW0JtNEjski6Ts3Ul0cOU4/edit?usp=sharing">Back end stuff</a></div>
+<li>
+<a href="https://docs.google.com/presentation/d/1ZctYo1hZWbzCHIPc1YJtNVW0JtNEjski6Ts3Ul0cOU4/edit?usp=sharing">Back end stuff</a>
 </li>
-<li><div>
-<a href="https://www.youtube.com/watch?v=UbvkHEDvw-o">Google Keep</a></div>
+<li>
+<a href="https://www.youtube.com/watch?v=UbvkHEDvw-o">Google Keep</a>
 </li>
-<li><div>
-<a href="https://www.youtube.com/watch?v=ljvFCIuN8I8">Google Circles</a></div>
+<li>
+<a href="https://www.youtube.com/watch?v=ljvFCIuN8I8">Google Circles</a>
 </li>
 </ul>
 

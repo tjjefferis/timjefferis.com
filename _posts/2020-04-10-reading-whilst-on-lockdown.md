@@ -4,7 +4,7 @@ title: "Reading whilst on lockdown"
 date: 2020-04-10
 ---
 
-Lockdown presents a perfect opportunity to catch up with some reading (and mess around with some HTML). <div>I did this a while ago, but the widget broke. So here it is again, updated for 2020:
+Lockdown presents a perfect opportunity to catch up with some reading (and mess around with some HTML). I did this a while ago, but the widget broke. So here it is again, updated for 2020:
 <br/>
 <br/>
 <!--Show static HTML/CSS as a placeholder in case js is not enabled - javascript include will override this if things work-->
@@ -57,87 +57,55 @@ color: gray;
 float: right;
 }
 </style>
-<div id="gr_custom_widget_1586491366">
-<div class="gr_custom_container_1586491366">
+
 <h2 class="gr_custom_header_1586491366">
 <a href="https://www.goodreads.com/review/list/44122954-tim-jefferis?shelf=read&amp;utm_medium=api&amp;utm_source=custom_widget" rel="nofollow">Tim's bookshelf: read</a>
 </h2>
-<div class="gr_custom_each_container_1586491366">
-<div class="gr_custom_book_container_1586491366">
+
 <a href="https://www.goodreads.com/review/show/2788144815?utm_medium=api&amp;utm_source=custom_widget" rel="nofollow" title="A Quiver Full of Arrows"><img alt="A Quiver Full of Arrows" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328303422l/12103076._SY75_.jpg"/></a>
-</div>
-<div class="gr_custom_rating_1586491366">
+
 <img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png"/>
-</div>
-<div class="gr_custom_title_1586491366">
+
 <a href="https://www.goodreads.com/review/show/2788144815?utm_medium=api&amp;utm_source=custom_widget" rel="nofollow">A Quiver Full of Arrows</a>
-</div>
-<div class="gr_custom_author_1586491366">
+
 by <a href="https://www.goodreads.com/author/show/4820.Jeffrey_Archer" rel="nofollow">Jeffrey Archer</a>
-</div>
-</div>
-<div class="gr_custom_each_container_1586491366">
-<div class="gr_custom_book_container_1586491366">
+
 <a href="https://www.goodreads.com/review/show/3272226894?utm_medium=api&amp;utm_source=custom_widget" rel="nofollow" title="Shakespeare"><img alt="Shakespeare" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385457376l/18960441._SY75_.jpg"/></a>
-</div>
-<div class="gr_custom_rating_1586491366">
+
 <img src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png"/>
-</div>
-<div class="gr_custom_title_1586491366">
+
 <a href="https://www.goodreads.com/review/show/3272226894?utm_medium=api&amp;utm_source=custom_widget" rel="nofollow">Shakespeare</a>
-</div>
-<div class="gr_custom_author_1586491366">
+
 by <a href="https://www.goodreads.com/author/show/7.Bill_Bryson" rel="nofollow">Bill Bryson</a>
-</div>
-<div class="gr_custom_review_1586491366">
+
 Loved this book, as I do all of Bill Bryson's works. I had an acquaintance who was a Shakespeare conspiracy theorist, the last section of this book put all of these to bed and explained why serious scholars still believe the traditional ...
-</div>
-</div>
-<div class="gr_custom_each_container_1586491366">
-<div class="gr_custom_book_container_1586491366">
+
 <a href="https://www.goodreads.com/review/show/3111063339?utm_medium=api&amp;utm_source=custom_widget" rel="nofollow" title="The Body: A Guide for Occupants"><img alt="The Body: A Guide for Occupants" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577980274l/43599513._SY75_.jpg"/></a>
-</div>
-<div class="gr_custom_rating_1586491366">
+
 <img src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png"/>
-</div>
-<div class="gr_custom_title_1586491366">
+
 <a href="https://www.goodreads.com/review/show/3111063339?utm_medium=api&amp;utm_source=custom_widget" rel="nofollow">The Body: A Guide for Occupants</a>
-</div>
-<div class="gr_custom_author_1586491366">
+
 by <a href="https://www.goodreads.com/author/show/7.Bill_Bryson" rel="nofollow">Bill Bryson</a>
-</div>
-<div class="gr_custom_review_1586491366">
+
 Great read. Love Bryson's work.
-</div>
-</div>
-<div class="gr_custom_each_container_1586491366">
-<div class="gr_custom_book_container_1586491366">
+
 <a href="https://www.goodreads.com/review/show/2788144939?utm_medium=api&amp;utm_source=custom_widget" rel="nofollow" title="HTML, XHTML and CSS All-In-One for Dummies"><img alt="HTML, XHTML and CSS All-In-One for Dummies" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348704771l/7724342._SX50_.jpg"/></a>
-</div>
-<div class="gr_custom_rating_1586491366">
+
 <img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png"/>
-</div>
-<div class="gr_custom_title_1586491366">
+
 <a href="https://www.goodreads.com/review/show/2788144939?utm_medium=api&amp;utm_source=custom_widget" rel="nofollow">HTML, XHTML and CSS All-In-One for Dummies</a>
-</div>
-<div class="gr_custom_author_1586491366">
+
 by <a href="https://www.goodreads.com/author/show/22752.Andy_Harris" rel="nofollow">Andy Harris</a>
-</div>
-</div>
-<div class="gr_custom_each_container_1586491366">
-<div class="gr_custom_book_container_1586491366">
+
 <a href="https://www.goodreads.com/review/show/2788144921?utm_medium=api&amp;utm_source=custom_widget" rel="nofollow" title="Offa's Dyke Path: British Walking Guide with 98 Large-Scale Walking Maps, Places to Stay, Places to Eat"><img alt="Offa's Dyke Path: British Walking Guide with 98 Large-Scale Walking Maps, Places to Stay, Places to Eat" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441283583l/26218606._SY75_.jpg"/></a>
-</div>
-<div class="gr_custom_rating_1586491366">
+
 <img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png"/><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png"/>
-</div>
-<div class="gr_custom_title_1586491366">
+
 <a href="https://www.goodreads.com/review/show/2788144921?utm_medium=api&amp;utm_source=custom_widget" rel="nofollow">Offa's Dyke Path: British Walking Guide with 98 Large-Scale Walking Maps, Places to Stay, Places to Eat</a>
-</div>
-<div class="gr_custom_author_1586491366">
+
 by <a href="https://www.goodreads.com/author/show/89006.Keith_Carter" rel="nofollow">Keith Carter</a>
-</div>
-</div>
+
 <br/>
 <center>
 <a href="https://www.goodreads.com/" rel="nofollow"><img alt="goodreads.com" src="https://www.goodreads.com/images/widget/widget_logo.gif"/></a>
@@ -145,6 +113,5 @@ by <a href="https://www.goodreads.com/author/show/89006.Keith_Carter" rel="nofol
 <noscript>
 Share <a href="https://www.goodreads.com/" rel="nofollow">book reviews</a> and ratings with Tim, and even join a <a href="https://www.goodreads.com/group" rel="nofollow">book club</a> on Goodreads.
 </noscript>
-</div>
-</div>
-<script charset="utf-8" src="https://www.goodreads.com/review/custom_widget/44122954.Tim's%20bookshelf:%20read?cover_position=left&amp;cover_size=small&amp;num_books=5&amp;order=a&amp;shelf=read&amp;show_author=1&amp;show_cover=1&amp;show_rating=1&amp;show_review=1&amp;show_tags=1&amp;show_title=1&amp;sort=date_read&amp;widget_bg_color=FFFFFF&amp;widget_bg_transparent=&amp;widget_border_width=1&amp;widget_id=1586491366&amp;widget_text_color=000000&amp;widget_title_size=small&amp;widget_width=full" type="text/javascript"></script></div>
+
+<script charset="utf-8" src="https://www.goodreads.com/review/custom_widget/44122954.Tim's%20bookshelf:%20read?cover_position=left&amp;cover_size=small&amp;num_books=5&amp;order=a&amp;shelf=read&amp;show_author=1&amp;show_cover=1&amp;show_rating=1&amp;show_review=1&amp;show_tags=1&amp;show_title=1&amp;sort=date_read&amp;widget_bg_color=FFFFFF&amp;widget_bg_transparent=&amp;widget_border_width=1&amp;widget_id=1586491366&amp;widget_text_color=000000&amp;widget_title_size=small&amp;widget_width=full" type="text/javascript"></script>

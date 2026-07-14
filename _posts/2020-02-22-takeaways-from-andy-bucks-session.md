@@ -41,13 +41,13 @@ Here are some of my takeaways:<br/>
 <b>5. TRUST</b> - An important component of leadership is getting people to trust you. Trust arises from:<br/>
 <br/>
 <br/>
-<div class="separator">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbvsB1EbJ-N6IsCypPbP2SCd1Nm9QK0DqviM-mrlN9-PbtB82ubClCyb-gey98OsSKpHkmDCdvlOcdMsb-Sy9zm_WAIhG6qtZUkzXEygStijSY3o3fTtTyDQQOsxU6SPRsoo-fYMXiH_w/s1600/andy+buck.JPG" imageanchor="1"><img border="0" data-original-height="680" data-original-width="1250" height="347" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbvsB1EbJ-N6IsCypPbP2SCd1Nm9QK0DqviM-mrlN9-PbtB82ubClCyb-gey98OsSKpHkmDCdvlOcdMsb-Sy9zm_WAIhG6qtZUkzXEygStijSY3o3fTtTyDQQOsxU6SPRsoo-fYMXiH_w/s640/andy+buck.JPG" width="640"/></a></div>
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbvsB1EbJ-N6IsCypPbP2SCd1Nm9QK0DqviM-mrlN9-PbtB82ubClCyb-gey98OsSKpHkmDCdvlOcdMsb-Sy9zm_WAIhG6qtZUkzXEygStijSY3o3fTtTyDQQOsxU6SPRsoo-fYMXiH_w/s1600/andy+buck.JPG" imageanchor="1"><img border="0" data-original-height="680" data-original-width="1250" height="347" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbvsB1EbJ-N6IsCypPbP2SCd1Nm9QK0DqviM-mrlN9-PbtB82ubClCyb-gey98OsSKpHkmDCdvlOcdMsb-Sy9zm_WAIhG6qtZUkzXEygStijSY3o3fTtTyDQQOsxU6SPRsoo-fYMXiH_w/s640/andy+buck.JPG" width="640"/></a>
 <br/>
 <b>6. BALANCE, BIGGER PICTURE</b> - Leaders can very easily get caught up in busywork (tasks) but should aim for balance as this diagram shows:<br/>
 <br/>
-<div class="separator">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE7BEZrdmY1foKC-AOcKwwxpYPAajK6mVU64UYjvSDBK2r5XdN8LpJrrwHE-hP3wv8An0so5t70T4Y0FSUaxDVUHlilML2hC5canALR2zTBXtxiYLY4ufRr4U9nE8vysXiXB2LvHsOJz8/s1600/andy+buck+2.JPG" imageanchor="1"><img border="0" data-original-height="812" data-original-width="1559" height="331" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE7BEZrdmY1foKC-AOcKwwxpYPAajK6mVU64UYjvSDBK2r5XdN8LpJrrwHE-hP3wv8An0so5t70T4Y0FSUaxDVUHlilML2hC5canALR2zTBXtxiYLY4ufRr4U9nE8vysXiXB2LvHsOJz8/s640/andy+buck+2.JPG" width="640"/></a></div>
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE7BEZrdmY1foKC-AOcKwwxpYPAajK6mVU64UYjvSDBK2r5XdN8LpJrrwHE-hP3wv8An0so5t70T4Y0FSUaxDVUHlilML2hC5canALR2zTBXtxiYLY4ufRr4U9nE8vysXiXB2LvHsOJz8/s1600/andy+buck+2.JPG" imageanchor="1"><img border="0" data-original-height="812" data-original-width="1559" height="331" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE7BEZrdmY1foKC-AOcKwwxpYPAajK6mVU64UYjvSDBK2r5XdN8LpJrrwHE-hP3wv8An0so5t70T4Y0FSUaxDVUHlilML2hC5canALR2zTBXtxiYLY4ufRr4U9nE8vysXiXB2LvHsOJz8/s640/andy+buck+2.JPG" width="640"/></a>
 <br/>
 <b>7. KEEPING IT REAL</b> - We all require four 'energies' in order to do our jobs properly:<br/>
 <br/>
@@ -60,7 +60,7 @@ Here are some of my takeaways:<br/>
 <br/>
 But the importance of these energies varies according to the type of job you do, as below:<br/>
 <br/>
-<div class="separator">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiShqmc6j4UZv8ylQFiYcqJNYUHk5r6C4oX0-oF50p_o9G9iBvQTCbCPvbQrO9jxtgvlBtmSonBhr2s9H3HRQ_UPbv6GGgcaDiWFWTuPAQ1oxfJmNMItSdnQ_jlwdwac1jGCHJ4eLG0mxU/s1600/buck+3.JPG" imageanchor="1"><img border="0" data-original-height="760" data-original-width="1229" height="393" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiShqmc6j4UZv8ylQFiYcqJNYUHk5r6C4oX0-oF50p_o9G9iBvQTCbCPvbQrO9jxtgvlBtmSonBhr2s9H3HRQ_UPbv6GGgcaDiWFWTuPAQ1oxfJmNMItSdnQ_jlwdwac1jGCHJ4eLG0mxU/s640/buck+3.JPG" width="640"/></a></div>
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiShqmc6j4UZv8ylQFiYcqJNYUHk5r6C4oX0-oF50p_o9G9iBvQTCbCPvbQrO9jxtgvlBtmSonBhr2s9H3HRQ_UPbv6GGgcaDiWFWTuPAQ1oxfJmNMItSdnQ_jlwdwac1jGCHJ4eLG0mxU/s1600/buck+3.JPG" imageanchor="1"><img border="0" data-original-height="760" data-original-width="1229" height="393" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiShqmc6j4UZv8ylQFiYcqJNYUHk5r6C4oX0-oF50p_o9G9iBvQTCbCPvbQrO9jxtgvlBtmSonBhr2s9H3HRQ_UPbv6GGgcaDiWFWTuPAQ1oxfJmNMItSdnQ_jlwdwac1jGCHJ4eLG0mxU/s640/buck+3.JPG" width="640"/></a>
 <br/>
 <br/>

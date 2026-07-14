@@ -4,9 +4,11 @@ title: "Thai Values vs Western Values"
 date: 2020-08-14
 ---
 
-<p>As I begin my last term in Thailand, I've been rooting through my belongings and came across a table in my notes that we were referred to (no official source, I'm afraid) in our induction training.
+As I begin my last term in Thailand, I've been rooting through my belongings and came across a table in my notes that we were referred to (no official source, I'm afraid) in our induction training.
 
-<br><br>Having spent nearly three years here I find it generally holds true, with the caveat that we're talking about people and there are huge variations within the bell-curve at an individual level:</p><br>
+<br><br>Having spent nearly three years here I find it generally holds true, with the caveat that we're talking about people and there are huge variations within the bell-curve at an individual level:
+
+<br>
 
 <TABLE  BORDER="5">
 

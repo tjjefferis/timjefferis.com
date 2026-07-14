@@ -4,18 +4,34 @@ title: "Device solutions in international schools"
 date: 2020-11-19
 ---
 
-<div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMq_XvD48njP5S1YC0nNjg-W768o9UJMHd_d2CRlcQonSFPY1zFPLiPTT2tXAccMUcjt0Xbi-W1C_ydeRFJRJnRAM6B0DX1yzIh34ArXGgklOiYPo_VPhLqki9_q2Dbmd1fHsBsnQ5es8/s720/Slide1.jpeg"><img alt="" border="0" data-original-height="540" data-original-width="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMq_XvD48njP5S1YC0nNjg-W768o9UJMHd_d2CRlcQonSFPY1zFPLiPTT2tXAccMUcjt0Xbi-W1C_ydeRFJRJnRAM6B0DX1yzIh34ArXGgklOiYPo_VPhLqki9_q2Dbmd1fHsBsnQ5es8/s320/Slide1.jpeg" width="320"/></a></div>
-<p>In this post, I'll be pulling together some models for the use of devices in schools and making some comparisons. This is a complex area of school management, so for the sake of clarity and brevity, I'll be restricting myself specifically to devices, not to other pieces of hardware. Although I will need to refer to software, I'll only do so in so far is it is tied into some devices.</p><p>Since I rolled out <a href="https://timjefferis.blogspot.com/2019/04/g-day-byod-and-google-apps.html">BYOD at Oswestry back in 2012</a>, a lot has changed. Technology has moved on and many schools have moved on to the second or third iteration of their chosen solution. Some schools have made expensive mistakes, betting on solutions which quickly became superseded. Some, through accident or design, have avoided costly hardware solutions and remain blank canvasses. I hope this post will be useful to senior leaders weighing up the pros and cons of different device solutions for their schools.</p>
-<p><b>Jargon-buster</b></p><div>
-<p>Unfortunately, like most things IT-related, there are some acronyms it's useful to know about before diving into the detail. In relation to device-use in schools here are the ones you're likely to come across:</p>
-</div><p><b>BYOD</b> - bring your own device. Pupils (and/or teachers) may bring their own device into school to connect to the network.</p>
-<p><b>CYOD</b> - choose your own device. Pupils/teachers may choose their own device from a range of school-ordained options.</p>
-<p><b>DNBYOD</b> - do not bring your own device. Schools provide pupils/teachers with a device which they use for the duration of their time in school. There are two variations of DNBYOD (also, confusingly, sometimes dubbed <b>YWYT</b> - use what you are told!):<br/>
-</p><blockquote><div><b>COPE</b> - company owned, personally enabled<br/><b>COBO</b> - company owned, business only</div></blockquote>
-<p><b>The spectrum of control</b></p><div>
-<p>In terms of a school's control over the devices, there is a spectrum along which the solutions above fall, best visualised diagrammatically:</p><div class="separator"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCcIZZKtlv1yiaZHZFQeDSvOT-DE_AhRufdohK9JGFsrjhSbWYQu16Pw-md2e3pBrDB3zt_SIfoI39I73Z_lX5m0yULk_QPHSrOe7dAcQ2-gNCYJGmhVocO6KOLX8Y0o1WT-5DlggJ5hI/s960/Spectrum+of+control.jpg"><img border="0" data-original-height="720" data-original-width="960" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCcIZZKtlv1yiaZHZFQeDSvOT-DE_AhRufdohK9JGFsrjhSbWYQu16Pw-md2e3pBrDB3zt_SIfoI39I73Z_lX5m0yULk_QPHSrOe7dAcQ2-gNCYJGmhVocO6KOLX8Y0o1WT-5DlggJ5hI/w640-h480/Spectrum+of+control.jpg" width="640"/></a></div>
-<p><b>Who are the main players?</b></p><div>
-<p>Essentially there are three main 'ecosystems' which schools can choose to inhabit. Alternatively, they can choose to hedge their bets and allow for all three (or any combination thereof) to co-exist. Each ecosystem has its own quirks, as summarised below:</p></div>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMq_XvD48njP5S1YC0nNjg-W768o9UJMHd_d2CRlcQonSFPY1zFPLiPTT2tXAccMUcjt0Xbi-W1C_ydeRFJRJnRAM6B0DX1yzIh34ArXGgklOiYPo_VPhLqki9_q2Dbmd1fHsBsnQ5es8/s720/Slide1.jpeg"><img alt="" border="0" data-original-height="540" data-original-width="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMq_XvD48njP5S1YC0nNjg-W768o9UJMHd_d2CRlcQonSFPY1zFPLiPTT2tXAccMUcjt0Xbi-W1C_ydeRFJRJnRAM6B0DX1yzIh34ArXGgklOiYPo_VPhLqki9_q2Dbmd1fHsBsnQ5es8/s320/Slide1.jpeg" width="320"/></a>
+
+In this post, I'll be pulling together some models for the use of devices in schools and making some comparisons. This is a complex area of school management, so for the sake of clarity and brevity, I'll be restricting myself specifically to devices, not to other pieces of hardware. Although I will need to refer to software, I'll only do so in so far is it is tied into some devices.
+
+Since I rolled out <a href="https://timjefferis.blogspot.com/2019/04/g-day-byod-and-google-apps.html">BYOD at Oswestry back in 2012</a>, a lot has changed. Technology has moved on and many schools have moved on to the second or third iteration of their chosen solution. Some schools have made expensive mistakes, betting on solutions which quickly became superseded. Some, through accident or design, have avoided costly hardware solutions and remain blank canvasses. I hope this post will be useful to senior leaders weighing up the pros and cons of different device solutions for their schools.
+
+<b>Jargon-buster</b>
+
+Unfortunately, like most things IT-related, there are some acronyms it's useful to know about before diving into the detail. In relation to device-use in schools here are the ones you're likely to come across:
+
+<b>BYOD</b> - bring your own device. Pupils (and/or teachers) may bring their own device into school to connect to the network.
+
+<b>CYOD</b> - choose your own device. Pupils/teachers may choose their own device from a range of school-ordained options.
+
+<b>DNBYOD</b> - do not bring your own device. Schools provide pupils/teachers with a device which they use for the duration of their time in school. There are two variations of DNBYOD (also, confusingly, sometimes dubbed <b>YWYT</b> - use what you are told!):<br/>
+
+> <b>COPE</b> - company owned, personally enabled<br/><b>COBO</b> - company owned, business only
+
+<b>The spectrum of control</b>
+
+In terms of a school's control over the devices, there is a spectrum along which the solutions above fall, best visualised diagrammatically:
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCcIZZKtlv1yiaZHZFQeDSvOT-DE_AhRufdohK9JGFsrjhSbWYQu16Pw-md2e3pBrDB3zt_SIfoI39I73Z_lX5m0yULk_QPHSrOe7dAcQ2-gNCYJGmhVocO6KOLX8Y0o1WT-5DlggJ5hI/s960/Spectrum+of+control.jpg"><img border="0" data-original-height="720" data-original-width="960" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCcIZZKtlv1yiaZHZFQeDSvOT-DE_AhRufdohK9JGFsrjhSbWYQu16Pw-md2e3pBrDB3zt_SIfoI39I73Z_lX5m0yULk_QPHSrOe7dAcQ2-gNCYJGmhVocO6KOLX8Y0o1WT-5DlggJ5hI/w640-h480/Spectrum+of+control.jpg" width="640"/></a>
+
+<b>Who are the main players?</b>
+
+Essentially there are three main 'ecosystems' which schools can choose to inhabit. Alternatively, they can choose to hedge their bets and allow for all three (or any combination thereof) to co-exist. Each ecosystem has its own quirks, as summarised below:
+
 <table>
 <tbody><tr>
 <th>Apple</th>
@@ -57,10 +73,18 @@ date: 2020-11-19
 <td>👎🏽 Moderately expensive.<br/><br/></td>
 <td><br/></td>
 </tr>
-</tbody></table><br/><div>
-<p>Some people will want to point out that there are other alternatives and that this table is not exhaustive. It is true that if you object to the commercialisation of education, or to the concentration of power in the hands of just three American Tech companies, then you could <a href="https://en.wikipedia.org/wiki/Red_pill_and_blue_pill" target="_blank">take the red pill </a>and opt for entirely open source software run on any machines of your choice. There are schools that have done this - <a href="https://openschoolsolutions.org/how-we-switched-to-open-source-software-in-our-school/">here for example</a> - but I suspect it's fraught with technical and logistical problems. Also, in its own way, it is just as loaded with contentious political and moral judgement as is deciding to stay mainstream. Open source enthusiasts will roll their eyes, but for the purposes of this post, I'm discussing mainstream options only.</p>
-<p><b>Practicalities</b></p><div>
-<p>There are multiple solutions to the device conundrum in schools. The more I've researched this, the more I've realised most schools have hybrid systems: some have BYOD for pupils, but not for staff; some have CYOD for younger children, but BYOD for older ones; some insist on Apple devices in one part of the school, but not in others, and so the permutations go on, ad infinitum...</p></div><div><p>The schools where the neatest solutions exist (i.e. one platform all the way through) tend to be those with limited age categories. It is relatively easy to introduce the Microsoft Surface, say, in a 13-18 school. Making this decision would be harder in a K-12 school where the needs of younger children are different and handing them a Surface to use for their school work might not be appropriate. As most international schools are K-12, most have hybrid systems. But if simplicity's your thing, it is probably the Apple solution (MacBook + iPad) which best caters for the needs of children of any age.</p></div><div><p>In Thailand, were you to go down the CYOD/DNBYOD route, these are the main contenders. I've included some models and prices to aid comparison:</p></div>
+</tbody></table><br/>
+
+Some people will want to point out that there are other alternatives and that this table is not exhaustive. It is true that if you object to the commercialisation of education, or to the concentration of power in the hands of just three American Tech companies, then you could <a href="https://en.wikipedia.org/wiki/Red_pill_and_blue_pill" target="_blank">take the red pill </a>and opt for entirely open source software run on any machines of your choice. There are schools that have done this - <a href="https://openschoolsolutions.org/how-we-switched-to-open-source-software-in-our-school/">here for example</a> - but I suspect it's fraught with technical and logistical problems. Also, in its own way, it is just as loaded with contentious political and moral judgement as is deciding to stay mainstream. Open source enthusiasts will roll their eyes, but for the purposes of this post, I'm discussing mainstream options only.
+
+<b>Practicalities</b>
+
+There are multiple solutions to the device conundrum in schools. The more I've researched this, the more I've realised most schools have hybrid systems: some have BYOD for pupils, but not for staff; some have CYOD for younger children, but BYOD for older ones; some insist on Apple devices in one part of the school, but not in others, and so the permutations go on, ad infinitum...
+
+The schools where the neatest solutions exist (i.e. one platform all the way through) tend to be those with limited age categories. It is relatively easy to introduce the Microsoft Surface, say, in a 13-18 school. Making this decision would be harder in a K-12 school where the needs of younger children are different and handing them a Surface to use for their school work might not be appropriate. As most international schools are K-12, most have hybrid systems. But if simplicity's your thing, it is probably the Apple solution (MacBook + iPad) which best caters for the needs of children of any age.
+
+In Thailand, were you to go down the CYOD/DNBYOD route, these are the main contenders. I've included some models and prices to aid comparison:
+
 <table>
 <tbody><tr>
 <th>Metric</th>
@@ -131,12 +155,15 @@ Microsoft does not provide onsite support
 </td>
 </tr>
 </tbody></table>
-<p>The model we have in place at the moment at <a href="https://www.harrowschool.ac.th/" target="_blank">Harrow Bangkok </a>is a hybrid. As if often the case with these things in schools, it has evolved organically. What we've arrived at is as follows:
 
-</p><ul><li>Ages 9 and below (UK Year 4 and below) - DNBYOD, school iPads and desktop PCs available for teachers and pupils to use in the classroom as required.</li><li>Ages 10 to 14 (UK Years 6 to 9) - CYOD, choose an iPad whilst desktop PCs are available for teachers and pupils to use in the classroom as required. Desktop Macs are provided in the Art and Design Departments and for Music Technology.</li><li>Ages 14 and above (UK Years 10 and above) - BYOD, bring a device with a keyboard to school for using in lessons as required. Desktop Macs are provided in the Art and Design Departments and for Music Technology.</li><li>
+The model we have in place at the moment at <a href="https://www.harrowschool.ac.th/" target="_blank">Harrow Bangkok </a>is a hybrid. As if often the case with these things in schools, it has evolved organically. What we've arrived at is as follows:
+
+<ul><li>Ages 9 and below (UK Year 4 and below) - DNBYOD, school iPads and desktop PCs available for teachers and pupils to use in the classroom as required.</li><li>Ages 10 to 14 (UK Years 6 to 9) - CYOD, choose an iPad whilst desktop PCs are available for teachers and pupils to use in the classroom as required. Desktop Macs are provided in the Art and Design Departments and for Music Technology.</li><li>Ages 14 and above (UK Years 10 and above) - BYOD, bring a device with a keyboard to school for using in lessons as required. Desktop Macs are provided in the Art and Design Departments and for Music Technology.</li><li>
 
 Teachers are supplied with a Dell laptop, the newest versions of which (Latitude 7390) are inkable.
 </li></ul>
-<p>Over the past few years we've mulled over becoming an Apple school and we've toyed with the idea of rolling out Microsoft Surfaces etc. But when it has come down to the nuts and bolts, no one solution has been the right fit for the whole school. As a result, we've made a strength out of not having committed ourselves too firmly to any particular platform. Although the array of choices can be bewildering at times, pupils leave our school not having had any particular system foisted on them. They go out into the world with the flexibility to embrace whatever computer system best fits the projects they find themselves working on.</p>
-<p>I'd love to hear how things work in your school, particularly if you work in a K-12 international school. Do you have a similar setup? What have you found that works? </p>
-</div></div>
+
+Over the past few years we've mulled over becoming an Apple school and we've toyed with the idea of rolling out Microsoft Surfaces etc. But when it has come down to the nuts and bolts, no one solution has been the right fit for the whole school. As a result, we've made a strength out of not having committed ourselves too firmly to any particular platform. Although the array of choices can be bewildering at times, pupils leave our school not having had any particular system foisted on them. They go out into the world with the flexibility to embrace whatever computer system best fits the projects they find themselves working on.
+
+I'd love to hear how things work in your school, particularly if you work in a K-12 international school. Do you have a similar setup? What have you found that works?
+

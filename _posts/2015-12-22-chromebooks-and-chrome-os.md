@@ -4,17 +4,12 @@ title: "Chromebooks and Chrome OS"
 date: 2015-12-22
 ---
 
-<div dir="ltr">
-<div>
-<div class="separator"><img alt="Chromebooks | Google for Education" height="183" src="https://lh3.googleusercontent.com/P-oSeeGJ-P6wKm7-Nz7Rs61sVrhWUG9oK2Rs4gPXn7ojJdE-5MesCnISkXBGZZyFN7a9VWzq770xa71CaA4YboDz9YQthbIK9QX-=w320-h183" width="320"/></div>
+<img alt="Chromebooks | Google for Education" height="183" src="https://lh3.googleusercontent.com/P-oSeeGJ-P6wKm7-Nz7Rs61sVrhWUG9oK2Rs4gPXn7ojJdE-5MesCnISkXBGZZyFN7a9VWzq770xa71CaA4YboDz9YQthbIK9QX-=w320-h183" width="320"/>
 <br/>
-The fact that I love Google has become something of a <a href="https://www.hsim-eclient.co.uk/logon.aspx?caseref=429574.00001">running joke at Oswestry School</a>. Since stumbling across the platform in late 2011 it has transformed the way I work. It wasn't long before, with the wide-eyed zeal of a neophyte, <a href="http://tjj.postach.io/post/g-day-byod-and-google-apps-oswestryschool">I imposed GAFE on the whole school</a>. In the 2 years or so since we moved over to becoming a GAFE school I think, jokes aside, the staff are every bit as keen on the platform as I am.</div>
-</div>
-<div dir="ltr">
-<div>
-It seemed like a natural next step for us then, following a visit from <a href="http://c-learning.net/">C-learning</a> at the start of this term, to get the staff further up-to-speed. The plan was to make our integration with Google deeper still by looking into adopting <a href="https://en.wikipedia.org/wiki/Chromebook">Chromebooks</a> across the enterprise. This, I thought, would embed the adoption of all Google's offerings and rid us of the last vestiges of the pre-cloud age. I had been using a Chromebook myself for a long while and had got on very well with it.</div>
-</div>
-<div dir="ltr">
+The fact that I love Google has become something of a <a href="https://www.hsim-eclient.co.uk/logon.aspx?caseref=429574.00001">running joke at Oswestry School</a>. Since stumbling across the platform in late 2011 it has transformed the way I work. It wasn't long before, with the wide-eyed zeal of a neophyte, <a href="http://tjj.postach.io/post/g-day-byod-and-google-apps-oswestryschool">I imposed GAFE on the whole school</a>. In the 2 years or so since we moved over to becoming a GAFE school I think, jokes aside, the staff are every bit as keen on the platform as I am.
+
+It seemed like a natural next step for us then, following a visit from <a href="http://c-learning.net/">C-learning</a> at the start of this term, to get the staff further up-to-speed. The plan was to make our integration with Google deeper still by looking into adopting <a href="https://en.wikipedia.org/wiki/Chromebook">Chromebooks</a> across the enterprise. This, I thought, would embed the adoption of all Google's offerings and rid us of the last vestiges of the pre-cloud age. I had been using a Chromebook myself for a long while and had got on very well with it.
+
 <a href="https://twitter.com/IanNairn">@iannairn</a> sent us up 15 to trial and I duly passed them out around the staff so that they could have a play. They all enjoyed them, and not one of them said they wouldn't jump at the chance of owning one if the school dipped into its coffers and started offering them out. Nonetheless, after a lot of soul-searching, we've decided not to become a Chromebook-only school. Here's why:<br/>
 <br/>
 <ol>
@@ -25,17 +20,13 @@ It seemed like a natural next step for us then, following a visit from <a href="
 <li>It is true that almost for almost all Windows-based pieces of software there are now adequate equivalents that are entirely web-based. And, of course, as time goes on web-based alternatives are only likely to get better. But at the moment there is still a wide gulf in the capability of many web-only applications and their full-fat alternatives. Having recently purchased <a href="https://www.texthelp.com/en-gb/products/read-and-write-family">Read &amp; Write</a>, for example, it became clear that we couldn't recommend Chromebooks for the pupils most in need of the Read &amp; Write help. There are still too many things missing from the Chrome version that are baked into the full Windows version. </li>
 <li>Then there is the uncomfortable fact that <a href="https://www.tes.com/news/school-news/breaking-news/decision-scrap-ict-a-kick-teeth-say-experts">at least for the next two years</a> ICT syllabuses <a href="http://www.ocr.org.uk/qualifications/as-a-level-gce-ict-h117-h517/">like this one</a> still more-or-less compel pupils to do their work using <a href="http://www.microsoftstore.com/store/msuk/en_GB/cat/Office/categoryID.64542500">Microsoft Office</a> programs. Even when ICT has finally given up the ghost as a subject GCSE and A-level computer scientists are going to need IDEs like <a href="https://www.jetbrains.com/pycharm/">PyCharm</a> or <a href="https://www.visualstudio.com/">Visual Studio</a>. It is possible using services like <a href="http://www.ericom.com/connect-enterprise.asp">Ericom Connect</a> to effect a workaround but reservations remain. To offer up an analogue analogy it seems rather like telling someone that they can write using a beautiful fountain pen, but only if the pen is encased in the shell of a biro...</li>
 </ol>
-</div>
-<div dir="ltr">
-<div>
-Don't get me wrong, I love the simplicity of Chromebooks and can see that they have real potential in the classroom. We certainly won't be banning their use in school. It's just that as an organization we have decided it would be unwise to dive headlong into their adoption at the expense of all else. It pains me to say it, but I have come to believe this:</div>
-<div>
+
+Don't get me wrong, I love the simplicity of Chromebooks and can see that they have real potential in the classroom. We certainly won't be banning their use in school. It's just that as an organization we have decided it would be unwise to dive headlong into their adoption at the expense of all else. It pains me to say it, but I have come to believe this:
+
 &gt; "“when it gets down to brass tacks computing nothing beats a good Windows laptop.” https://t.co/YvB0TZ8O5Z"
 &gt;
 &gt; — Tim Jefferis (@tjjteacher) November 12, 2015
 
-</div>
-</div>
 &gt; ""
 &gt;
 &gt; — Quoted Tweet

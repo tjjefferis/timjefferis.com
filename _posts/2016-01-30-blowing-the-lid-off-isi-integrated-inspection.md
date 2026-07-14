@@ -6,115 +6,111 @@ date: 2016-01-30
 
 <br/>
 
-<div>
-I am writing this on Saturday 30 Jan, one day after the inspectors have left. Things are very fresh in my mind. For reasons of confidentiality though, I will only put this post in the public domain once our inspection report is also available for all to see. <a href="http://oswestryschool.org.uk/images/articles/news-and-events/school-news/Inspection/Oswestry_School_ISI_inspection_report_2016.pdf">It now is and can be viewed here.</a></div>
+I am writing this on Saturday 30 Jan, one day after the inspectors have left. Things are very fresh in my mind. For reasons of confidentiality though, I will only put this post in the public domain once our inspection report is also available for all to see. <a href="http://oswestryschool.org.uk/images/articles/news-and-events/school-news/Inspection/Oswestry_School_ISI_inspection_report_2016.pdf">It now is and can be viewed here.</a>
 
-<div>
-I hope in writing this so soon after the event that my thoughts will be of some use to those other schools waiting for the call...</div>
+I hope in writing this so soon after the event that my thoughts will be of some use to those other schools waiting for the call...
 
-<div>
-This has been an exhausting week; no matter how well prepared you are (and we were very well prepared, having been waiting since May 2007!) there is something rather unnerving about having people quiz you in such forensic detail, especially when they ask about things on which your professional identity hangs.</div>
+This has been an exhausting week; no matter how well prepared you are (and we were very well prepared, having been waiting since May 2007!) there is something rather unnerving about having people quiz you in such forensic detail, especially when they ask about things on which your professional identity hangs.
 
-<div>
-First of all a quick outline of the process, which followed these steps:</div>
+First of all a quick outline of the process, which followed these steps:
 <ol>
-<li><div>
-The call came on Tuesday and the reporting inspector (RI) spoke directly to the Headmaster to outline the process (we'd had a mock inspection a year or so beforehand so we knew what to expect).</div>
+<li>
+The call came on Tuesday and the reporting inspector (RI) spoke directly to the Headmaster to outline the process (we'd had a mock inspection a year or so beforehand so we knew what to expect).
 </li>
-<li><div>
-<a href="https://surveys.isi.net/">The questionnaire</a> was distributed to parents and pupils following this conversation by us.</div>
+<li>
+<a href="https://surveys.isi.net/">The questionnaire</a> was distributed to parents and pupils following this conversation by us.
 </li>
-<li><div>
-Throughout the week there was then a flurry of telephone and e-mail conversations between the school and the RI. Fortunately, in our case, <a href="https://sites.google.com/a/oswestryschool.org.uk/policy-documents/">all our paperwork was online</a>. I had uploaded a letter with the relevant links to the ISI site sometime beforehand.</div>
+<li>
+Throughout the week there was then a flurry of telephone and e-mail conversations between the school and the RI. Fortunately, in our case, <a href="https://sites.google.com/a/oswestryschool.org.uk/policy-documents/">all our paperwork was online</a>. I had uploaded a letter with the relevant links to the ISI site sometime beforehand.
 </li>
-<li><div>
-On Friday afternoon I had a telephone conversation with the RI about the logistics and the programme. We elected to convert the Word document he provided us into a Google document. This was in an attempt to have a single canonical document for the goings-on in the inspection week, one that was always current and reflected the inevitable changes that need to take place in a week of such complexity. The document we used (which I crossed out which much delight as the days went by!) <a href="https://docs.google.com/a/oswestryschool.org.uk/document/d/10SzdE2gdIRx74O5HjsJSzM30FFms-Zlx4vfgdov5c0E/edit?usp=sharing">is here</a>.</div>
+<li>
+On Friday afternoon I had a telephone conversation with the RI about the logistics and the programme. We elected to convert the Word document he provided us into a Google document. This was in an attempt to have a single canonical document for the goings-on in the inspection week, one that was always current and reflected the inevitable changes that need to take place in a week of such complexity. The document we used (which I crossed out which much delight as the days went by!) <a href="https://docs.google.com/a/oswestryschool.org.uk/document/d/10SzdE2gdIRx74O5HjsJSzM30FFms-Zlx4vfgdov5c0E/edit?usp=sharing">is here</a>.
 </li>
-<li><div>
-The RI asked whether I'd be available for communication over the weekend and, looking back through my e-mails, I note that we corresponded another couple of times about the fine detail of the timetable.</div>
+<li>
+The RI asked whether I'd be available for communication over the weekend and, looking back through my e-mails, I note that we corresponded another couple of times about the fine detail of the timetable.
 </li>
-<li><div>
-On Monday morning at break, we got all the staff together for a meeting to explain the format of the week. Most of them, of course, were worried about lesson observations so an important function of this meeting was to reassure them and to suggest that they had <a href="https://docs.google.com/document/d/163DHLGdBxjG4v5V3jEDh6mOIhSkIP4FtNgp6P6sH3VU/edit">lesson context sheets</a> to hand for any lessons that the inspectors might attend.</div>
+<li>
+On Monday morning at break, we got all the staff together for a meeting to explain the format of the week. Most of them, of course, were worried about lesson observations so an important function of this meeting was to reassure them and to suggest that they had <a href="https://docs.google.com/document/d/163DHLGdBxjG4v5V3jEDh6mOIhSkIP4FtNgp6P6sH3VU/edit">lesson context sheets</a> to hand for any lessons that the inspectors might attend.
 </li>
-<li><div>
-The RI then arrived with the boarding inspector and the EYFS inspector on Tuesday morning. We had set aside the <a href="https://drive.google.com/a/oswestryschool.org.uk/file/d/0B--ED7JtbmKqeWg1ODZIVWVzTTA/view">Headmaster's office</a> as their base - with a printer, condiments and clear instructions on how to get on the WiFi strategically dotted about.</div>
+<li>
+The RI then arrived with the boarding inspector and the EYFS inspector on Tuesday morning. We had set aside the <a href="https://drive.google.com/a/oswestryschool.org.uk/file/d/0B--ED7JtbmKqeWg1ODZIVWVzTTA/view">Headmaster's office</a> as their base - with a printer, condiments and clear instructions on how to get on the WiFi strategically dotted about.
 </li>
-<li><div>
-Much of the paperwork had already been attended to, but the inspectors busied themselves with compliance issues throughout the morning. At break, they met with the staff, with the RI reassuring the staff much as we had done the day before. He explained that whilst lesson plans were not necessary 'it was helpful' if inspectors had some kind of written context when they came in to observe.</div>
+<li>
+Much of the paperwork had already been attended to, but the inspectors busied themselves with compliance issues throughout the morning. At break, they met with the staff, with the RI reassuring the staff much as we had done the day before. He explained that whilst lesson plans were not necessary 'it was helpful' if inspectors had some kind of written context when they came in to observe.
 </li>
-<li><div>
-On Tuesday evening the RI met with SMT to talk through the results of the pupil and parent questionnaires.</div>
+<li>
+On Tuesday evening the RI met with SMT to talk through the results of the pupil and parent questionnaires.
 </li>
-<li><div>
-On Wednesday morning another six inspectors arrived, giving a total of 9. I shared with them the programme for the day and them left them to it.</div>
+<li>
+On Wednesday morning another six inspectors arrived, giving a total of 9. I shared with them the programme for the day and them left them to it.
 </li>
-<li><div>
-During the rest of the week, the inspection team crawled all over the school, leaving me most impressed with how thorough they were. My next direct involvement was in fielding questions about the curriculum from one of the inspectors.</div>
+<li>
+During the rest of the week, the inspection team crawled all over the school, leaving me most impressed with how thorough they were. My next direct involvement was in fielding questions about the curriculum from one of the inspectors.
 </li>
-<li><div>
-Every evening there was an opportunity to meet with the RI and chat about the inspection's progress. These meetings were extremely valuable.</div>
+<li>
+Every evening there was an opportunity to meet with the RI and chat about the inspection's progress. These meetings were extremely valuable.
 </li>
-<li><div>
-As the inspection drew to a close things became rather secretive, with the door to the inspection room remaining firmly closed and communication dropping off. This was a little disconcerting, but with hindsight, the inspectors had a lot to write up at this stage and so we need not have read anything into their evasiveness.</div>
+<li>
+As the inspection drew to a close things became rather secretive, with the door to the inspection room remaining firmly closed and communication dropping off. This was a little disconcerting, but with hindsight, the inspectors had a lot to write up at this stage and so we need not have read anything into their evasiveness.
 </li>
-<li><div>
-The week came to a close on Friday afternoon with the RI convening a meeting attended by all the SMT and several representatives from the governing body. The RI set out the context of this meeting and then the various sections of the report were read out by the different inspectors responsible for each bit. ISI inspection reports do not deliver an overall judgment but are split into nine sections each of which has its own judgement.  The judgement is read out in each case, followed by the text of the (as yet provisional) report. After this meeting, we took the liberty of comparing our judgements with local competitors and <a href="https://docs.google.com/spreadsheets/d/19QuixRMRlyvEpTv27xke0MQAHvgpCwEvyk3-qqluTCY/edit#gid=0">compiled a list.</a> At this meeting discussion is invited about the wording of the report, but not about the judgements themselves. As Bill Burn, our RI, explained the judgements represent the corporate view of the inspection team.</div>
+<li>
+The week came to a close on Friday afternoon with the RI convening a meeting attended by all the SMT and several representatives from the governing body. The RI set out the context of this meeting and then the various sections of the report were read out by the different inspectors responsible for each bit. ISI inspection reports do not deliver an overall judgment but are split into nine sections each of which has its own judgement.  The judgement is read out in each case, followed by the text of the (as yet provisional) report. After this meeting, we took the liberty of comparing our judgements with local competitors and <a href="https://docs.google.com/spreadsheets/d/19QuixRMRlyvEpTv27xke0MQAHvgpCwEvyk3-qqluTCY/edit#gid=0">compiled a list.</a> At this meeting discussion is invited about the wording of the report, but not about the judgements themselves. As Bill Burn, our RI, explained the judgements represent the corporate view of the inspection team.
 </li>
 </ol>
-<div>
-So having been through this process, what advice would I give to a school about to go through it all themselves? What might I have done differently? Here are a few thoughts:</div>
+
+So having been through this process, what advice would I give to a school about to go through it all themselves? What might I have done differently? Here are a few thoughts:
 <ol>
-<li><div>
-Base your safeguarding policy on the ISI template - and get it checked by a reporting inspector. New initiatives have come out in such rapid succession in this area over the years that most schools' safeguarding policies are too long and unwieldy. Make sure yours isn't.</div>
+<li>
+Base your safeguarding policy on the ISI template - and get it checked by a reporting inspector. New initiatives have come out in such rapid succession in this area over the years that most schools' safeguarding policies are too long and unwieldy. Make sure yours isn't.
 </li>
-<li><div>
-Do the statutory things ruthlessly - if anyone works in your school with children they must have done the checks, no exceptions, no sloppiness. I have seen and heard of very good schools drop the ball in this area. It's tough, and sad in a way that it has to be like this, but there's no use moaning. Get an inflexible stickler for detail overseeing your single central register, give him or her adequate time, and let them loose.</div>
+<li>
+Do the statutory things ruthlessly - if anyone works in your school with children they must have done the checks, no exceptions, no sloppiness. I have seen and heard of very good schools drop the ball in this area. It's tough, and sad in a way that it has to be like this, but there's no use moaning. Get an inflexible stickler for detail overseeing your single central register, give him or her adequate time, and let them loose.
 </li>
-<li><div>
-Get the questionnaire answered by ALL the pupils if you can - it will give the inspectors much more representative results. The danger of making it voluntary is that the (hopefully few!) disaffected voices will feature disproportionately and you'll end up with annoying phrases like: '..a significant number of pupils told us via the questionnaire that they were dissatisfied X. However the inspectors found no evidence to substantiate these criticisms during the inspection...')  N.B. ISI, quite rightly, warns against any suggestion of coercion in this area so be careful - but if you are too relaxed about getting people to fill it in, most won't. Get the balance right - you'll be glad you did when the results come in.</div>
+<li>
+Get the questionnaire answered by ALL the pupils if you can - it will give the inspectors much more representative results. The danger of making it voluntary is that the (hopefully few!) disaffected voices will feature disproportionately and you'll end up with annoying phrases like: '..a significant number of pupils told us via the questionnaire that they were dissatisfied X. However the inspectors found no evidence to substantiate these criticisms during the inspection...')  N.B. ISI, quite rightly, warns against any suggestion of coercion in this area so be careful - but if you are too relaxed about getting people to fill it in, most won't. Get the balance right - you'll be glad you did when the results come in.
 </li>
-<li><div>
-In the letter that you send out to parents asking them to fill in the inspectors' questionnaire flag up (gently) that they will be doing you a favour. Parents with an axe to grind will fill it in anyway, but you want the voice of the contented majority to come through forcefully. If you don't flag this to parents you'll be surprised how many perfectly content parents don't bother to fill it in. Again, make sure that you don't fall foul of ISI guidance on this issue - there must be no suggestion of coercion.</div>
+<li>
+In the letter that you send out to parents asking them to fill in the inspectors' questionnaire flag up (gently) that they will be doing you a favour. Parents with an axe to grind will fill it in anyway, but you want the voice of the contented majority to come through forcefully. If you don't flag this to parents you'll be surprised how many perfectly content parents don't bother to fill it in. Again, make sure that you don't fall foul of ISI guidance on this issue - there must be no suggestion of coercion.
 </li>
-<li><div>
-Make sure the room the inspectors are using has reliable WiFi and that there are very clear step-by-step instructions for each of them explaining how to log on. Give them unfettered access to your intranet and explain that you have done this. Their room should be clean, bright, airy and have plenty of space. They must be able to lock it whilst they are out.</div>
+<li>
+Make sure the room the inspectors are using has reliable WiFi and that there are very clear step-by-step instructions for each of them explaining how to log on. Give them unfettered access to your intranet and explain that you have done this. Their room should be clean, bright, airy and have plenty of space. They must be able to lock it whilst they are out.
 </li>
-<li><div>
-Make sure whoever within your school is running the mechanics of the inspection keeps in regular contact with the RI. Their job should be to smooth the workings and give all the inspectors the strong sense that nothing will be too much trouble. I had a meeting with the RI every evening (I waited outside the inspection room until it was time for them to leave) and in the morning. I printed out the program by the day (not the whole thing) so that the inspectors always had the most current. Likewise with the lesson timetable with all cover moves annotated on. You will irritate inspectors if they go to a lesson only to find it's been moved/cancelled.</div>
+<li>
+Make sure whoever within your school is running the mechanics of the inspection keeps in regular contact with the RI. Their job should be to smooth the workings and give all the inspectors the strong sense that nothing will be too much trouble. I had a meeting with the RI every evening (I waited outside the inspection room until it was time for them to leave) and in the morning. I printed out the program by the day (not the whole thing) so that the inspectors always had the most current. Likewise with the lesson timetable with all cover moves annotated on. You will irritate inspectors if they go to a lesson only to find it's been moved/cancelled.
 </li>
-<li><div>
-Make sure all the teachers use something like this <a href="https://docs.google.com/document/d/163DHLGdBxjG4v5V3jEDh6mOIhSkIP4FtNgp6P6sH3VU/edit">lesson context sheet</a>; they also need to engineer their teaching such that they are doing 'inspector friendly' lessons - this is their opportunity to show off, not to soldier on with controlled assessment...!</div>
+<li>
+Make sure all the teachers use something like this <a href="https://docs.google.com/document/d/163DHLGdBxjG4v5V3jEDh6mOIhSkIP4FtNgp6P6sH3VU/edit">lesson context sheet</a>; they also need to engineer their teaching such that they are doing 'inspector friendly' lessons - this is their opportunity to show off, not to soldier on with controlled assessment...!
 </li>
-<li><div>
-You will be asked during the week for multiple groups of pupils, for interviews, for work scrutiny etc. be prepared for this and make sure you have set time aside to organise it. I pretty much cleared my diary of everything not inspection related once we'd got the call and I'm very glad I did.</div>
+<li>
+You will be asked during the week for multiple groups of pupils, for interviews, for work scrutiny etc. be prepared for this and make sure you have set time aside to organise it. I pretty much cleared my diary of everything not inspection related once we'd got the call and I'm very glad I did.
 </li>
-<li><div>
-The inspectors need a room, but they are also going to need other spaces for meeting groups of pupils etc. Think carefully about which rooms you will use before the inspectors arrive. We accepted that no-one had the right to exclusive use of their own office during inspection week!</div>
+<li>
+The inspectors need a room, but they are also going to need other spaces for meeting groups of pupils etc. Think carefully about which rooms you will use before the inspectors arrive. We accepted that no-one had the right to exclusive use of their own office during inspection week!
 </li>
-<li><div>
-Continue doing good things - the RI was impressed by the HM meeting individual pupils to discuss their option choices throughout the week. We continued doing drop-ins during the inspection and the inspectors liked this too. The ability to demonstrate that the show goes on is important. Likewise (obviously) with all other school activities.</div>
+<li>
+Continue doing good things - the RI was impressed by the HM meeting individual pupils to discuss their option choices throughout the week. We continued doing drop-ins during the inspection and the inspectors liked this too. The ability to demonstrate that the show goes on is important. Likewise (obviously) with all other school activities.
 </li>
-<li><div>
-Put everything into the cloud - it will take a huge weight off your mind (though be prepared to print off, uncomplainingly, documents that you have posted online).</div>
+<li>
+Put everything into the cloud - it will take a huge weight off your mind (though be prepared to print off, uncomplainingly, documents that you have posted online).
 </li>
-<li><div>
-Get your paperwork crawled over annually by building in a review and never be complacent. Just look at how far and fast the mighty can fall: Repton went from <a href="https://drive.google.com/file/d/0B5yekSQQ3RwPNmRrc0lramJyZ2s/view?usp=sharing">this</a> to <a href="https://drive.google.com/file/d/0B5yekSQQ3RwPRHdreU0wb2lVa00/view?usp=sharing">this</a> in less than a year.</div>
+<li>
+Get your paperwork crawled over annually by building in a review and never be complacent. Just look at how far and fast the mighty can fall: Repton went from <a href="https://drive.google.com/file/d/0B5yekSQQ3RwPNmRrc0lramJyZ2s/view?usp=sharing">this</a> to <a href="https://drive.google.com/file/d/0B5yekSQQ3RwPRHdreU0wb2lVa00/view?usp=sharing">this</a> in less than a year.
 </li>
-<li><div>
-Inspection is a grim and serious business but you don't have to be - I had in my mind the conversation that Dai Barnes and Doug Belshaw had on their <a href="http://tidepodcast.org/">TIDE podcast</a> a few weeks ago:</div>
+<li>
+Inspection is a grim and serious business but you don't have to be - I had in my mind the conversation that Dai Barnes and Doug Belshaw had on their <a href="http://tidepodcast.org/">TIDE podcast</a> a few weeks ago:
 </li>
 </ol>
-<div>
-<blockquote class="twitter-tweet"><p dir="ltr" lang="en">Being serious is not the mark of a professional. Doing a good job is. Damn right! This week's TIDE nugget from <a href="https://twitter.com/dajbelshaw?ref_src=twsrc%5Etfw">@dajbelshaw</a> and <a href="https://twitter.com/daibarnes?ref_src=twsrc%5Etfw">@daibarnes</a></p>— Tim Jefferis (@tjjteacher) <a href="https://twitter.com/tjjteacher/status/691744151558328320?ref_src=twsrc%5Etfw">January 25, 2016</a></blockquote>
-</div>
 
-<div>
-I raise this point because just once during the inspection process I had dealings with an inspector who was joyless and unnecessarily officious. This particular inspector was needlessly brusque to support staff and combative in questioning staff about their roles. Happily, she/he was the exception that proved the rule - the rest of the team were unfailingly courteous and unafraid to leaven conversations with humour. In the unlikely event that the offending inspector is reading this, take note: being dour and serious is not a mark of professionalism.</div>
+<blockquote class="twitter-tweet">
 
-<div>
-Final thoughts</div>
-<div>
-Although I've been through inspections several times before, this was the first inspection I've been through where I've had such direct, up-close involvement. I had feared clip-board wielding lunatics with an eye for legislative detail, but not much else but happily there were none. In fact I was mightily impressed by the whole process. The inspectors were thorough, demanding but courteous. It is enormously reassuring that the inspectors themselves are teachers, with direct and recent experience of what it's really like to run a school on a day-to-day basis. And when all is said and done we are very pleased with the judgements handed down - they reflect accurately the strengths and weaknesses we can see in ourselves and give us things to work on going forward.</div>
+Being serious is not the mark of a professional. Doing a good job is. Damn right! This week's TIDE nugget from <a href="https://twitter.com/dajbelshaw?ref_src=twsrc%5Etfw">@dajbelshaw</a> and <a href="https://twitter.com/daibarnes?ref_src=twsrc%5Etfw">@daibarnes</a>
 
-<div>
-#enormoussenseofrelief</div>
+— Tim Jefferis (@tjjteacher) <a href="https://twitter.com/tjjteacher/status/691744151558328320?ref_src=twsrc%5Etfw">January 25, 2016</a></blockquote>
+
+I raise this point because just once during the inspection process I had dealings with an inspector who was joyless and unnecessarily officious. This particular inspector was needlessly brusque to support staff and combative in questioning staff about their roles. Happily, she/he was the exception that proved the rule - the rest of the team were unfailingly courteous and unafraid to leaven conversations with humour. In the unlikely event that the offending inspector is reading this, take note: being dour and serious is not a mark of professionalism.
+
+Final thoughts
+
+Although I've been through inspections several times before, this was the first inspection I've been through where I've had such direct, up-close involvement. I had feared clip-board wielding lunatics with an eye for legislative detail, but not much else but happily there were none. In fact I was mightily impressed by the whole process. The inspectors were thorough, demanding but courteous. It is enormously reassuring that the inspectors themselves are teachers, with direct and recent experience of what it's really like to run a school on a day-to-day basis. And when all is said and done we are very pleased with the judgements handed down - they reflect accurately the strengths and weaknesses we can see in ourselves and give us things to work on going forward.
+
+#enormoussenseofrelief

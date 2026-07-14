@@ -6,36 +6,34 @@ date: 2018-09-25
 
 <br/>
 
-<div class="separator">
-<a href="https://classroomscreen.com/ClassroomScreen_social.jpg" imageanchor="1"><img border="0" data-original-height="451" data-original-width="800" height="180" src="https://classroomscreen.com/ClassroomScreen_social.jpg" width="320"/></a></div>
+<a href="https://classroomscreen.com/ClassroomScreen_social.jpg" imageanchor="1"><img border="0" data-original-height="451" data-original-width="800" height="180" src="https://classroomscreen.com/ClassroomScreen_social.jpg" width="320"/></a>
 
-<div>
-Someone told me about this the other day. It needs sharing more widely.</div>
-<div>
-<a href="https://www.classroomscreen.com/">Go here</a> and it gives you (for free) loads of useful little classroom tools to project up on the screen all set to a background of your choice:</div>
+Someone told me about this the other day. It needs sharing more widely.
+
+<a href="https://www.classroomscreen.com/">Go here</a> and it gives you (for free) loads of useful little classroom tools to project up on the screen all set to a background of your choice:
 <ul>
-<li><div>
-Random name picker</div>
+<li>
+Random name picker
 </li>
-<li><div>
-QR code of the screen</div>
+<li>
+QR code of the screen
 </li>
-<li><div>
-Traffic lights</div>
+<li>
+Traffic lights
 </li>
-<li><div>
-Symbols for work (silence, ask a neighbour, work together etc.)</div>
+<li>
+Symbols for work (silence, ask a neighbour, work together etc.)
 </li>
-<li><div>
-Clock</div>
+<li>
+Clock
 </li>
-<li><div>
-Timer</div>
+<li>
+Timer
 </li>
-<li><div>
-Text</div>
+<li>
+Text
 </li>
-<li><div>
-Drawing</div>
+<li>
+Drawing
 </li>
 </ul>
