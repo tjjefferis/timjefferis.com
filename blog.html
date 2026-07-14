@@ -1,21 +1,116 @@
 ---
-layout: page
-title: Teaching Blog
+layout: default
+title: Peregrinations of a Pedagogue
 permalink: /blog/
 ---
 
-<div class="posts-list">
-  {% for post in site.posts %}
-    <article class="post-preview">
-      <a href="{{ post.url | relative_url }}">
-        <h2 class="post-title">{{ post.title }}</h2>
-      </a>
-      <p class="post-meta">Posted on {{ post.date | date: "%B %d, %Y" }}</p>
-      <div class="post-entry">
-        {{ post.excerpt | strip_html | truncatewords: 50 }}
-        <a href="{{ post.url | relative_url }}" class="read-more">Read more...</a>
+<!-- Link custom styles & FontAwesome for crisp social icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<div class="container">
+  
+  <!-- Journal Title Block -->
+  <header class="blog-header">
+    <h1>Peregrinations of a Pedagogue</h1>
+    <p class="subtitle">Reflections on leadership, teaching, and learning</p>
+  </header>
+
+  <div class="blog-layout">
+    
+    <!-- LEFT: Main Article Stream -->
+    <main class="posts-list">
+      {% for post in site.posts %}
+        <article class="post-card">
+          
+          <!-- Metabar: Date + Reading Time -->
+          <div class="post-meta-container">
+            <span class="post-meta-item">
+              <i class="fa-regular fa-calendar"></i>
+              {{ post.date | date: "%B %d, %Y" }}
+            </span>
+            <span class="post-meta-item">
+              <i class="fa-regular fa-clock"></i>
+              {% assign words = post.content | number_of_words %}
+              {% if words < 360 %}
+                1 min read
+              {% else %}
+                {{ words | divided_by: 200 }} min read
+              {% endif %}
+            </span>
+          </div>
+
+          <!-- Post Title -->
+          <h2 class="post-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h2>
+
+          <!-- Snippet -->
+          <div class="post-entry">
+            {% if post.excerpt %}
+              {{ post.excerpt | strip_html | truncatewords: 60 }}
+            {% else %}
+              {{ post.content | strip_html | truncatewords: 60 }}
+            {% endif %}
+          </div>
+
+          <!-- Read Button -->
+          <a href="{{ post.url | relative_url }}" class="read-more-btn">Read full entry &rarr;</a>
+
+        </article>
+      {% endfor %}
+    </main>
+
+    <!-- RIGHT: Sticky Sidebar -->
+    <aside class="blog-sidebar">
+      <div class="sidebar-sticky">
+        <div class="sidebar-card">
+          
+          <!-- Profile Photo -->
+          <img src="{{ '/images/profile.jpg' | relative_url }}" alt="Tim Jefferis" class="profile-img">
+          
+          <h3>Dr Tim Jefferis</h3>
+          
+          <!-- About Me Blurb -->
+          <p class="bio">
+            I am an international school leader, educator, and outdoor enthusiast currently serving as the Head of Secondary at Malvern College Egypt. 
+            This space serves as a log of my thoughts and reflections on modern educational leadership, system automation, teaching, and my journeys beyond the classroom.
+          </p>
+          
+          <hr style="border: 0; border-top: 1px solid #edf2f7; margin-bottom: 20px;">
+          
+          <!-- Social Profiles -->
+        <!-- Social Profiles -->
+          <ul class="social-links">
+            <li>
+              <a href="https://x.com/home" target="_blank" title="X (formerly Twitter)">
+                <i class="fa-brands fa-x-twitter"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.facebook.com/tjjteacher" target="_blank" title="Facebook">
+                <i class="fa-brands fa-facebook-f"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.instagram.com/tjjteacher/" target="_blank" title="Instagram">
+                <i class="fa-brands fa-instagram"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com/in/tim-jefferis-74185761/" target="_blank" title="LinkedIn">
+                <i class="fa-brands fa-linkedin-in"></i>
+              </a>
+            </li>
+            <li>
+              <a href="mailto:tjjefferis@gmail.com" title="Email">
+                <i class="fa-regular fa-envelope"></i>
+              </a>
+            </li>
+          </ul>
+          
+        </div>
       </div>
-    </article>
-    <hr>
-  {% endfor %}
+    </aside>
+
+  </div>
 </div>

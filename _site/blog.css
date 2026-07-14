@@ -1,0 +1,203 @@
+/* --- Global Reset & Typography --- */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #2d3748;
+    line-height: 1.7;
+    background-color: #fcfdfc;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+/* --- Professional Journal Header --- */
+.blog-header {
+    text-align: center;
+    padding: 60px 0 30px 0;
+    border-bottom: 2px solid #e2e8f0;
+    margin-bottom: 40px;
+}
+
+.blog-header h1 {
+    font-family: "Georgia", Times, serif;
+    font-size: 3rem;
+    color: #00331D; /* Malvern Forest Green */
+    margin: 0 0 10px 0;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+.blog-header p.subtitle {
+    font-size: 1.1rem;
+    color: #7f9c90; /* Soft Sage Green Accent */
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0;
+    font-weight: 600;
+}
+
+/* --- Layout Grid --- */
+.blog-layout {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 50px;
+}
+
+@media (min-width: 850px) {
+    .blog-layout {
+        grid-template-columns: 2.2fr 1fr; /* Main Content / Sidebar */
+    }
+}
+
+/* --- Article Cards --- */
+.posts-list {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.post-card {
+    background: #ffffff;
+    padding: 35px;
+    border-radius: 8px;
+    border: 1px solid #edf2f7;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.03);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.post-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05);
+}
+
+.post-card h2.post-title {
+    font-family: "Georgia", Times, serif;
+    font-size: 1.9rem;
+    margin: 0 0 12px 0;
+    line-height: 1.3;
+}
+
+.post-card h2.post-title a {
+    color: #00331D;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.post-card h2.post-title a:hover {
+    color: #E74011; /* Warm Rust Orange */
+}
+
+/* --- Post Metadata with Reading Time --- */
+.post-meta-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    font-size: 0.85rem;
+    color: #718096;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #f7fafc;
+    padding-bottom: 10px;
+}
+
+.post-meta-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+/* --- Post Snippet --- */
+.post-entry {
+    font-family: "Georgia", Times, serif;
+    font-size: 1.05rem;
+    color: #4a5568;
+    margin-bottom: 24px;
+    line-height: 1.7;
+}
+
+.read-more-btn {
+    display: inline-block;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #E74011;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s ease;
+    padding-bottom: 2px;
+}
+
+.read-more-btn:hover {
+    color: #00331D;
+    border-bottom-color: #00331D;
+}
+
+/* --- Elegant Sidebar --- */
+.blog-sidebar {
+    position: relative;
+}
+
+@media (min-width: 850px) {
+    .blog-layout {
+        grid-template-columns: 1.8fr 1fr; /* Wider Sidebar */
+    }
+}
+
+.sidebar-card {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    border: 1px solid #edf2f7;
+    text-align: center;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.02);
+}
+
+.profile-img {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+    border: 3px solid #7f9c90;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.sidebar-card h3 {
+    font-family: "Georgia", Times, serif;
+    color: #00331D;
+    font-size: 1.4rem;
+    margin: 0 0 10px 0;
+}
+
+.sidebar-card p.bio {
+    font-size: 0.95rem;
+    color: #4a5568;
+    line-height: 1.6;
+    margin-bottom: 25px;
+    text-align: justify;
+}
+
+/* --- Social Icons styling --- */
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding: 0;
+    list-style: none;
+    margin: 0;
+}
+
+.social-links a {
+    color: #7f9c90;
+    font-size: 1.3rem;
+    transition: color 0.2s ease;
+    text-decoration: none;
+}
+
+.social-links a:hover {
+    color: #E74011;
+}
