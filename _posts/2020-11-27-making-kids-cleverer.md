@@ -12,7 +12,7 @@ As I explain at the start, the thrust of the arguments draw heavily on <a href="
 
 I deal with each in turn below:
 
-<b>The importance of knowledge</b>
+The importance of knowledge
 
 Teachers are bombarded by advice from non-teachers about what should be taught in schools. Most commonly, a wealthy entrepreneur, who didn't do well in school themselves, argues that schools should be teaching things like creativity, innovation, collaboration. Often these things are grouped under the heading '21st Century Skills'. It all sounds so noble, so reasonable - who would not want their children to have these skills? But there are problems:
 
@@ -37,17 +37,13 @@ In terms of choosing what actually counts as the 'best which has been thought an
 What this means for educators is that t<i>he sort of knowledge that is likely to be of most use to our students in the future is the sort of knowledge that was also useful to our ancestors in the past</i>. This requires a bit of mental effort to assimilate because most of us are, myself very much included, are attracted to novelty and modernity. But it's hard to argue with the logic of Lindy's observation and the weight of evidence that supports it. What it means in practical terms is that teachers should be passing on the knowledge and ideas that have stood the test of time in their subjects. Fortuitously, in England at least, subject specialists collaborated with the government to put together in the form of the <a href="https://www.gov.uk/government/collections/national-curriculum" target="_blank">National Curriculum</a> lists of essential knowledge that should be passed on in the various subject disciplines. The first listed aim of the National Curriculum co-opts Matthew Arnold as seen in bold below:
 
 > The national curriculum provides pupils with an introduction to the essential
-knowledge that they need to be educated citizens. It introduces pupils to <b>the best that
-has been thought and said</b>; and helps engender an appreciation of human creativity
+knowledge that they need to be educated citizens. It introduces pupils to the best that
+has been thought and said; and helps engender an appreciation of human creativity
 and achievement.
 
 There is scope for teaching other things, of course, but teachers shouldn't be ashamed of championing knowledge - in the form of the accumulated wisdom of subject specialists - as the foundation of a good education.
 
-<b>
-
-The relevance of knowledge to cleverness
-
-</b>
+### The relevance of knowledge to cleverness
 
 Hopefully, by now you are convinced of the efficacy of a fairly traditional, knowledge-based curriculum as likely to be the most future-proof of all the various curricula that schools might pursue. But we have yet to explain how increasing children's knowledge (or as Dylan Wiliam has it, the contents of their long term memory) makes them cleverer.
 
