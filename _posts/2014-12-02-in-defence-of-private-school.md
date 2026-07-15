@@ -2,6 +2,7 @@
 layout: post
 title: "In defence of private school"
 date: 2014-12-02
+disqus_identifier: "https://timjefferis.com/2014/12/in-defence-of-private-school.html"
 ---
 
 <br/>

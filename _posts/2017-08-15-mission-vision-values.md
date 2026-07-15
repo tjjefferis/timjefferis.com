@@ -2,6 +2,7 @@
 layout: post
 title: "Mission, vision, values..."
 date: 2017-08-15
+disqus_identifier: "https://timjefferis.com/2017/08/mission-vision-values.html"
 ---
 
 <br/>

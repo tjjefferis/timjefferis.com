@@ -2,6 +2,7 @@
 layout: post
 title: "Diderot, Ruskin and the cult of more in the classroom"
 date: 2016-12-24
+disqus_identifier: "http://timjefferis.com/2016/12/diderot-ruskin-and-the-cult-of-more-in-the-classro.html"
 ---
 
 <br/>

@@ -2,6 +2,7 @@
 layout: post
 title: "The routines that sustain me"
 date: 2015-02-21
+disqus_identifier: "https://timjefferis.com/2015/02/the-routines-that-sustain-me.html"
 ---
 
 <br/>

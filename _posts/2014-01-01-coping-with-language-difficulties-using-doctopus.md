@@ -2,6 +2,7 @@
 layout: post
 title: "Coping with language difficulties using Doctopus"
 date: 2014-01-01
+disqus_identifier: "https://timjefferis.com/2014/01/coping-with-language-difficulties-using.html"
 ---
 
 <br/>

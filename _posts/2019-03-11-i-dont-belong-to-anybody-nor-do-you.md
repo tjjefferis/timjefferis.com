@@ -2,6 +2,7 @@
 layout: post
 title: "I don't belong to anybody; nor do you"
 date: 2019-03-11
+disqus_identifier: "https://timjefferis.com/2019/03/i-dont-belong-to-anybody-nor-do-you.html"
 ---
 
 <br/>

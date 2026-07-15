@@ -2,6 +2,7 @@
 layout: post
 title: "Bad weather"
 date: 2014-04-17
+disqus_identifier: "http://timjefferis.com/2014/04/bad-weather.html"
 ---
 
 <h4>

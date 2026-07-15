@@ -2,6 +2,7 @@
 layout: post
 title: "Offering expensive things for free"
 date: 2018-09-08
+disqus_identifier: "https://timjefferis.com/2018/09/offering-expensive-things-for-free.html"
 ---
 
 <br/>

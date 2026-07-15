@@ -2,6 +2,7 @@
 layout: post
 title: "Making kids cleverer"
 date: 2020-11-27
+disqus_identifier: "https://timjefferis.com/2020/11/making-kids-cleverer.html"
 ---
 
 A couple of weeks ago I gave this presentation to parents entitled 'Making Kids Cleverer':

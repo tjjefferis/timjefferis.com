@@ -2,6 +2,7 @@
 layout: post
 title: "My #TwitteratiChallenge blog post"
 date: 2015-05-15
+disqus_identifier: "https://timjefferis.com/2015/05/my-twitteratichallenge-blog-post.html"
 ---
 
 <br/>

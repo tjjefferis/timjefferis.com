@@ -2,6 +2,7 @@
 layout: post
 title: "Useful Google URLs"
 date: 2025-03-21
+disqus_identifier: "https://timjefferis.com/2025/03/useful-google-urls.html"
 ---
 
 Over the past year or so, I’ve been luxuriating in the fact that once again I’m back working in the Google ecosystem. One thing I’ve been introduced to by my boss, who’s somewhat of a Google nerd(!), is the ability to mess around with the suffixes at the end of the URLs.

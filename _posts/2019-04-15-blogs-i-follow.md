@@ -2,6 +2,7 @@
 layout: post
 title: "Blogs I follow..."
 date: 2019-04-15
+disqus_identifier: "https://timjefferis.com/2019/04/blogs-i-follow.html"
 ---
 
 <br/>

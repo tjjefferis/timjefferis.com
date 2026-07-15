@@ -2,6 +2,7 @@
 layout: post
 title: "The scourge of learned helplessness"
 date: 2015-02-21
+disqus_identifier: "https://timjefferis.com/2015/02/the-scourge-of-learned-helplessness.html"
 ---
 
 <br/>

@@ -2,6 +2,7 @@
 layout: post
 title: "A graduate's guide to living at Harrow Bangkok"
 date: 2018-07-07
+disqus_identifier: "https://timjefferis.com/2018/07/a-graduates-guide-to-living-at-harrow.html"
 ---
 
 <br/>

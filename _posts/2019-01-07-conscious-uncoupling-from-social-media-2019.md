@@ -2,6 +2,7 @@
 layout: post
 title: "Conscious uncoupling from social media 2019"
 date: 2019-01-07
+disqus_identifier: "https://timjefferis.com/2019/01/conscious-uncoupling-from-social-media.html"
 ---
 
 <br/>

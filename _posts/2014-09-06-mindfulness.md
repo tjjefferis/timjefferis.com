@@ -2,6 +2,7 @@
 layout: post
 title: "Mindfulness"
 date: 2014-09-06
+disqus_identifier: "https://timjefferis.com/2014/09/mindfulness.html"
 ---
 
 <br/>

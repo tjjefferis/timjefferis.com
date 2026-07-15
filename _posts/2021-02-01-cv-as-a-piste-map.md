@@ -2,6 +2,7 @@
 layout: post
 title: "CV as a piste map"
 date: 2021-02-01
+disqus_identifier: "http://timjefferis.com/2021/02/cv-as-a-piste-map.html"
 ---
 
 A presentation I'm putting together requires an engaging slide to give a bit of background as to who I am.

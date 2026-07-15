@@ -2,6 +2,7 @@
 layout: post
 title: "Useful links"
 date: 2015-04-15
+disqus_identifier: "http://timjefferis.com/2015/04/useful-links.html"
 ---
 
 <br/>

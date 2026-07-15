@@ -2,6 +2,7 @@
 layout: post
 title: "School Rules"
 date: 2022-12-09
+disqus_identifier: "https://timjefferis.com/2022/12/school-rules.html"
 ---
 
 I stumbled across the archive <a href="https://www.bryanston.co.uk/?title=Meet+our+Bloggers&amp;pid=874&amp;bid=711&amp;bname=Sarah%20Thomas" target="_blank">blog posts of Sarah Thomas</a> recently. They are a treasure trove.

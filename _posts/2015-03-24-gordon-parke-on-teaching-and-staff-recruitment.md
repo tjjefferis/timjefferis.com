@@ -2,6 +2,7 @@
 layout: post
 title: "Gordon Parke on teaching and staff recruitment"
 date: 2015-03-24
+disqus_identifier: "https://timjefferis.com/2015/03/gordon-parke-on-teaching-and-staff.html"
 ---
 
 <br/>

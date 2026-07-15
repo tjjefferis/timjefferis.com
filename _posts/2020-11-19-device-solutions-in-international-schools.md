@@ -2,6 +2,7 @@
 layout: post
 title: "Device solutions in international schools"
 date: 2020-11-19
+disqus_identifier: "https://timjefferis.com/2020/11/device-solutions-in-international.html"
 ---
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMq_XvD48njP5S1YC0nNjg-W768o9UJMHd_d2CRlcQonSFPY1zFPLiPTT2tXAccMUcjt0Xbi-W1C_ydeRFJRJnRAM6B0DX1yzIh34ArXGgklOiYPo_VPhLqki9_q2Dbmd1fHsBsnQ5es8/s720/Slide1.jpeg"><img alt="" border="0" data-original-height="540" data-original-width="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMq_XvD48njP5S1YC0nNjg-W768o9UJMHd_d2CRlcQonSFPY1zFPLiPTT2tXAccMUcjt0Xbi-W1C_ydeRFJRJnRAM6B0DX1yzIh34ArXGgklOiYPo_VPhLqki9_q2Dbmd1fHsBsnQ5es8/s320/Slide1.jpeg" width="320"/></a>

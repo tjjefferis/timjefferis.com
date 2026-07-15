@@ -2,6 +2,7 @@
 layout: post
 title: "Eating an elephant (or doing a doctorate on the job...)"
 date: 2016-03-16
+disqus_identifier: "http://timjefferis.com/2016/03/eating-an-elephant-or-doing-a-doctorate-on-the-job.html"
 ---
 
 <br/>

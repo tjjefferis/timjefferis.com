@@ -2,6 +2,7 @@
 layout: post
 title: "Back to blogging"
 date: 2018-06-16
+disqus_identifier: "https://timjefferis.com/2018/06/back-to-blogging.html"
 ---
 
 <br/>

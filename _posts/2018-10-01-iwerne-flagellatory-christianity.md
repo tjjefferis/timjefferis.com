@@ -2,6 +2,7 @@
 layout: post
 title: "Iwerne: Flagellatory Christianity"
 date: 2018-10-01
+disqus_identifier: "https://timjefferis.com/2018/10/iwerne-flagellatory-christianity.html"
 ---
 
 <a href="https://www.clayesmore.com/wp-content/uploads/clayesmore-1001-e1503477803211.jpg" imageanchor="1"><img border="0" data-original-height="497" data-original-width="800" height="198" src="https://www.clayesmore.com/wp-content/uploads/clayesmore-1001-e1503477803211.jpg" width="320"/></a>

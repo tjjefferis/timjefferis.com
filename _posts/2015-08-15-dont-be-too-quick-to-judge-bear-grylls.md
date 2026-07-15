@@ -2,6 +2,7 @@
 layout: post
 title: "Don't be too quick to judge Bear Grylls"
 date: 2015-08-15
+disqus_identifier: "https://timjefferis.com/2015/08/dont-be-too-quick-to-judge-bear-grylls.html"
 ---
 
 Last week it was reported that the great British adventurer, Bear Grylls, had caused a Twitter storm by leaving his son an outcrop of rocks some way off the Welsh coast. This sort of thing was fairly typical of the genre:

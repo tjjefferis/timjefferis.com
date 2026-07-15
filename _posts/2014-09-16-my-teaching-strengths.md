@@ -2,6 +2,7 @@
 layout: post
 title: "My teaching strengths"
 date: 2014-09-16
+disqus_identifier: "https://timjefferis.com/2014/09/my-teaching-strengths.html"
 ---
 
 <br/>

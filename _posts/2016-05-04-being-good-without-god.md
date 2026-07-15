@@ -2,6 +2,7 @@
 layout: post
 title: "Being good without god"
 date: 2016-05-04
+disqus_identifier: "https://timjefferis.com/2016/05/being-good-without-god.html"
 ---
 
 <br/>

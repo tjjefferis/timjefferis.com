@@ -2,6 +2,7 @@
 layout: post
 title: "Vision, values, ethos"
 date: 2017-04-04
+disqus_identifier: "https://timjefferis.com/2017/04/vision-values-ethos.html"
 ---
 
 <br/>

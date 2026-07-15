@@ -2,6 +2,7 @@
 layout: post
 title: "How I curate student work"
 date: 2015-02-21
+disqus_identifier: "https://timjefferis.com/2015/02/how-i-curate-student-work.html"
 ---
 
 <br/>

@@ -2,6 +2,7 @@
 layout: post
 title: "A rather random post..."
 date: 2014-09-15
+disqus_identifier: "http://timjefferis.com/2014/09/a-rather-random-post.html"
 ---
 
 <br/>

@@ -2,6 +2,7 @@
 layout: post
 title: "What you need to know about running the finances of an independent school"
 date: 2014-04-15
+disqus_identifier: "https://timjefferis.com/2014/04/what-you-need-to-know-about-running.html"
 ---
 
 <br/>

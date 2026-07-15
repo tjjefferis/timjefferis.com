@@ -2,6 +2,7 @@
 layout: post
 title: "My three strengths as an educator...."
 date: 2014-09-18
+disqus_identifier: "http://timjefferis.com/2014/09/my-three-strengths-as-an-educator.html"
 ---
 
 <br/>

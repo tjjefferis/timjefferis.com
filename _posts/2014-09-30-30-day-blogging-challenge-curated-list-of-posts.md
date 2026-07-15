@@ -2,6 +2,7 @@
 layout: post
 title: "30 Day blogging challenge: curated list of posts"
 date: 2014-09-30
+disqus_identifier: "http://timjefferis.com/2014/09/30-day-blogging-challenge-curated-list-of-posts.html"
 ---
 
 <br/>

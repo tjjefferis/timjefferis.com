@@ -2,6 +2,7 @@
 layout: post
 title: "A teacher is..."
 date: 2014-01-16
+disqus_identifier: "http://timjefferis.com/2014/01/a-teacher-is.html"
 ---
 
 <br/>

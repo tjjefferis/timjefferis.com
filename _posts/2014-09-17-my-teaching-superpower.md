@@ -2,6 +2,7 @@
 layout: post
 title: "My teaching superpower"
 date: 2014-09-17
+disqus_identifier: "https://timjefferis.com/2014/09/my-teaching-superpower.html"
 ---
 
 <br/>

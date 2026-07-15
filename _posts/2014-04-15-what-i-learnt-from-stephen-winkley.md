@@ -2,6 +2,7 @@
 layout: post
 title: "What I learnt from Stephen Winkley"
 date: 2014-04-15
+disqus_identifier: "http://timjefferis.com/2014/04/what-i-learnt-from-stephen-winkley.html"
 ---
 
 <a href="https://www.blogger.com/blogger.g?blogID=9145285415158126914" imageanchor="1"></a><a href="https://www.blogger.com/blogger.g?blogID=9145285415158126914" imageanchor="1"></a><a href="https://www.blogger.com/blogger.g?blogID=9145285415158126914" imageanchor="1"></a><a href="https://images-a.jpimedia.uk/imagefetch/w_700,f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.lep.co.uk/webimage/1.6550274.1397031470!/image/436000135.jpg" imageanchor="1"><img border="0" data-original-height="467" data-original-width="700" height="213" src="https://images-a.jpimedia.uk/imagefetch/w_700,f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.lep.co.uk/webimage/1.6550274.1397031470!/image/436000135.jpg" width="320"/></a>

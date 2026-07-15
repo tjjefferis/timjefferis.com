@@ -2,6 +2,7 @@
 layout: post
 title: "My takeaways from Tom Sherrington's workshop"
 date: 2018-08-20
+disqus_identifier: "https://timjefferis.com/2018/08/my-takeaways-from-tom-sherringtons.html"
 ---
 
 <br/>

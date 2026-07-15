@@ -2,6 +2,7 @@
 layout: post
 title: "The legal basis of cloud-based policies"
 date: 2020-09-08
+disqus_identifier: "https://timjefferis.com/2020/09/the-legal-basis-of-cloud-based-policies.html"
 ---
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq44DjqY4De-2qCHMecA6W0o5wug0zlaYGR7QXIdcJ4pdfrnHNWUpxbg6wty9j47qd-SwvrP-luzXkTbh9ZSc78ijhSnoLDXXuQxQe85Sn1MJKjaTMna37xYZXMMl3ogVK34Bs0A0xKc8/"><img alt="" data-original-height="1308" data-original-width="2048" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq44DjqY4De-2qCHMecA6W0o5wug0zlaYGR7QXIdcJ4pdfrnHNWUpxbg6wty9j47qd-SwvrP-luzXkTbh9ZSc78ijhSnoLDXXuQxQe85Sn1MJKjaTMna37xYZXMMl3ogVK34Bs0A0xKc8/" width="320"/></a>

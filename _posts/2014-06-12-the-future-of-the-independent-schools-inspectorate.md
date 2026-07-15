@@ -2,6 +2,7 @@
 layout: post
 title: "The future of the Independent Schools Inspectorate"
 date: 2014-06-12
+disqus_identifier: "http://timjefferis.com/2014/06/the-future-of-the-independent-schools-inspectorate.html"
 ---
 
 <br/>

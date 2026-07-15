@@ -2,6 +2,7 @@
 layout: post
 title: "An open letter to overseas parents"
 date: 2015-08-23
+disqus_identifier: "https://timjefferis.com/2015/08/an-open-letter-to-overseas-parents.html"
 ---
 
 <br/>

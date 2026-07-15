@@ -2,6 +2,7 @@
 layout: post
 title: "What I learnt at #ICE2015 Leeds"
 date: 2015-05-16
+disqus_identifier: "http://timjefferis.com/2015/05/what-i-learnt-at-ice2015-leeds.html"
 ---
 
 <br/>

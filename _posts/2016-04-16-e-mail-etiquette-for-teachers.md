@@ -2,6 +2,7 @@
 layout: post
 title: "E-mail etiquette for teachers"
 date: 2016-04-16
+disqus_identifier: "https://timjefferis.com/2016/04/e-mail-etiquette-for-teachers.html"
 ---
 
 <br/>

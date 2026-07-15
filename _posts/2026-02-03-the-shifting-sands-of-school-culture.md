@@ -2,6 +2,7 @@
 layout: post
 title: "The Shifting Sands of School Culture"
 date: 2026-02-03
+disqus_identifier: "https://timjefferis.com/2026/02/the-shifting-sands-of-school-culture.html"
 ---
 
 <h2 data-path-to-node="3">The Shifting Sands of School Culture</h2><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbssNm4_Da8cuAX1m4Rq-Y24cF4KQVh9VpgJAVhW5f2x5jysgoTzAhvPj9lShUqwIQAhQXVd0V5IuOTh_5CD2eJEQaKKlt2arNQqiLq-Tnc0JQchk8S9nKd7dBjG8p5bjdMvjjHaGK9hAp_HVSYd7QRwscGrB6qtIAXkiofFtpfgSr__E5f3eVoVjgY28/s1024/Gemini_Generated_Image_2ua7et2ua7et2ua7.png" imageanchor="1"><img border="0" data-original-height="1024" data-original-width="1024" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbssNm4_Da8cuAX1m4Rq-Y24cF4KQVh9VpgJAVhW5f2x5jysgoTzAhvPj9lShUqwIQAhQXVd0V5IuOTh_5CD2eJEQaKKlt2arNQqiLq-Tnc0JQchk8S9nKd7dBjG8p5bjdMvjjHaGK9hAp_HVSYd7QRwscGrB6qtIAXkiofFtpfgSr__E5f3eVoVjgY28/w400-h400/Gemini_Generated_Image_2ua7et2ua7et2ua7.png" width="400"/></a>

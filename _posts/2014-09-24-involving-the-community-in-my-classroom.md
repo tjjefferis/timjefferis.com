@@ -2,6 +2,7 @@
 layout: post
 title: "Involving the community in my classroom"
 date: 2014-09-24
+disqus_identifier: "http://timjefferis.com/2014/09/involving-the-community-in-my-classroom.html"
 ---
 
 <br/>

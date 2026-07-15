@@ -2,6 +2,7 @@
 layout: post
 title: "Hackpad for GCSE computer science"
 date: 2016-04-15
+disqus_identifier: "https://timjefferis.com/2016/04/hackpad-for-gcse-computer-science.html"
 ---
 
 <br/>

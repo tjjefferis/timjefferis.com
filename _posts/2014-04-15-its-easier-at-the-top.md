@@ -2,6 +2,7 @@
 layout: post
 title: "It's easier at the top..."
 date: 2014-04-15
+disqus_identifier: "http://timjefferis.com/2014/04/its-easier-at-the-top.html"
 ---
 
 <style>

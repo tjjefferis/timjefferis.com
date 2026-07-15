@@ -2,6 +2,7 @@
 layout: post
 title: "What the military can teach teachers"
 date: 2015-12-25
+disqus_identifier: "http://timjefferis.com/2015/12/what-the-military-can-teach-teachers.html"
 ---
 
 <a href="https://www.blogger.com/blogger.g?blogID=9145285415158126914" imageanchor="1"></a><br/>

@@ -2,6 +2,7 @@
 layout: post
 title: "School Rabbit #edinvent"
 date: 2014-05-17
+disqus_identifier: "https://timjefferis.com/2014/05/school-rabbit-edinvent.html"
 ---
 
 <br/>

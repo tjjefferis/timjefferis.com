@@ -2,6 +2,7 @@
 layout: post
 title: "Leading in a crisis"
 date: 2020-12-02
+disqus_identifier: "http://timjefferis.com/2020/12/leading-in-a-crisis.html"
 ---
 
 [![I'm no expert on Covid-19 but this is The Cure](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8l57P0inTNJay7lzbyxv1Kuv80b9I7MO4SW3LtkjKFueC8IIVpW7Hgt-Ipqobt_Fy243nxQaZzmaSo8mktJ0Y4ZK_31SOP95wOifUgbFjQCaZby2uJLooRxgom4TiNyues8BJ3E9JC6o/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8l57P0inTNJay7lzbyxv1Kuv80b9I7MO4SW3LtkjKFueC8IIVpW7Hgt-Ipqobt_Fy243nxQaZzmaSo8mktJ0Y4ZK_31SOP95wOifUgbFjQCaZby2uJLooRxgom4TiNyues8BJ3E9JC6o/)

@@ -2,6 +2,7 @@
 layout: post
 title: "Why we should use algorithms more in education"
 date: 2015-12-16
+disqus_identifier: "https://timjefferis.com/2015/12/why-we-should-use-algorithms-more-in.html"
 ---
 
 <br/>

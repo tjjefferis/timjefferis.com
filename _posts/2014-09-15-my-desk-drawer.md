@@ -2,6 +2,7 @@
 layout: post
 title: "My Desk Drawer"
 date: 2014-09-15
+disqus_identifier: "http://timjefferis.com/2014/09/my-desk-drawer.html"
 ---
 
 <br/>

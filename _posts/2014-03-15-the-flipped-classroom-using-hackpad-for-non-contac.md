@@ -2,6 +2,7 @@
 layout: post
 title: "The flipped classroom: using Hackpad for non-contact, high-input tuition"
 date: 2014-03-15
+disqus_identifier: "https://timjefferis.com/2014/03/the-flipped-classroom-using-hackpad-for.html"
 ---
 
 <br/>

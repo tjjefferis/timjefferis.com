@@ -2,6 +2,7 @@
 layout: post
 title: "The canonical principle"
 date: 2017-09-25
+disqus_identifier: "https://timjefferis.com/2017/09/the-canonical-principle.html"
 ---
 
 <br/>

@@ -2,6 +2,7 @@
 layout: post
 title: "Leadership"
 date: 2014-11-16
+disqus_identifier: "https://timjefferis.com/2014/11/leadership.html"
 ---
 
 <br/>

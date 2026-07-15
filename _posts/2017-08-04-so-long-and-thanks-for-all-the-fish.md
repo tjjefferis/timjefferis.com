@@ -2,6 +2,7 @@
 layout: post
 title: "So long, and thanks for all the fish..."
 date: 2017-08-04
+disqus_identifier: "http://timjefferis.com/2017/08/so-long-and-thanks-for-all-the-fish.html"
 ---
 
 <br/>

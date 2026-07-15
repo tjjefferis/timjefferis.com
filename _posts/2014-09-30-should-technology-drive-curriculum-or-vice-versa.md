@@ -2,6 +2,7 @@
 layout: post
 title: "Should technology drive curriculum, or vice versa?"
 date: 2014-09-30
+disqus_identifier: "https://timjefferis.com/2014/09/should-technology-drive-curriculum-or.html"
 ---
 
 <br/>

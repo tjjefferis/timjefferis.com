@@ -2,6 +2,7 @@
 layout: post
 title: "A parents' guide to revision"
 date: 2024-03-28
+disqus_identifier: "https://timjefferis.com/2024/03/a-parents-guide-to-revision.html"
 ---
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE_mowKBTJRWGrqOegSbeVnB_1pXbx1diYR-KkGyLhs5YwEB_szMlBh65Acdtnz4bI-jxPHx37JBRm0UXHB379BjEmWH47Bd2piOddsTIzgPm4P6MkSM4KUbxlkgW0DgxCc8WbzYFnWalQ07FUqmMsXJFxESIbaB8xS_S3wRxytin2z7kClwJLc1DtaEA/s512/parents.png" imageanchor="1"><img border="0" data-original-height="512" data-original-width="512" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE_mowKBTJRWGrqOegSbeVnB_1pXbx1diYR-KkGyLhs5YwEB_szMlBh65Acdtnz4bI-jxPHx37JBRm0UXHB379BjEmWH47Bd2piOddsTIzgPm4P6MkSM4KUbxlkgW0DgxCc8WbzYFnWalQ07FUqmMsXJFxESIbaB8xS_S3wRxytin2z7kClwJLc1DtaEA/w240-h240/parents.png" width="240"/></a>

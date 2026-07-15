@@ -2,6 +2,7 @@
 layout: post
 title: "Open badges and Google competency"
 date: 2015-11-01
+disqus_identifier: "http://timjefferis.com/2015/11/open-badges-and-google-competency.html"
 ---
 
 <br/>
