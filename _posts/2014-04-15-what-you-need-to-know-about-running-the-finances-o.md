@@ -7,7 +7,6 @@ disqus_identifier: "https://timjefferis.com/2014/04/what-you-need-to-know-about-
 
 <br/>
 
-<a href="https://news.sap.com/africa/files/2017/07/Finance-1.jpg" imageanchor="1"><img border="0" data-original-height="449" data-original-width="800" height="179" src="https://news.sap.com/africa/files/2017/07/Finance-1.jpg" width="320"/></a>
 <br/>
 
 Recently I failed to get through to the second round of an interview for a Headship. I'm not going to lie, experiences like this always leave me feeling a little bruised, but on this occasion, I received some really useful feedback - in sharp contrast to the usual platitudes about there 'being a strong field.'
