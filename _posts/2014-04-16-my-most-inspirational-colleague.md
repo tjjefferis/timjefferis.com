@@ -2,7 +2,7 @@
 layout: post
 title: "My most inspirational colleague"
 date: 2014-04-16
-blogger_url: "http://tjjteachersblog.blogspot.com/2014/04/my-most-inspirational-colleague.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2014/04/my-most-inspirational-colleague.html"
 ---
 
 <br/>

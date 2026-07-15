@@ -2,7 +2,7 @@
 layout: post
 title: "Digital natives don't exist"
 date: 2018-01-24
-blogger_url: "http://tjjteachersblog.blogspot.com/2018/01/digital-natives-dont-exist.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2018/01/digital-natives-dont-exist.html"
 ---
 
 <br/>

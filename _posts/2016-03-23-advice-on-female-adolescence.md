@@ -2,7 +2,7 @@
 layout: post
 title: "Advice on (female) adolescence"
 date: 2016-03-23
-blogger_url: "http://tjjteachersblog.blogspot.com/2016/03/advice-on-female-adolescence.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2016/03/advice-on-female-adolescence.html"
 ---
 
 <br/>

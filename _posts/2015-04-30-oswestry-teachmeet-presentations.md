@@ -2,7 +2,7 @@
 layout: post
 title: "Oswestry #TeachMeet Presentations"
 date: 2015-04-30
-blogger_url: "http://tjjteachersblog.blogspot.com/2015/04/oswestry-teachmeet-presentations.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2015/04/oswestry-teachmeet-presentations.html"
 ---
 
 <br/>

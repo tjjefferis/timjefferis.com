@@ -2,7 +2,7 @@
 layout: post
 title: "Blowing the lid off ISI integrated inspection"
 date: 2016-01-30
-blogger_url: "http://tjjteachersblog.blogspot.com/2016/01/blowing-the-lid-off-isi-integrated-inspection.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2016/01/blowing-the-lid-off-isi-integrated-inspection.html"
 ---
 
 <br/>

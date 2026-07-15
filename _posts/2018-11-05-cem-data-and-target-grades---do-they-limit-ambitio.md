@@ -2,7 +2,7 @@
 layout: post
 title: "CEM data and target grades - do they limit ambition?"
 date: 2018-11-05
-blogger_url: "http://tjjteachersblog.blogspot.com/2018/11/cem-data-and-target-grades---do-they-limit-ambitio.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2018/11/cem-data-and-target-grades---do-they-limit-ambitio.html"
 ---
 
 <br/>

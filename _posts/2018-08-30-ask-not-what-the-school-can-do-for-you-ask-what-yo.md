@@ -2,7 +2,7 @@
 layout: post
 title: "Ask not what the school can do for you, ask what you can do for the school..."
 date: 2018-08-30
-blogger_url: "http://tjjteachersblog.blogspot.com/2018/08/ask-not-what-the-school-can-do-for-you-ask-what-yo.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2018/08/ask-not-what-the-school-can-do-for-you-ask-what-yo.html"
 ---
 
 <br/>

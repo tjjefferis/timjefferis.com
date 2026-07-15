@@ -2,7 +2,7 @@
 layout: post
 title: "Occam's razor"
 date: 2019-04-15
-blogger_url: "http://tjjteachersblog.blogspot.com/2019/04/occams-razor.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2019/04/occams-razor.html"
 ---
 
 <a href="https://www.blogger.com/blogger.g?blogID=9145285415158126914" imageanchor="1"></a><br/>

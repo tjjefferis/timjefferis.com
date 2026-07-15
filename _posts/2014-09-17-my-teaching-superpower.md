@@ -2,7 +2,7 @@
 layout: post
 title: "My teaching superpower"
 date: 2014-09-17
-blogger_url: "http://tjjteachersblog.blogspot.com/2014/09/my-teaching-superpower.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2014/09/my-teaching-superpower.html"
 ---
 
 <br/>

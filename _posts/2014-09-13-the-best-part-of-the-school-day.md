@@ -2,7 +2,7 @@
 layout: post
 title: "The best part of the school day..."
 date: 2014-09-13
-blogger_url: "http://tjjteachersblog.blogspot.com/2014/09/the-best-part-of-the-school-day.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2014/09/the-best-part-of-the-school-day.html"
 ---
 
 <br/>

@@ -2,7 +2,7 @@
 layout: post
 title: "Back to blogging"
 date: 2018-06-16
-blogger_url: "http://tjjteachersblog.blogspot.com/2018/06/back-to-blogging.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2018/06/back-to-blogging.html"
 ---
 
 <br/>

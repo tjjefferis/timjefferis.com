@@ -2,7 +2,7 @@
 layout: post
 title: "My teaching strengths"
 date: 2014-09-16
-blogger_url: "http://tjjteachersblog.blogspot.com/2014/09/my-teaching-strengths.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2014/09/my-teaching-strengths.html"
 ---
 
 <br/>

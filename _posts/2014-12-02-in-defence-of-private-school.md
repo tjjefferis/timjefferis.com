@@ -2,7 +2,7 @@
 layout: post
 title: "In defence of private school"
 date: 2014-12-02
-blogger_url: "http://tjjteachersblog.blogspot.com/2014/12/in-defence-of-private-school.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2014/12/in-defence-of-private-school.html"
 ---
 
 <br/>

@@ -2,7 +2,7 @@
 layout: post
 title: "Coping with language difficulties using Doctopus"
 date: 2014-01-01
-blogger_url: "http://tjjteachersblog.blogspot.com/2014/01/coping-with-language-difficulties-using-doctopus.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2014/01/coping-with-language-difficulties-using-doctopus.html"
 ---
 
 <br/>

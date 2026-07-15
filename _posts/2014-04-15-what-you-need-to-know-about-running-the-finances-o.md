@@ -2,7 +2,7 @@
 layout: post
 title: "What you need to know about running the finances of an independent school"
 date: 2014-04-15
-blogger_url: "http://tjjteachersblog.blogspot.com/2014/04/what-you-need-to-know-about-running-the-finances-o.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2014/04/what-you-need-to-know-about-running-the-finances-o.html"
 ---
 
 <br/>

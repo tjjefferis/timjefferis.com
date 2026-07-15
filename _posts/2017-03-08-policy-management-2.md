@@ -2,7 +2,7 @@
 layout: post
 title: "Policy management #2"
 date: 2017-03-08
-blogger_url: "http://tjjteachersblog.blogspot.com/2017/03/policy-management-2.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2017/03/policy-management-2.html"
 ---
 
 <br/>

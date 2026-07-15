@@ -2,7 +2,7 @@
 layout: post
 title: "Grasping the nettle - authentic, purposeful conversations"
 date: 2019-05-06
-blogger_url: "http://tjjteachersblog.blogspot.com/2019/05/grasping-the-nettle---authentic-purposeful-convers.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2019/05/grasping-the-nettle---authentic-purposeful-convers.html"
 ---
 
 If you're a senior leader and you've not yet read Susan Scott's book '<a href="https://www.amazon.com/Fierce-Conversations-Achieving-Success-Conversation/dp/0425193373" target="_blank">Fierce Conversations</a>', I encourage you to do so. The book is a stirring call to action:<br/>

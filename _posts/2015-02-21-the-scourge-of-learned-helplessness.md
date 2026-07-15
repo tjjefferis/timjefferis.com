@@ -2,7 +2,7 @@
 layout: post
 title: "The scourge of learned helplessness"
 date: 2015-02-21
-blogger_url: "http://tjjteachersblog.blogspot.com/2015/02/the-scourge-of-learned-helplessness.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2015/02/the-scourge-of-learned-helplessness.html"
 ---
 
 <br/>

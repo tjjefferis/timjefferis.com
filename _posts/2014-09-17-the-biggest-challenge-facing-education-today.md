@@ -2,7 +2,7 @@
 layout: post
 title: "The biggest challenge facing education today"
 date: 2014-09-17
-blogger_url: "http://tjjteachersblog.blogspot.com/2014/09/the-biggest-challenge-facing-education-today.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2014/09/the-biggest-challenge-facing-education-today.html"
 ---
 
 <br/>

@@ -2,7 +2,7 @@
 layout: post
 title: "Organising calendars in school"
 date: 2015-05-13
-blogger_url: "http://tjjteachersblog.blogspot.com/2015/05/organising-calendars-in-school.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2015/05/organising-calendars-in-school.html"
 ---
 
 <br/>

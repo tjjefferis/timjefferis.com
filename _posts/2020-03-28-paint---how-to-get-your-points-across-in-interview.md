@@ -2,7 +2,7 @@
 layout: post
 title: "PAINT - how to get your points across in interview"
 date: 2020-03-28
-blogger_url: "http://tjjteachersblog.blogspot.com/2020/03/paint---how-to-get-your-points-across-in-interview.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2020/03/paint---how-to-get-your-points-across-in-interview.html"
 ---
 
 One of my strengths - and also a terrible weakness - is a certain lack of self-censorship (colleagues past and present will no doubt chuckle to themselves!)<br/>

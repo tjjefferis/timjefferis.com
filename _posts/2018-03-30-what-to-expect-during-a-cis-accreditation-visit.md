@@ -2,7 +2,7 @@
 layout: post
 title: "What to expect during a CIS accreditation visit"
 date: 2018-03-30
-blogger_url: "http://tjjteachersblog.blogspot.com/2018/03/what-to-expect-during-a-cis-accreditation-visit.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2018/03/what-to-expect-during-a-cis-accreditation-visit.html"
 ---
 
 <br/>

@@ -2,7 +2,7 @@
 layout: post
 title: "Collaboration between students"
 date: 2014-09-27
-blogger_url: "http://tjjteachersblog.blogspot.com/2014/09/collaboration-between-students.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2014/09/collaboration-between-students.html"
 ---
 
 <br/>

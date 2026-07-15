@@ -2,7 +2,7 @@
 layout: post
 title: "What would you do (as a teacher) if you weren’t afraid?"
 date: 2014-09-30
-blogger_url: "http://tjjteachersblog.blogspot.com/2014/09/what-would-you-do-as-a-teacher-if-you-werent-afrai.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2014/09/what-would-you-do-as-a-teacher-if-you-werent-afrai.html"
 ---
 
 <br/>

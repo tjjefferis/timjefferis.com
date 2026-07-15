@@ -2,7 +2,7 @@
 layout: post
 title: "Cringeworthy - Technology and the Teenaged Brain"
 date: 2020-08-18
-blogger_url: "http://tjjteachersblog.blogspot.com/2020/08/cringeworthy---technology-and-the-teenaged-brain.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2020/08/cringeworthy---technology-and-the-teenaged-brain.html"
 ---
 
 I've recently rediscovered the embedded video on the school system. It shows one of the first presentations I did to parents when I first arrived in Thailand over three years ago.

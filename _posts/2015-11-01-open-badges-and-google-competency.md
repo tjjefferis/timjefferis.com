@@ -2,7 +2,7 @@
 layout: post
 title: "Open badges and Google competency"
 date: 2015-11-01
-blogger_url: "http://tjjteachersblog.blogspot.com/2015/11/open-badges-and-google-competency.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2015/11/open-badges-and-google-competency.html"
 ---
 
 <br/>

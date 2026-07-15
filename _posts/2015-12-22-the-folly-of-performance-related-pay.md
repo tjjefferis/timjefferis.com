@@ -2,7 +2,7 @@
 layout: post
 title: "The folly of performance-related pay"
 date: 2015-12-22
-blogger_url: "http://tjjteachersblog.blogspot.com/2015/12/the-folly-of-performance-related-pay.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2015/12/the-folly-of-performance-related-pay.html"
 ---
 
 <br/>

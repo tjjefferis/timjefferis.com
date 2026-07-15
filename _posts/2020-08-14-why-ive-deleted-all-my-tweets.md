@@ -2,7 +2,7 @@
 layout: post
 title: "Why I've deleted all my Tweets"
 date: 2020-08-14
-blogger_url: "http://tjjteachersblog.blogspot.com/2020/08/why-ive-deleted-all-my-tweets.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2020/08/why-ive-deleted-all-my-tweets.html"
 ---
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyfgLxzRX1eRijU135vIpEcZTmNPiv6PzFbPhFLKUp2qBWBCzfIYSbAXM8oz6W3X8f683TnkUSNZ8wNt_Q6E0Qb4z6FCmjFIWghQeI5WjDZlxFA7bnYWVVNlqbBbLtq25l28t7yrkdTmoAfMnwf5si-OdjVX0z8_cyTuT-2qZjg8nUS2jQWx1OP6eDFV8/s1024/Gemini_Generated_Image_p7ibesp7ibesp7ib.png" imageanchor="1"><img border="0" data-original-height="1024" data-original-width="1024" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyfgLxzRX1eRijU135vIpEcZTmNPiv6PzFbPhFLKUp2qBWBCzfIYSbAXM8oz6W3X8f683TnkUSNZ8wNt_Q6E0Qb4z6FCmjFIWghQeI5WjDZlxFA7bnYWVVNlqbBbLtq25l28t7yrkdTmoAfMnwf5si-OdjVX0z8_cyTuT-2qZjg8nUS2jQWx1OP6eDFV8/s320/Gemini_Generated_Image_p7ibesp7ibesp7ib.png" width="320"/></a>

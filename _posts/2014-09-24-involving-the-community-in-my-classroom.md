@@ -2,7 +2,7 @@
 layout: post
 title: "Involving the community in my classroom"
 date: 2014-09-24
-blogger_url: "http://tjjteachersblog.blogspot.com/2014/09/involving-the-community-in-my-classroom.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2014/09/involving-the-community-in-my-classroom.html"
 ---
 
 <br/>

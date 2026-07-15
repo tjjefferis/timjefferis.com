@@ -2,7 +2,7 @@
 layout: post
 title: "Job rejections"
 date: 2021-02-05
-blogger_url: "http://tjjteachersblog.blogspot.com/2021/02/job-rejections.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2021/02/job-rejections.html"
 ---
 
 <img alt="Image result for job rejection" class="n3VNCb" data-noaft="1" height="125" jsaction="load:XAeZkd;" jsname="HiaYvf" src="https://insights.dice.com/wp-content/uploads/2018/08/Job-rejection-email-letter-Dice.png" width="200"/>

@@ -2,7 +2,7 @@
 layout: post
 title: "Improving my teaching"
 date: 2015-04-15
-blogger_url: "http://tjjteachersblog.blogspot.com/2015/04/improving-my-teaching.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2015/04/improving-my-teaching.html"
 ---
 
 <br/>

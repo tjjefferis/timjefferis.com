@@ -2,7 +2,7 @@
 layout: post
 title: "Handling a disciplinary investigation in school"
 date: 2014-11-16
-blogger_url: "http://tjjteachersblog.blogspot.com/2014/11/handling-a-disciplinary-investigation-in-school.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2014/11/handling-a-disciplinary-investigation-in-school.html"
 ---
 
 <br/>

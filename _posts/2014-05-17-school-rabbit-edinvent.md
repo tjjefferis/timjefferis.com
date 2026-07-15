@@ -2,7 +2,7 @@
 layout: post
 title: "School Rabbit #edinvent"
 date: 2014-05-17
-blogger_url: "http://tjjteachersblog.blogspot.com/2014/05/school-rabbit-edinvent.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2014/05/school-rabbit-edinvent.html"
 ---
 
 <br/>

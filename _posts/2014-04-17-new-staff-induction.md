@@ -2,7 +2,7 @@
 layout: post
 title: "New staff induction"
 date: 2014-04-17
-blogger_url: "http://tjjteachersblog.blogspot.com/2014/04/new-staff-induction.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2014/04/new-staff-induction.html"
 ---
 
 <br/>

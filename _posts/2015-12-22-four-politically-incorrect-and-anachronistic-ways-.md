@@ -2,7 +2,7 @@
 layout: post
 title: "Four politically incorrect and anachronistic ways to manage your class..."
 date: 2015-12-22
-blogger_url: "http://tjjteachersblog.blogspot.com/2015/12/four-politically-incorrect-and-anachronistic-ways-.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2015/12/four-politically-incorrect-and-anachronistic-ways-.html"
 ---
 
 <h2 data-path-to-node="3">Modern Accountability: Dusting off the "Old School"</h2>

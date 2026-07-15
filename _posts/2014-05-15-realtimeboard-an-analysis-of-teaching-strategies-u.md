@@ -2,7 +2,7 @@
 layout: post
 title: "RealtimeBoard: an analysis of teaching strategies using the SAMR model"
 date: 2014-05-15
-blogger_url: "http://tjjteachersblog.blogspot.com/2014/05/realtimeboard-an-analysis-of-teaching-strategies-u.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2014/05/realtimeboard-an-analysis-of-teaching-strategies-u.html"
 ---
 
 <br/>

@@ -2,7 +2,7 @@
 layout: post
 title: "How I automated the school minibus booking system..."
 date: 2015-06-16
-blogger_url: "http://tjjteachersblog.blogspot.com/2015/06/how-i-automated-the-school-minibus-booking-system.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2015/06/how-i-automated-the-school-minibus-booking-system.html"
 ---
 
 <br/>

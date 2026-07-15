@@ -2,7 +2,7 @@
 layout: post
 title: "Anniversary of the First Apple Mac"
 date: 2015-02-21
-blogger_url: "http://tjjteachersblog.blogspot.com/2015/02/anniversary-of-the-first-apple-mac.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2015/02/anniversary-of-the-first-apple-mac.html"
 ---
 
 <br/>

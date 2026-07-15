@@ -2,7 +2,7 @@
 layout: post
 title: "Our crusade against capitalisation"
 date: 2017-06-23
-blogger_url: "http://tjjteachersblog.blogspot.com/2017/06/our-crusade-against-capitalisation.html"
+blogger_url: "https://tjjteachersblog.blogspot.com/2017/06/our-crusade-against-capitalisation.html"
 ---
 
 <br/>
