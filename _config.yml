@@ -12,3 +12,4 @@ excerpt_separator: "<!--more-->"
 theme: minima
 plugins:
   - jekyll-feed
+url: "https://timjefferis.com"
