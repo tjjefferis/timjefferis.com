@@ -18,7 +18,13 @@ True, some private schools, particularly those in the lower echelons, are too re
 
 **Private schools undermine state schools**
 
-Whether there's any truth behind this statement, I know not. But even if there is, I baulk at the idea that success should be dismantled in order to save the blushes of those in less successful establishments (state or independent). As Lincoln pointed out: <i>"You can’t make a weak man strong by making a strong man weak."</i>A more positive approach would be to try and emulate the success of independent schools by beating them at their own game. This doesn't necessarily, by the way, mean selection. Many independent schools, including the one I currently work in, are determinedly non-selective. Parents choose them for other reasons such as:<br/><ul><li>their willingness to lay on an all-round, out-of-hours fully immersive education,</li><li>the lower level of politically motivated union-militancy amongst staff,</li><li>a common-sense approach to educational fads and bureaucracy etc.</li></ul>I would argue that independent schools are vital in providing an alternative to the bland one-size-fits-all, must-have-your-learning-objectives-on-the -board tedium that infects too many schools in the state sector. State schools in their turn, far from feeling undermined, should face the competition head-on and learn from it. The clamour for closure smacks of sour grapes.
+Whether there's any truth behind this statement, I know not. But even if there is, I baulk at the idea that success should be dismantled in order to save the blushes of those in less successful establishments (state or independent). As Lincoln pointed out: <i>"You can’t make a weak man strong by making a strong man weak."</i>A more positive approach would be to try and emulate the success of independent schools by beating them at their own game. This doesn't necessarily, by the way, mean selection. Many independent schools, including the one I currently work in, are determinedly non-selective. Parents choose them for other reasons such as:<br/>
+
+* their willingness to lay on an all-round, out-of-hours fully immersive education,
+* the lower level of politically motivated union-militancy amongst staff,
+* a common-sense approach to educational fads and bureaucracy etc.
+
+I would argue that independent schools are vital in providing an alternative to the bland one-size-fits-all, must-have-your-learning-objectives-on-the -board tedium that infects too many schools in the state sector. State schools in their turn, far from feeling undermined, should face the competition head-on and learn from it. The clamour for closure smacks of sour grapes.
 
 <!--more-->
 
