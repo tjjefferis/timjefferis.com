@@ -2,6 +2,7 @@
 layout: post
 title: "What does a good mentor do?"
 date: 2014-09-06
+blogger_url: "http://tjjteachersblog.blogspot.com/2014/09/what-does-a-good-mentor-do.html"
 ---
 
 <br/>

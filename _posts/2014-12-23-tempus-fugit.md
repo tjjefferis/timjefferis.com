@@ -2,6 +2,7 @@
 layout: post
 title: "Tempus Fugit"
 date: 2014-12-23
+blogger_url: "http://tjjteachersblog.blogspot.com/2014/12/tempus-fugit.html"
 ---
 
 <br/>

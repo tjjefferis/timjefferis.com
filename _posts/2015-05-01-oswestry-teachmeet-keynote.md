@@ -2,6 +2,7 @@
 layout: post
 title: "Oswestry #TeachMeet Keynote"
 date: 2015-05-01
+blogger_url: "http://tjjteachersblog.blogspot.com/2015/05/oswestry-teachmeet-keynote.html"
 ---
 
 <br/>

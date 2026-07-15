@@ -2,6 +2,7 @@
 layout: post
 title: "How have you changed as an educator since you first started?"
 date: 2015-04-15
+blogger_url: "http://tjjteachersblog.blogspot.com/2015/04/how-have-you-changed-as-an-educator-since-you-firs.html"
 ---
 
 <a href="https://www.gannett-cdn.com/-mm-/48495dffad97027adf694e9a25452547326d6c60/c=182-0-1581-1049/local/-/media/JacksonMS/2014/08/23/emptynests.eps?width=534&amp;height=401&amp;fit=crop" imageanchor="1"><img border="0" data-original-height="600" data-original-width="800" height="239" src="https://www.gannett-cdn.com/-mm-/48495dffad97027adf694e9a25452547326d6c60/c=182-0-1581-1049/local/-/media/JacksonMS/2014/08/23/emptynests.eps?width=534&amp;height=401&amp;fit=crop" width="320"/></a>

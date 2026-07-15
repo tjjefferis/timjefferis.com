@@ -2,6 +2,7 @@
 layout: post
 title: "International Boarding vs Boarding in the UK"
 date: 2020-03-30
+blogger_url: "http://tjjteachersblog.blogspot.com/2020/03/international-boarding-vs-boarding-in-the-uk.html"
 ---
 
 Somehow I've ended up looking back on a twenty-plus year career in teaching which has involved neck-deep involvement in boarding throughout. I didn't plan it like that, that's just how things evolved.<br/>

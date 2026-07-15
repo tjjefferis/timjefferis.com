@@ -2,6 +2,7 @@
 layout: post
 title: "Should technology drive curriculum, or vice versa?"
 date: 2014-09-30
+blogger_url: "http://tjjteachersblog.blogspot.com/2014/09/should-technology-drive-curriculum-or-vice-versa.html"
 ---
 
 <br/>

@@ -2,6 +2,7 @@
 layout: post
 title: "Working in an MCI School"
 date: 2023-07-17
+blogger_url: "http://tjjteachersblog.blogspot.com/2023/07/working-in-an-mci-school.html"
 ---
 
 Dear Colleague,<o:p></o:p>
@@ -61,4 +62,3 @@ With best wishes,<o:p></o:p>
 Dr Tim Jefferis<o:p></o:p>
 
 Head of Secondary<o:p></o:p>
-

@@ -2,6 +2,7 @@
 layout: post
 title: "Does it make the car go faster?"
 date: 2020-10-08
+blogger_url: "http://tjjteachersblog.blogspot.com/2020/10/does-it-make-the-car-go-faster.html"
 ---
 
 [![Does it make the car go faster?](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZZVk-WyriPqhk7jG1wIO9Q3EIRs7si7h6cScm8BdvIVeYy7geYxpekXMUHivduKjdiYKPr1KL1HgttrTNx3u2AYNdgoCDTjGPKcpvsy6s85cHz5iL9PztSH6g367ZaMKVJRGIQVO-ssA/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZZVk-WyriPqhk7jG1wIO9Q3EIRs7si7h6cScm8BdvIVeYy7geYxpekXMUHivduKjdiYKPr1KL1HgttrTNx3u2AYNdgoCDTjGPKcpvsy6s85cHz5iL9PztSH6g367ZaMKVJRGIQVO-ssA/)

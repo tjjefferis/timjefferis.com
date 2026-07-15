@@ -2,6 +2,7 @@
 layout: post
 title: "Automating work scrutiny"
 date: 2015-02-21
+blogger_url: "http://tjjteachersblog.blogspot.com/2015/02/automating-work-scrutiny.html"
 ---
 
 <br/>

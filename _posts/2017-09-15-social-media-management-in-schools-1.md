@@ -2,6 +2,7 @@
 layout: post
 title: "Social media management in schools #1"
 date: 2017-09-15
+blogger_url: "http://tjjteachersblog.blogspot.com/2017/09/social-media-management-in-schools-1.html"
 ---
 
 <br/>

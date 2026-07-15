@@ -2,6 +2,7 @@
 layout: post
 title: "Conscious uncoupling from social media 2019"
 date: 2019-01-07
+blogger_url: "http://tjjteachersblog.blogspot.com/2019/01/conscious-uncoupling-from-social-media-2019.html"
 ---
 
 <br/>

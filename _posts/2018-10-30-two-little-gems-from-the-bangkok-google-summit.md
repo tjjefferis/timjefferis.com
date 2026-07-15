@@ -2,6 +2,7 @@
 layout: post
 title: "Two little gems from the Bangkok Google Summit"
 date: 2018-10-30
+blogger_url: "http://tjjteachersblog.blogspot.com/2018/10/two-little-gems-from-the-bangkok-google-summit.html"
 ---
 
 <a href="https://cdn-images.postach.io/13a63cfd-b066-4a7a-a917-c72a2236ed2f/c5022aad-7a4c-4e2b-86d9-0e6ec2aa9e77/82056d3b-e44c-457a-b1a1-35348f468c96.jpg" imageanchor="1"><img border="0" data-original-height="600" data-original-width="800" height="240" src="https://cdn-images.postach.io/13a63cfd-b066-4a7a-a917-c72a2236ed2f/c5022aad-7a4c-4e2b-86d9-0e6ec2aa9e77/82056d3b-e44c-457a-b1a1-35348f468c96.jpg" width="320"/></a>

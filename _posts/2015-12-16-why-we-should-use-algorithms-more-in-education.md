@@ -2,6 +2,7 @@
 layout: post
 title: "Why we should use algorithms more in education"
 date: 2015-12-16
+blogger_url: "http://tjjteachersblog.blogspot.com/2015/12/why-we-should-use-algorithms-more-in-education.html"
 ---
 
 <br/>

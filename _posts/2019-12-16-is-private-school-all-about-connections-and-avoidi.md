@@ -2,6 +2,7 @@
 layout: post
 title: "Is private school all about connections and avoiding contact with the 'Hoi Polloi'?"
 date: 2019-12-16
+blogger_url: "http://tjjteachersblog.blogspot.com/2019/12/is-private-school-all-about-connections-and-avoidi.html"
 ---
 
 <a href="https://i.pinimg.com/originals/6a/eb/97/6aeb976f3d87bd9930b3f86cdeacacc5.jpg" imageanchor="1"><img border="0" data-original-height="581" data-original-width="800" height="232" src="https://i.pinimg.com/originals/6a/eb/97/6aeb976f3d87bd9930b3f86cdeacacc5.jpg" width="320"/></a>

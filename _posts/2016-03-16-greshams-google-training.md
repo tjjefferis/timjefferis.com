@@ -2,6 +2,7 @@
 layout: post
 title: "Gresham's Google Training"
 date: 2016-03-16
+blogger_url: "http://tjjteachersblog.blogspot.com/2016/03/greshams-google-training.html"
 ---
 
 <br/>

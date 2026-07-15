@@ -2,6 +2,7 @@
 layout: post
 title: "Reading whilst on lockdown"
 date: 2020-04-10
+blogger_url: "http://tjjteachersblog.blogspot.com/2020/04/reading-whilst-on-lockdown.html"
 ---
 
 Lockdown presents a perfect opportunity to catch up with some reading (and mess around with some HTML). I did this a while ago, but the widget broke. So here it is again, updated for 2020:

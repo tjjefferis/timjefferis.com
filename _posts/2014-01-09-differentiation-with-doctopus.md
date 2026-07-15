@@ -2,6 +2,7 @@
 layout: post
 title: "Differentiation with Doctopus"
 date: 2014-01-09
+blogger_url: "http://tjjteachersblog.blogspot.com/2014/01/differentiation-with-doctopus.html"
 ---
 
 <br/>

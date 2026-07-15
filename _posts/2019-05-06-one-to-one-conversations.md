@@ -2,6 +2,7 @@
 layout: post
 title: "One-to-one conversations"
 date: 2019-05-06
+blogger_url: "http://tjjteachersblog.blogspot.com/2019/05/one-to-one-conversations.html"
 ---
 
 <a href="https://www.quantumworkplace.com/hs-fs/hubfs/Website/Blog/Images/8-3-16-10-Ways_to-Improve-One-on-One-Meetings-with-Employees-A-Template.jpg?width=450&amp;name=8-3-16-10-Ways_to-Improve-One-on-One-Meetings-with-Employees-A-Template.jpg" imageanchor="1"><img border="0" data-original-height="334" data-original-width="450" height="238" src="https://www.quantumworkplace.com/hs-fs/hubfs/Website/Blog/Images/8-3-16-10-Ways_to-Improve-One-on-One-Meetings-with-Employees-A-Template.jpg?width=450&amp;name=8-3-16-10-Ways_to-Improve-One-on-One-Meetings-with-Employees-A-Template.jpg" width="320"/></a><a href="https://www.linkedin.com/in/michael-farley-42435385/" target="_blank">Mick Farley</a> was a fan of weekly one-to-one conversations with his core team. I generally found these meetings useful, and could see how they helped with delegation in a large organisation. The tradition has continued under <a href="https://www.linkedin.com/in/jon-standen-0668b723/" target="_blank">Jon Standen</a> and is one that I seek to emulate with my own team of direct reports.<br/>

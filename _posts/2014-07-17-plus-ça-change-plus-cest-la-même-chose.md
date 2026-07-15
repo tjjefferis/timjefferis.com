@@ -2,6 +2,7 @@
 layout: post
 title: "Plus ça change, plus c'est la même chose"
 date: 2014-07-17
+blogger_url: "http://tjjteachersblog.blogspot.com/2014/07/plus-ça-change-plus-cest-la-même-chose.html"
 ---
 
 <br/>

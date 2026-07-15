@@ -2,6 +2,7 @@
 layout: post
 title: "A Strategy for Dealing with Wicked Problems"
 date: 2020-02-22
+blogger_url: "http://tjjteachersblog.blogspot.com/2020/02/a-strategy-for-dealing-with-wicked-problems.html"
 ---
 
 Sometimes schools throw up <a href="https://en.wikipedia.org/wiki/Wicked_problem" target="_blank">wicked problems</a> - problems which have no obvious solution or problems in which every possible solution has serious drawbacks. Left to fester such problems can quickly start to feel overwhelming. Who hasn't lain awake at night worrying about such things from time to time...?<br/>

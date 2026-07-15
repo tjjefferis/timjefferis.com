@@ -2,6 +2,7 @@
 layout: post
 title: "Governorship in independent schools"
 date: 2015-10-21
+blogger_url: "http://tjjteachersblog.blogspot.com/2015/10/governorship-in-independent-schools.html"
 ---
 
 <br/>

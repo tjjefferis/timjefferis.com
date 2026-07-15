@@ -2,6 +2,7 @@
 layout: post
 title: "New Year's Resolutions (or advice for novice teachers)"
 date: 2014-04-17
+blogger_url: "http://tjjteachersblog.blogspot.com/2014/04/new-years-resolutions-or-advice-for-novice-teacher.html"
 ---
 
 <br/>

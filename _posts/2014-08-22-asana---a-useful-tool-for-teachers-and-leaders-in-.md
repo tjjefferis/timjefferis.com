@@ -2,6 +2,7 @@
 layout: post
 title: "Asana - a useful tool for teachers and leaders in schools"
 date: 2014-08-22
+blogger_url: "http://tjjteachersblog.blogspot.com/2014/08/asana---a-useful-tool-for-teachers-and-leaders-in-.html"
 ---
 
 <br/>

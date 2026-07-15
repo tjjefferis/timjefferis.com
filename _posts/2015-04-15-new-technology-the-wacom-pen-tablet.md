@@ -2,6 +2,7 @@
 layout: post
 title: "New Technology: the Wacom Pen Tablet"
 date: 2015-04-15
+blogger_url: "http://tjjteachersblog.blogspot.com/2015/04/new-technology-the-wacom-pen-tablet.html"
 ---
 
 <br/>

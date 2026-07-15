@@ -2,6 +2,7 @@
 layout: post
 title: "An assault on mediocrity"
 date: 2015-04-16
+blogger_url: "http://tjjteachersblog.blogspot.com/2015/04/an-assault-on-mediocrity.html"
 ---
 
 <br/>

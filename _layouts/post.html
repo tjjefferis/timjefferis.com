@@ -23,10 +23,10 @@ layout: default
   <hr style="border: 0; border-top: 1px solid #edf2f7; margin: 40px 0;" />
   <div id="disqus_thread"></div>
   <script>
-      var disqus_config = function () {
-          this.page.url = "{{ page.url | absolute_url }}";
-          this.page.identifier = "{{ page.url }}";
-      };
+          var disqus_config = function () {
+        this.page.url = '{{ page.blogger_url | default: (page.url | absolute_url) }}';
+        this.page.identifier = '{{ page.blogger_url | default: page.url }}';
+    };
       (function() {
           var d = document, s = d.createElement('script');
           s.src = 'https://tjjteachersblog.disqus.com/embed.js';

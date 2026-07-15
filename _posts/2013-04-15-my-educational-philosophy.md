@@ -2,6 +2,7 @@
 layout: post
 title: "My educational philosophy"
 date: 2013-04-15
+blogger_url: "http://tjjteachersblog.blogspot.com/2013/04/my-educational-philosophy.html"
 ---
 
 <br/>

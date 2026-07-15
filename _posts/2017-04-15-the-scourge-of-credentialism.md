@@ -2,6 +2,7 @@
 layout: post
 title: "The scourge of credentialism"
 date: 2017-04-15
+blogger_url: "http://tjjteachersblog.blogspot.com/2017/04/the-scourge-of-credentialism.html"
 ---
 
 <br/>

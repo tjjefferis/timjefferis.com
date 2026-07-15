@@ -2,6 +2,7 @@
 layout: post
 title: "My takeaways from Tom Sherrington's workshop"
 date: 2018-08-20
+blogger_url: "http://tjjteachersblog.blogspot.com/2018/08/my-takeaways-from-tom-sherringtons-workshop.html"
 ---
 
 <br/>

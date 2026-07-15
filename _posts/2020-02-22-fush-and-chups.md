@@ -2,6 +2,7 @@
 layout: post
 title: "Fush and Chups"
 date: 2020-02-22
+blogger_url: "http://tjjteachersblog.blogspot.com/2020/02/fush-and-chups.html"
 ---
 
 A week ago I came back from a fantastic school trip to Chiang Dao in Northern Thailand. We spent a couple of days rafting down the <a href="https://en.wikipedia.org/wiki/Taeng_River" target="_blank">Mae Taeng River</a>. Apart from the marvellous scenery, there are two things I want to commit to memory from the trip, which could come in useful again in the future:<br/>
@@ -17,4 +18,3 @@ A. The 'Fish and Chips Paddle Game' (pronounced 'fush and chups' by our Kiwi gui
 <li>The winner is the last paddler left standing.</li>
 </ol>
 B. Klop - a Finnish twist on boules, which is easy to play and good fun. It can even involve children in making the game pieces for themselves before playing so creating a decent half-day activity:<br/>
-

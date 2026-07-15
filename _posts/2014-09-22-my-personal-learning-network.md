@@ -2,6 +2,7 @@
 layout: post
 title: "My personal learning network"
 date: 2014-09-22
+blogger_url: "http://tjjteachersblog.blogspot.com/2014/09/my-personal-learning-network.html"
 ---
 
 <br/>

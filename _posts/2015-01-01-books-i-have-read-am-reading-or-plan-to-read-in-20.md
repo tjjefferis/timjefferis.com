@@ -3,6 +3,7 @@ layout: post
 title: "Books I have read, am reading or plan to read in 2015..."
 date: 2015-01-01
 permalink: /2015/01/books-i-have-read-am-reading-or-plan-to.html
+blogger_url: "http://tjjteachersblog.blogspot.com/2015/01/books-i-have-read-am-reading-or-plan-to-read-in-20.html"
 ---
 
 <br/>

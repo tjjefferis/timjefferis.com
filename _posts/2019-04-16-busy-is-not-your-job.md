@@ -2,6 +2,7 @@
 layout: post
 title: "Busy is not your job..."
 date: 2019-04-16
+blogger_url: "http://tjjteachersblog.blogspot.com/2019/04/busy-is-not-your-job.html"
 ---
 
 I am fortunate that I've always worked in schools where <a href="https://www.bbc.com/news/business-47911210" target="_blank">presenteeism</a> isn't an issue. You do your job and you go. There has always been an unspoken understanding that:<br/>
@@ -13,4 +14,3 @@ This is not to say that staff haven't expected to work hard, and for long hours 
 &gt; "This, from Jonty Driver, is good. What makes a professional: pic.twitter.com/BrDuKXhXgh"
 &gt;
 &gt; — Tim Jefferis (@tjjteacher) September 13, 2016
-

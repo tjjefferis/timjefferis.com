@@ -2,6 +2,7 @@
 layout: post
 title: "FAQs and flippancy: solutions to hard problems"
 date: 2016-05-15
+blogger_url: "http://tjjteachersblog.blogspot.com/2016/05/faqs-and-flippancy-solutions-to-hard-problems.html"
 ---
 
 <a href="https://rlv.zcache.co.nz/long_live_flippancy_t_shirt-r15505045f42948dea2eef9f4ad39301c_k2gr0_307.jpg?rvtype=content" imageanchor="1"><img border="0" data-original-height="174" data-original-width="307" src="https://rlv.zcache.co.nz/long_live_flippancy_t_shirt-r15505045f42948dea2eef9f4ad39301c_k2gr0_307.jpg?rvtype=content"/></a>

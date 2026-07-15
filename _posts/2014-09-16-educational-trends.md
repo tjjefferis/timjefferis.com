@@ -2,6 +2,7 @@
 layout: post
 title: "Educational trends"
 date: 2014-09-16
+blogger_url: "http://tjjteachersblog.blogspot.com/2014/09/educational-trends.html"
 ---
 
 <br/>

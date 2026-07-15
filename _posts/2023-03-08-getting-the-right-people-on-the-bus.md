@@ -2,6 +2,7 @@
 layout: post
 title: "Getting the right people on the bus"
 date: 2023-03-08
+blogger_url: "http://tjjteachersblog.blogspot.com/2023/03/getting-the-right-people-on-the-bus.html"
 ---
 
 &nbsp;Interview panels are fond of questions about vision. I'm often stumped - even more so when it's asked over Zoom and I haven't yet visited the school in question. I usually end up muttering something vague and non-committal - cringing inwardly as I do so - and resolve to do better next time.&nbsp;

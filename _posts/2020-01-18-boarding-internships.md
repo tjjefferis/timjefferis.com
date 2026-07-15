@@ -2,6 +2,7 @@
 layout: post
 title: "Boarding internships"
 date: 2020-01-18
+blogger_url: "http://tjjteachersblog.blogspot.com/2020/01/boarding-internships.html"
 ---
 
 A couple of

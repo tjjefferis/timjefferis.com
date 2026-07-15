@@ -2,6 +2,7 @@
 layout: post
 title: "Grasping the nettle - authentic, purposeful conversations"
 date: 2019-05-06
+blogger_url: "http://tjjteachersblog.blogspot.com/2019/05/grasping-the-nettle---authentic-purposeful-convers.html"
 ---
 
 If you're a senior leader and you've not yet read Susan Scott's book '<a href="https://www.amazon.com/Fierce-Conversations-Achieving-Success-Conversation/dp/0425193373" target="_blank">Fierce Conversations</a>', I encourage you to do so. The book is a stirring call to action:<br/>
@@ -39,4 +40,3 @@ Try to get yourself into a place in your professional and personal life where yo
 Decisions and delegation within an organisation can be helpfully viewed as elements of a tree. This image shows how:<br/>
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAG54-qNwuM59WIzUVg722eijwJal4gzB4pZzdDB7gfLxRd8B67ukwabkc1Ze8-_6-FozDfKFB1rsra3r_Lu38GOvdP6tHOlSL_2OGpmzP8hpxXuuvy1OhYBPJX9kLWp9NgFQXfjhN3Zg/s1600/decisiontree-types-300x167.jpg" imageanchor="1"><img border="0" data-original-height="167" data-original-width="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAG54-qNwuM59WIzUVg722eijwJal4gzB4pZzdDB7gfLxRd8B67ukwabkc1Ze8-_6-FozDfKFB1rsra3r_Lu38GOvdP6tHOlSL_2OGpmzP8hpxXuuvy1OhYBPJX9kLWp9NgFQXfjhN3Zg/s1600/decisiontree-types-300x167.jpg"/></a>
-

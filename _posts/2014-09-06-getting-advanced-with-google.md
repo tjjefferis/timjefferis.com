@@ -2,6 +2,7 @@
 layout: post
 title: "Getting advanced with Google..."
 date: 2014-09-06
+blogger_url: "http://tjjteachersblog.blogspot.com/2014/09/getting-advanced-with-google.html"
 ---
 
 <br/>

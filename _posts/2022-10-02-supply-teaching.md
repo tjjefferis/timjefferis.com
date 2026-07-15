@@ -2,6 +2,7 @@
 layout: post
 title: "Supply teaching "
 date: 2022-10-02
+blogger_url: "http://tjjteachersblog.blogspot.com/2022/10/supply-teaching.html"
 ---
 
 A gap between our trip from MCS to MCUK and our longer ride presented the opportunity for some supply teaching.

@@ -2,6 +2,7 @@
 layout: post
 title: "What's it like teaching in a Thai international school?"
 date: 2020-03-31
+blogger_url: "http://tjjteachersblog.blogspot.com/2020/03/whats-it-like-teaching-in-a-thai-international-sch.html"
 ---
 
 For the last three years, I have been working at <a href="https://www.harrowschool.ac.th/" target="_blank">Harrow International School Bangkok</a>. Prior to this, all my teaching experience had been in the UK-independent sector.<br/>
@@ -24,4 +25,3 @@ If you're coming to teach in Thailand fresh from the UK, and you end up at Harro
 </ol>
 
 If you've applied and been appointed - congratulations! Equally, if you haven't and if any of this interests you, then do keep an eye on the jobs section in the TES, where the school advertises all its ex-pat teaching roles.
-

@@ -2,6 +2,7 @@
 layout: post
 title: "Advice to new owners"
 date: 2023-08-07
+blogger_url: "http://tjjteachersblog.blogspot.com/2023/08/advice-to-new-owners.html"
 ---
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ62S9-PqxbU3JJpSnb6uazpHSkFhVbJajtVtiXD4cn2QNTrAl4NaLrB_ujIi3xhPHumLmdnZemuZguPfBfjHnKJWPOAq7Lpj-Tu8sFUpe3ZK5CFEGJK7TV294ucsB8AFgZAAjNlqKjnZR3nWNKsA68_0KEDK9FhJ_iisCrSKvDvXiaZqyYEfEroUvTbE/s2000/WhatsApp%20Image%202023-08-02%20at%2017.07.09.jpeg"><img border="0" data-original-height="2000" data-original-width="1500" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ62S9-PqxbU3JJpSnb6uazpHSkFhVbJajtVtiXD4cn2QNTrAl4NaLrB_ujIi3xhPHumLmdnZemuZguPfBfjHnKJWPOAq7Lpj-Tu8sFUpe3ZK5CFEGJK7TV294ucsB8AFgZAAjNlqKjnZR3nWNKsA68_0KEDK9FhJ_iisCrSKvDvXiaZqyYEfEroUvTbE/s320/WhatsApp%20Image%202023-08-02%20at%2017.07.09.jpeg" width="240"/></a>

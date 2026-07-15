@@ -2,6 +2,7 @@
 layout: post
 title: "Goals for the 2014-15 school year"
 date: 2014-08-30
+blogger_url: "http://tjjteachersblog.blogspot.com/2014/08/goals-for-the-2014-15-school-year.html"
 ---
 
 <br/>

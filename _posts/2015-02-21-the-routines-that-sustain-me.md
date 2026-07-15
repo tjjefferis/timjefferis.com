@@ -2,6 +2,7 @@
 layout: post
 title: "The routines that sustain me"
 date: 2015-02-21
+blogger_url: "http://tjjteachersblog.blogspot.com/2015/02/the-routines-that-sustain-me.html"
 ---
 
 <br/>

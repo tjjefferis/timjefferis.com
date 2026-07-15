@@ -2,6 +2,7 @@
 layout: post
 title: "Doing things digitally: making the leap in class"
 date: 2014-05-17
+blogger_url: "http://tjjteachersblog.blogspot.com/2014/05/doing-things-digitally-making-the-leap-in-class.html"
 ---
 
 <br/>

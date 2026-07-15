@@ -2,6 +2,7 @@
 layout: post
 title: "Bad weather"
 date: 2014-04-17
+blogger_url: "http://tjjteachersblog.blogspot.com/2014/04/bad-weather.html"
 ---
 
 <h4>
@@ -14,4 +15,3 @@ This year posting holiday work up on my site will relieve things a little, but t
 It's much the same in the wider educational scene. Those who most need school, don't turn up. I'm all for hefty fines and getting heavy with the parents. Just as I raise eyebrows at people who tell me their toddler will 'only eat' such-and-such, so I have no sympathy with parents who allow their children to miss school as they please and then wonder why the wheels come off a little further down the road.
 
 <!--more-->
-

@@ -2,6 +2,7 @@
 layout: post
 title: "Blogs I follow..."
 date: 2019-04-15
+blogger_url: "http://tjjteachersblog.blogspot.com/2019/04/blogs-i-follow.html"
 ---
 
 <br/>

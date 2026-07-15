@@ -2,6 +2,7 @@
 layout: post
 title: "Jobsworths: the scourge of education and how to deal with them"
 date: 2015-02-21
+blogger_url: "http://tjjteachersblog.blogspot.com/2015/02/jobsworths-the-scourge-of-education-and-how-to-dea.html"
 ---
 
 <br/>
