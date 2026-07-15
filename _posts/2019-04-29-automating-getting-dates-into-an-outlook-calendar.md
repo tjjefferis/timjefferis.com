@@ -2,7 +2,6 @@
 layout: post
 title: "Automating getting dates into an Outlook calendar"
 date: 2019-04-29
-blogger_url: "https://tjjteachersblog.blogspot.com/2019/04/automating-getting-dates-into-an-outlook-calendar.html"
 ---
 
 If you are responsible, like me, for getting a large number of dates into an Outlook calendar you'll want some way of automating the process - particularly if the dates don't repeat regularly and there are <i>loads</i> of them!<br/>

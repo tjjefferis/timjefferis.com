@@ -2,7 +2,6 @@
 layout: post
 title: "The six principles of effective schoolmastering"
 date: 2016-01-15
-blogger_url: "https://tjjteachersblog.blogspot.com/2016/01/the-six-principles-of-effective-schoolmastering.html"
 ---
 
 <br/>

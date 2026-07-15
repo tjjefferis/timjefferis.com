@@ -2,7 +2,6 @@
 layout: post
 title: "What the military can teach teachers"
 date: 2015-12-25
-blogger_url: "https://tjjteachersblog.blogspot.com/2015/12/what-the-military-can-teach-teachers.html"
 ---
 
 <a href="https://www.blogger.com/blogger.g?blogID=9145285415158126914" imageanchor="1"></a><br/>

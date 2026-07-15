@@ -2,7 +2,6 @@
 layout: post
 title: "Hackpad for GCSE computer science"
 date: 2016-04-15
-blogger_url: "https://tjjteachersblog.blogspot.com/2016/04/hackpad-for-gcse-computer-science.html"
 ---
 
 <br/>

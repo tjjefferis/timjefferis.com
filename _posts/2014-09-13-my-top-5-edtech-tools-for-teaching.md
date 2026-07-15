@@ -2,7 +2,6 @@
 layout: post
 title: "My top 5 EdTech tools for teaching"
 date: 2014-09-13
-blogger_url: "https://tjjteachersblog.blogspot.com/2014/09/my-top-5-edtech-tools-for-teaching.html"
 ---
 
 <br/>

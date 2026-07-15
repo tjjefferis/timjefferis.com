@@ -2,7 +2,6 @@
 layout: post
 title: "Dealing with drains: or how to deal with competent but gloomy people at work..."
 date: 2014-11-16
-blogger_url: "https://tjjteachersblog.blogspot.com/2014/11/dealing-with-drains-or-how-to-deal-with-competent-.html"
 ---
 
 <br/>

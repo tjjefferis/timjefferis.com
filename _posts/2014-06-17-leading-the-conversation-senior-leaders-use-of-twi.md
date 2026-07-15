@@ -2,7 +2,6 @@
 layout: post
 title: "Leading the Conversation: Senior Leaders' use of Twitter"
 date: 2014-06-17
-blogger_url: "https://tjjteachersblog.blogspot.com/2014/06/leading-the-conversation-senior-leaders-use-of-twi.html"
 ---
 
 <br/>

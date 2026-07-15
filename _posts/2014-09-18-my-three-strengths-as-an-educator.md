@@ -2,7 +2,6 @@
 layout: post
 title: "My three strengths as an educator...."
 date: 2014-09-18
-blogger_url: "https://tjjteachersblog.blogspot.com/2014/09/my-three-strengths-as-an-educator.html"
 ---
 
 <br/>

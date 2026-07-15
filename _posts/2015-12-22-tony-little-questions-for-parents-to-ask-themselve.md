@@ -2,7 +2,6 @@
 layout: post
 title: "Tony Little: questions for parents to ask themselves"
 date: 2015-12-22
-blogger_url: "https://tjjteachersblog.blogspot.com/2015/12/tony-little-questions-for-parents-to-ask-themselve.html"
 ---
 
 <br/>

@@ -2,7 +2,6 @@
 layout: post
 title: "How do you envision your teaching changing over the next five years?"
 date: 2015-02-15
-blogger_url: "https://tjjteachersblog.blogspot.com/2015/02/how-do-you-envision-your-teaching-changing-over-th.html"
 ---
 
 <br/>

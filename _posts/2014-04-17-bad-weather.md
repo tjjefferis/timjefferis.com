@@ -2,7 +2,6 @@
 layout: post
 title: "Bad weather"
 date: 2014-04-17
-blogger_url: "https://tjjteachersblog.blogspot.com/2014/04/bad-weather.html"
 ---
 
 <h4>

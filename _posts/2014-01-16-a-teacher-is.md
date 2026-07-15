@@ -2,7 +2,6 @@
 layout: post
 title: "A teacher is..."
 date: 2014-01-16
-blogger_url: "https://tjjteachersblog.blogspot.com/2014/01/a-teacher-is.html"
 ---
 
 <br/>

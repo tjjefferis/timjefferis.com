@@ -2,7 +2,6 @@
 layout: post
 title: "FOBISIA CPD leaders' conference"
 date: 2018-03-24
-blogger_url: "https://tjjteachersblog.blogspot.com/2018/03/fobisia-cpd-leaders-conference.html"
 ---
 
 Last weekend I attended the [FOBISIA CPD leaders' conference](https://www.fobisia.org/page.cfm?p=536) in Penang, Malaysia. Added to the novelty of traveling to such exotic places for training conferences (in my previous life an annual trip to Manchester or Birmingham on the train for CPD resulted in sharp intakes of breath!) I picked up some useful things, which I record here for posterity.

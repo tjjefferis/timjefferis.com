@@ -2,7 +2,6 @@
 layout: post
 title: "Thai Values vs Western Values"
 date: 2020-08-14
-blogger_url: "https://tjjteachersblog.blogspot.com/2020/08/thai-values-vs-western-values.html"
 ---
 
 As I begin my last term in Thailand, I've been rooting through my belongings and came across a table in my notes that we were referred to (no official source, I'm afraid) in our induction training.

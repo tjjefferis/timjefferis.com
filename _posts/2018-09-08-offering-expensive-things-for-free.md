@@ -2,7 +2,6 @@
 layout: post
 title: "Offering expensive things for free"
 date: 2018-09-08
-blogger_url: "https://tjjteachersblog.blogspot.com/2018/09/offering-expensive-things-for-free.html"
 ---
 
 <br/>

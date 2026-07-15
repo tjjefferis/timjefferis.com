@@ -2,7 +2,6 @@
 layout: post
 title: "What I learnt at #ICE2015 Leeds"
 date: 2015-05-16
-blogger_url: "https://tjjteachersblog.blogspot.com/2015/05/what-i-learnt-at-ice2015-leeds.html"
 ---
 
 <br/>

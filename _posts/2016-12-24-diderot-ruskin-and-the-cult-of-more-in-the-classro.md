@@ -2,7 +2,6 @@
 layout: post
 title: "Diderot, Ruskin and the cult of more in the classroom"
 date: 2016-12-24
-blogger_url: "https://tjjteachersblog.blogspot.com/2016/12/diderot-ruskin-and-the-cult-of-more-in-the-classro.html"
 ---
 
 <br/>

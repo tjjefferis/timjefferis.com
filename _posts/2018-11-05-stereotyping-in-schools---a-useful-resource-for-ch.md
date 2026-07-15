@@ -2,7 +2,6 @@
 layout: post
 title: "Stereotyping in schools - a useful resource for challenging assumptions"
 date: 2018-11-05
-blogger_url: "https://tjjteachersblog.blogspot.com/2018/11/stereotyping-in-schools---a-useful-resource-for-ch.html"
 ---
 
 <br/>

@@ -2,7 +2,6 @@
 layout: post
 title: "My Desk Drawer"
 date: 2014-09-15
-blogger_url: "https://tjjteachersblog.blogspot.com/2014/09/my-desk-drawer.html"
 ---
 
 <br/>

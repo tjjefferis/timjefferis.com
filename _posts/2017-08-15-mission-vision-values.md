@@ -2,7 +2,6 @@
 layout: post
 title: "Mission, vision, values..."
 date: 2017-08-15
-blogger_url: "https://tjjteachersblog.blogspot.com/2017/08/mission-vision-values.html"
 ---
 
 <br/>

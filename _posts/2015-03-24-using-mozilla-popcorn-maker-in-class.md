@@ -2,7 +2,6 @@
 layout: post
 title: "Using Mozilla Popcorn Maker in Class"
 date: 2015-03-24
-blogger_url: "https://tjjteachersblog.blogspot.com/2015/03/using-mozilla-popcorn-maker-in-class.html"
 ---
 
 <br/>

@@ -2,7 +2,6 @@
 layout: post
 title: "My 3 favourite teaching websites"
 date: 2017-02-03
-blogger_url: "https://tjjteachersblog.blogspot.com/2017/02/my-3-favourite-teaching-websites.html"
 ---
 
 <br/>

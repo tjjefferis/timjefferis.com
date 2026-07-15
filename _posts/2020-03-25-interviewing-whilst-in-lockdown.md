@@ -2,7 +2,6 @@
 layout: post
 title: "Interviewing whilst in lockdown"
 date: 2020-03-25
-blogger_url: "https://tjjteachersblog.blogspot.com/2020/03/interviewing-whilst-in-lockdown.html"
 ---
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDxKUr1ViRTZRTQRuuXfyo9z7YLXy7fF7nJZHU8iWhdgrmt6OSqnpFZtR0WQwjS4MLrt-81FYqdai0SFbeLorgSACxGx-Heob-kuEjKD-8Dc_v8bzYMyz2DRiVzHC3OqD6xt6MYgBCcU8/s1600/960x0.jpg" imageanchor="1"><img border="0" data-original-height="540" data-original-width="960" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDxKUr1ViRTZRTQRuuXfyo9z7YLXy7fF7nJZHU8iWhdgrmt6OSqnpFZtR0WQwjS4MLrt-81FYqdai0SFbeLorgSACxGx-Heob-kuEjKD-8Dc_v8bzYMyz2DRiVzHC3OqD6xt6MYgBCcU8/s320/960x0.jpg" width="320"/></a>

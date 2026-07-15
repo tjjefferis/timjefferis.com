@@ -2,7 +2,6 @@
 layout: post
 title: "Respond: What do you love the most about teaching?"
 date: 2014-08-15
-blogger_url: "https://tjjteachersblog.blogspot.com/2014/08/respond-what-do-you-love-the-most-about-teaching.html"
 ---
 
 <br/>

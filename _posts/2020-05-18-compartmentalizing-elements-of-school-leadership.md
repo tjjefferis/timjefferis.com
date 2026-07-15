@@ -2,7 +2,6 @@
 layout: post
 title: "Compartmentalizing elements of school leadership"
 date: 2020-05-18
-blogger_url: "https://tjjteachersblog.blogspot.com/2020/05/compartmentalizing-elements-of-school-leadership.html"
 ---
 
 It's very easy to start feeling lost with the scale and complexity of the job of being a school leader. Especially at times like these, when fires are burning all over the place, it can be hard to step back and see where everything is going.<br/>

@@ -2,7 +2,6 @@
 layout: post
 title: "Eating an elephant (or doing a doctorate on the job...)"
 date: 2016-03-16
-blogger_url: "https://tjjteachersblog.blogspot.com/2016/03/eating-an-elephant-or-doing-a-doctorate-on-the-job.html"
 ---
 
 <br/>

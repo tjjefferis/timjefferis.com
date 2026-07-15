@@ -2,7 +2,6 @@
 layout: post
 title: "Classroom screen - a nice little tool"
 date: 2018-09-25
-blogger_url: "https://tjjteachersblog.blogspot.com/2018/09/classroom-screen---a-nice-little-tool.html"
 ---
 
 <br/>

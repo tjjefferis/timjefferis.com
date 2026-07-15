@@ -2,7 +2,6 @@
 layout: post
 title: "Making kids cleverer"
 date: 2020-11-27
-blogger_url: "https://tjjteachersblog.blogspot.com/2020/11/making-kids-cleverer.html"
 ---
 
 A couple of weeks ago I gave this presentation to parents entitled 'Making Kids Cleverer':

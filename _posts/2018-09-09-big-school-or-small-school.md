@@ -2,7 +2,6 @@
 layout: post
 title: "Big school or small school?"
 date: 2018-09-09
-blogger_url: "https://tjjteachersblog.blogspot.com/2018/09/big-school-or-small-school.html"
 ---
 
 <br/>

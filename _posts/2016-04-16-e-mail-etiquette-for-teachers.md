@@ -2,7 +2,6 @@
 layout: post
 title: "E-mail etiquette for teachers"
 date: 2016-04-16
-blogger_url: "https://tjjteachersblog.blogspot.com/2016/04/e-mail-etiquette-for-teachers.html"
 ---
 
 <br/>

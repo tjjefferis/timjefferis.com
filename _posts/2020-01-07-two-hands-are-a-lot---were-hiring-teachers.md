@@ -2,7 +2,6 @@
 layout: post
 title: "'Two hands are a lot' - we're hiring teachers "
 date: 2020-01-07
-blogger_url: "https://tjjteachersblog.blogspot.com/2020/01/two-hands-are-a-lot---were-hiring-teachers.html"
 ---
 
 I was fascinated by <a href="https://dominiccummings.com/2020/01/02/two-hands-are-a-lot-were-hiring-data-scientists-project-managers-policy-experts-assorted-weirdos/" target="_blank">Dominic Cummings's recent call for new Downing Street staff</a>: on the one hand, it gave a little insight into the machinations at the heart of the government complex; on the other, it illustrated rather nicely what happens when someone is so secure in their position that they can say what they really think.<br/>

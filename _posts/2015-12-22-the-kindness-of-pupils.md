@@ -2,7 +2,6 @@
 layout: post
 title: "The kindness of pupils..."
 date: 2015-12-22
-blogger_url: "https://tjjteachersblog.blogspot.com/2015/12/the-kindness-of-pupils.html"
 ---
 
 <br/>

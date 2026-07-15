@@ -2,7 +2,6 @@
 layout: post
 title: "Weekends and holidays"
 date: 2014-09-27
-blogger_url: "https://tjjteachersblog.blogspot.com/2014/09/weekends-and-holidays.html"
 ---
 
 <br/>

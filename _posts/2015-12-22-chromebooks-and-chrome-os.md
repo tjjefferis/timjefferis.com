@@ -2,7 +2,6 @@
 layout: post
 title: "Chromebooks and Chrome OS"
 date: 2015-12-22
-blogger_url: "https://tjjteachersblog.blogspot.com/2015/12/chromebooks-and-chrome-os.html"
 ---
 
 <img alt="Chromebooks | Google for Education" height="183" src="https://lh3.googleusercontent.com/P-oSeeGJ-P6wKm7-Nz7Rs61sVrhWUG9oK2Rs4gPXn7ojJdE-5MesCnISkXBGZZyFN7a9VWzq770xa71CaA4YboDz9YQthbIK9QX-=w320-h183" width="320"/>

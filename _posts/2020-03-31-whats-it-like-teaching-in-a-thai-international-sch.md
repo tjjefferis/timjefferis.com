@@ -2,7 +2,6 @@
 layout: post
 title: "What's it like teaching in a Thai international school?"
 date: 2020-03-31
-blogger_url: "https://tjjteachersblog.blogspot.com/2020/03/whats-it-like-teaching-in-a-thai-international-sch.html"
 ---
 
 For the last three years, I have been working at <a href="https://www.harrowschool.ac.th/" target="_blank">Harrow International School Bangkok</a>. Prior to this, all my teaching experience had been in the UK-independent sector.<br/>

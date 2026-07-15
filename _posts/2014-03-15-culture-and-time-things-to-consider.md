@@ -2,7 +2,6 @@
 layout: post
 title: "Culture and time: things to consider"
 date: 2014-03-15
-blogger_url: "https://tjjteachersblog.blogspot.com/2014/03/culture-and-time-things-to-consider.html"
 ---
 
 <a href="https://cdn.images.express.co.uk/img/dynamic/130/590x/secondary/daley-385406.jpg"><img border="0" data-original-height="433" data-original-width="590" height="234" src="https://cdn.images.express.co.uk/img/dynamic/130/590x/secondary/daley-385406.jpg" width="320"/></a>

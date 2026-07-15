@@ -2,7 +2,6 @@
 layout: post
 title: "The canonical principle"
 date: 2017-09-25
-blogger_url: "https://tjjteachersblog.blogspot.com/2017/09/the-canonical-principle.html"
 ---
 
 <br/>

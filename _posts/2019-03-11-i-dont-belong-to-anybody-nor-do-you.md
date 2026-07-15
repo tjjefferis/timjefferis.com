@@ -2,7 +2,6 @@
 layout: post
 title: "I don't belong to anybody; nor do you"
 date: 2019-03-11
-blogger_url: "https://tjjteachersblog.blogspot.com/2019/03/i-dont-belong-to-anybody-nor-do-you.html"
 ---
 
 <br/>

@@ -2,7 +2,6 @@
 layout: post
 title: "Gordon Parke on teaching and staff recruitment"
 date: 2015-03-24
-blogger_url: "https://tjjteachersblog.blogspot.com/2015/03/gordon-parke-on-teaching-and-staff-recruitment.html"
 ---
 
 <br/>

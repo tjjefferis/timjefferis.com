@@ -2,7 +2,6 @@
 layout: post
 title: "Leadership"
 date: 2014-11-16
-blogger_url: "https://tjjteachersblog.blogspot.com/2014/11/leadership.html"
 ---
 
 <br/>

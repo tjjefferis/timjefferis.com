@@ -2,7 +2,6 @@
 layout: post
 title: "Learning from Educating Yorkshire"
 date: 2014-04-15
-blogger_url: "https://tjjteachersblog.blogspot.com/2014/04/learning-from-educating-yorkshire.html"
 ---
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxzI6O8mqImD3mWLYwB1bhyphenhyphenDRDgUVcrrBhiXn5bLaLTLxw0lGGWQxD-wuto-PrijU7WAqTEtCqFq9fGJuLtj1bSyeUSyM8K3NDSGo1OsOc2uZznK8gYDPwXDQnzcf5PoIsXgGZ0XjycLM/s1600/jonny.PNG" imageanchor="1"><img border="0" data-original-height="796" data-original-width="545" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxzI6O8mqImD3mWLYwB1bhyphenhyphenDRDgUVcrrBhiXn5bLaLTLxw0lGGWQxD-wuto-PrijU7WAqTEtCqFq9fGJuLtj1bSyeUSyM8K3NDSGo1OsOc2uZznK8gYDPwXDQnzcf5PoIsXgGZ0XjycLM/s320/jonny.PNG" width="219"/></a>

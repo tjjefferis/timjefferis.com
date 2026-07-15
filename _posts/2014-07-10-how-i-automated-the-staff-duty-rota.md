@@ -2,7 +2,6 @@
 layout: post
 title: "How I automated the staff duty rota"
 date: 2014-07-10
-blogger_url: "https://tjjteachersblog.blogspot.com/2014/07/how-i-automated-the-staff-duty-rota.html"
 ---
 
 <br/>

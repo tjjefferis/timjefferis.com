@@ -2,7 +2,6 @@
 layout: post
 title: "This is how I work..."
 date: 2015-05-02
-blogger_url: "https://tjjteachersblog.blogspot.com/2015/05/this-is-how-i-work.html"
 ---
 
 <br/>

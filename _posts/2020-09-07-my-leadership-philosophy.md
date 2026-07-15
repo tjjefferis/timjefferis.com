@@ -2,7 +2,6 @@
 layout: post
 title: "My leadership philosophy"
 date: 2020-09-07
-blogger_url: "https://tjjteachersblog.blogspot.com/2020/09/my-leadership-philosophy.html"
 ---
 
 My leadership philosophy

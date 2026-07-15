@@ -2,7 +2,6 @@
 layout: post
 title: "A creed for digital decision making"
 date: 2019-04-15
-blogger_url: "https://tjjteachersblog.blogspot.com/2019/04/a-creed-for-digital-decision-making.html"
 ---
 
 <br/>

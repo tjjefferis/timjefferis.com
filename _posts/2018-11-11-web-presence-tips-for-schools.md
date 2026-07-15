@@ -2,7 +2,6 @@
 layout: post
 title: "Web-presence tips for schools"
 date: 2018-11-11
-blogger_url: "https://tjjteachersblog.blogspot.com/2018/11/web-presence-tips-for-schools.html"
 ---
 
 <a href="https://cdn-images-1.medium.com/max/1600/1*vTp9xUO-KKu0jI55oRrMZA.png" imageanchor="1"><img border="0" data-original-height="400" data-original-width="760" height="168" src="https://cdn-images-1.medium.com/max/1600/1*vTp9xUO-KKu0jI55oRrMZA.png" width="320"/></a>

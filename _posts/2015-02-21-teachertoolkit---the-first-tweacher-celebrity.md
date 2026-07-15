@@ -2,7 +2,6 @@
 layout: post
 title: "@TeacherToolkit - the first tweacher celebrity?"
 date: 2015-02-21
-blogger_url: "https://tjjteachersblog.blogspot.com/2015/02/teachertoolkit---the-first-tweacher-celebrity.html"
 ---
 
 <br/>

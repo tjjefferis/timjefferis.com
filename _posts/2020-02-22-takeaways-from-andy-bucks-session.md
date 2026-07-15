@@ -2,7 +2,6 @@
 layout: post
 title: "Takeaways from Andy Buck's Session"
 date: 2020-02-22
-blogger_url: "https://tjjteachersblog.blogspot.com/2020/02/takeaways-from-andy-bucks-session.html"
 ---
 
 We were very lucky to have <a href="https://www.linkedin.com/in/andy-buck-8596a2111/?originalSubdomain=uk" target="_blank">Andy Buck</a> in school just before half term to do some training/teambuilding for our senior leaders. The training took place between 6 and 8pm on a Thursday evening at the end of a long week, so I didn't have high hopes at the outset. But Andy smashed it -  I left with much to ponder and a renewed enthusiasm for my job.<br/>

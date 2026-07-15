@@ -2,7 +2,6 @@
 layout: post
 title: "Feedback for learning"
 date: 2014-09-13
-blogger_url: "https://tjjteachersblog.blogspot.com/2014/09/feedback-for-learning.html"
 ---
 
 <br/>

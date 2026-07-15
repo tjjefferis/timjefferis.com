@@ -2,7 +2,6 @@
 layout: post
 title: "The flipped classroom: using Hackpad for non-contact, high-input tuition"
 date: 2014-03-15
-blogger_url: "https://tjjteachersblog.blogspot.com/2014/03/the-flipped-classroom-using-hackpad-for-non-contac.html"
 ---
 
 <br/>

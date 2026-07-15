@@ -2,7 +2,6 @@
 layout: post
 title: "Vision, values, ethos"
 date: 2017-04-04
-blogger_url: "https://tjjteachersblog.blogspot.com/2017/04/vision-values-ethos.html"
 ---
 
 <br/>

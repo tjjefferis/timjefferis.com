@@ -2,7 +2,6 @@
 layout: post
 title: "My Biggest Teaching Accomplishment"
 date: 2014-04-15
-blogger_url: "https://tjjteachersblog.blogspot.com/2014/04/my-biggest-teaching-accomplishment.html"
 ---
 
 <br/>

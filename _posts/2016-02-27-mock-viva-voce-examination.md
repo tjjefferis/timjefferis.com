@@ -2,7 +2,6 @@
 layout: post
 title: "Mock Viva Voce Examination"
 date: 2016-02-27
-blogger_url: "https://tjjteachersblog.blogspot.com/2016/02/mock-viva-voce-examination.html"
 ---
 
 <a href="https://www.blogger.com/blogger.g?blogID=9145285415158126914" imageanchor="1"></a><br/>

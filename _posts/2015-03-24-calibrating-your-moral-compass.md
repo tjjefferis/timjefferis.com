@@ -2,7 +2,6 @@
 layout: post
 title: "Calibrating your moral compass"
 date: 2015-03-24
-blogger_url: "https://tjjteachersblog.blogspot.com/2015/03/calibrating-your-moral-compass.html"
 ---
 
 <br/>

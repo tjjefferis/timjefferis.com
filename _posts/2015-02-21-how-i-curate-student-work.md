@@ -2,7 +2,6 @@
 layout: post
 title: "How I curate student work"
 date: 2015-02-21
-blogger_url: "https://tjjteachersblog.blogspot.com/2015/02/how-i-curate-student-work.html"
 ---
 
 <br/>

@@ -2,7 +2,6 @@
 layout: post
 title: "From Postach.io to Blogger"
 date: 2019-04-14
-blogger_url: "https://tjjteachersblog.blogspot.com/2019/04/from-postachio-to-blogger.html"
 ---
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiOiPsgW_F4c4R8P_vcHjOnJHGDYhWU_eSX7AJgcvWu5FoLPooGF8TwIuyPekwHuCV_DDWRAd05GiTsHtUsw_XarCYD6cB3GOw4BIVWQYEBQlHMRS1ejMgWumwVZnwFrTKTSEf3zimxLU/s1600/blogger.PNG" imageanchor="1"><img border="0" data-original-height="297" data-original-width="723" height="131" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiOiPsgW_F4c4R8P_vcHjOnJHGDYhWU_eSX7AJgcvWu5FoLPooGF8TwIuyPekwHuCV_DDWRAd05GiTsHtUsw_XarCYD6cB3GOw4BIVWQYEBQlHMRS1ejMgWumwVZnwFrTKTSEf3zimxLU/s320/blogger.PNG" width="320"/></a>

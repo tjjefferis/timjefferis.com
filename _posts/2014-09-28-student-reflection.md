@@ -2,7 +2,6 @@
 layout: post
 title: "Student reflection"
 date: 2014-09-28
-blogger_url: "https://tjjteachersblog.blogspot.com/2014/09/student-reflection.html"
 ---
 
 <br/>
