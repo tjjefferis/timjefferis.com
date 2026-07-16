@@ -31,7 +31,15 @@
       padding: 40px 0 !important;
     }
 
-    /* Grid layout control */
+    /* Default mobile-first layout rules */
+.blog-layout {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 30px !important;
+  width: 100% !important;
+}
+
+/* Grid layout control */
     @media (min-width: 850px) {
       .blog-layout {
         display: grid !important;
