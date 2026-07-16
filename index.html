@@ -1,95 +1,94 @@
-
 ---
 layout: null
 ---
 <!DOCTYPE html>
-<html>
+<html lang="en-GB">
 <head>
-<title>Tim Jefferis</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="keywords" content="Tim Jefferis, Teaching, Leadership, School, Cycling">
-<meta name="description" content="Tim Jefferis">
-<meta name="author" content="Tim Jefferis">
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-<! responsive to different screen sizes>
-	
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<!-- FAV and TOUCH ICONS -->
-<link rel="shortcut icon" href="images/ico/favicon.ico">
-<link rel="stylesheet" href="main.css">
-
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dr Tim Jefferis</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: #1a1a1a;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 20px;
+    }
+    .card {
+      background: #ffffff;
+      border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+      width: 100%;
+      max-width: 420px;
+      padding: 40px 30px;
+      text-align: center;
+    }
+    .profile-img {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 24px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
+    h1 {
+      font-size: 1.8rem;
+      color: #2d2d2d;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+    .subtitle {
+      font-size: 1rem;
+      color: #666666;
+      margin-bottom: 30px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      font-weight: 500;
+    }
+    .links-container {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .btn {
+      display: block;
+      background-color: #2d2d2d;
+      color: #ffffff;
+      text-decoration: none;
+      padding: 14px 20px;
+      border-radius: 30px;
+      font-size: 0.95rem;
+      font-weight: 600;
+      transition: all 0.2s ease;
+    }
+    .btn:hover {
+      background-color: #444444;
+      transform: translateY(-2px);
+    }
+    .footer {
+      margin-top: 35px;
+      font-size: 0.75rem;
+      color: #999999;
+      line-height: 1.4;
+    }
+  </style>
 </head>
-
 <body>
-
-  <!-- CONTENT-WRAP -->
-  <div class="content-wrap">
-
-    <!-- CONTENT -->
-    <div class="content">
-
-      <p>
-        <img class="profile-image square" src="Screenshot 2022-11-23 at 12.18.47.png" alt="Tim Jefferis" max-width: 200%; height: auto>
-      </p>
-
-      <!-- TITLE -->
-      <h1>Dr Tim Jefferis</h1>
-      <!-- TITLE -->
-
-      <!--            <h4>Typing Text Animation</h4>
--->
-
-      <!-- TITLE -->
-      <h2>
-
-        <!-- TEXTS TO BE TYPED -->
-        <span id="typed"></span>
-        <div id="typed-strings">
-          <p><span class="highlight aqua">Teacher.</span></p>
-          <p><span class="highlight blue">School leader.</span></p>
-          <p><span class="highlight grey">Tubby cyclist.</span></p>
-          <p><span class="highlight yellow">Tech-tinkerer.</span></p>
-	<p><span class="highlight yellow">Optimist.</span></p>
-          <p><span class="highlight green">List-maker.</span></p>
-          <p><span class="highlight green">Geographer.</span></p>
-        </div>
-        <!-- TEXTS TO BE TYPED -->
-
-      </h2>
-
-      <h4>
-        <a href="/blog/">TEACHING BLOG</a>|
-        <a class="link-1 green" href="https://harrow2harrow.blogspot.com">Harrow2Harrow</a> | 
-	<a href="https://changing-gears.com/" class="link-1 yellow">Changing Gears</a>
-      </h4>
-
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-      <!-- Add font awesome icons -->
-      <div class="footer-social-icons">
-
-        <ul class="social-icons">
-          <li><a href="https://www.facebook.com/tjjteacher" class="social-icon"> <i class="fa fa-facebook"></i></a></li>
-          <li><a href="https://twitter.com/tjjteacher" class="social-icon"> <i class="fa fa-twitter"></i></a></li>
-          <li><a href="https://www.youtube.com/user/MrTJefferis/videos" class="social-icon"> <i class="fa fa-youtube"></i></a></li>
-          <li><a href="https://www.linkedin.com/in/tim-jefferis-74185761/" class="social-icon"> <i class="fa fa-linkedin"></i></a></li>
-          <li><a href="https://www.tripadvisor.com/Profile/tjjteacher" class="social-icon"> <i class="fa fa-tripadvisor"></i></a></li>
-        </ul>
-      </div>
-
+  <div class="card">
+    <img class="profile-img" src="images/tim_jefferis.jpg" alt="Dr Tim Jefferis" onerror="this.src='http://timjefferis.com/2019/12/is-private-school-all-about-connections-and-avoiding-contact-...'; this.style.borderRadius='8px';">
+    <h1>Dr Tim Jefferis</h1>
+    <div class="subtitle">International Educator</div>
+    <div class="links-container">
+      <a href="/blog" class="btn">Teaching Blog</a>
+      <a href="https://www.linkedin.com" class="btn" target="_blank">LinkedIn Profile</a>
     </div>
-<footer>
-  <h5>Created whilst in lockdown concept pinched from Doug Belshaw and played around with on CodePen. Hosted on GitHub.</h5>
-</footer>
+    <div class="footer">
+      Created whilst in lockdown.<br>Hosted elegantly on GitHub Pages.
+    </div>
   </div>
-  <!-- CONTENT -->
-
-  </div>
-  <!-- CONTENT-WRAP -->
-
-  <!-- SCRIPTS -->
-  <script src="main.js"></script>
-
 </body>
 </html>
