@@ -98,13 +98,23 @@ layout: null
       height: 24px;
       fill: currentColor;
     }
+    .cursor {
+      font-weight: bold;
+      color: #2d2d2d;
+      animation: blink 0.7s infinite;
+      margin-left: 2px;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
   </style>
 </head>
 <body>
   <div class="card">
     <img class="profile-img" src="Screenshot 2022-11-23 at 12.18.47.png" alt="Dr Tim Jefferis">
     <h1>Dr Tim Jefferis</h1>
-    <div class="subtitle">School Teacher</div>
+    <div class="subtitle">I am a <span id="typewriter"></span><span class="cursor">|</span></div>
     
     <div class="links-container">
       <a href="/blog" class="btn">Teaching Blog</a>
@@ -131,5 +141,48 @@ layout: null
       </a>
     </div>
   </div>
+    <script>
+      const words = ["School Teacher", "International Educator", "Property Investor", "Cyclist"];
+      let i = 0;
+      let timer;
+
+      function typingEffect() {
+        let word = words[i].split("");
+        var loopTyping = function() {
+          if (word.length > 0) {
+            document.getElementById('typewriter').innerHTML += word.shift();
+          } else {
+            setTimeout(deletingEffect, 2000);
+            return false;
+          }
+          timer = setTimeout(loopTyping, 100);
+        };
+        loopTyping();
+      }
+
+      function deletingEffect() {
+        let word = words[i].split("");
+        var loopDeleting = function() {
+          if (word.length > 0) {
+            word.pop();
+            document.getElementById('typewriter').innerHTML = word.join("");
+          } else {
+            if (words.length > (i + 1)) {
+              i++;
+            } else {
+              i = 0;
+            }
+            setTimeout(typingEffect, 500);
+            return false;
+          }
+          timer = setTimeout(loopDeleting, 60);
+        };
+        loopDeleting();
+      }
+
+      document.addEventListener("DOMContentLoaded", function() {
+        typingEffect();
+      });
+    </script>
 </body>
 </html>
