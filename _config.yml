@@ -12,4 +12,5 @@ excerpt_separator: "<!--more-->"
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 url: "https://timjefferis.com"
