@@ -43,6 +43,28 @@ h1, .site-title, h1 a {
   word-wrap: break-word !important;
   overflow-wrap: break-word !important;
 }
+form {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 10px !important;
+  width: 100% !important;
+}
+form input, form button {
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+@media (min-width: 850px) {
+  form {
+    flex-direction: row !important;
+  }
+  form input {
+    width: auto !important;
+    flex-grow: 1 !important;
+  }
+  form button {
+    width: auto !important;
+  }
+}
 
 /* Grid layout control */
     @media (min-width: 850px) {
