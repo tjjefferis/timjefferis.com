@@ -11,8 +11,9 @@ markdown: kramdown
 excerpt_separator: "<!--more-->"
 theme: minima
 
+url: "https://timjefferis.com"
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
-url: "https://timjefferis.com"
+  - jekyll-seo-tag
