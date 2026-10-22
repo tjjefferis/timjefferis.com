@@ -3,19 +3,16 @@ title: Peregrinations of a Pedagogue
 email: tim@timjefferis.com
 description: Blog about teaching and education
 
-# URL Structure (Matches your old Blogspot posts exactly so comments load)
+# URL Structure
 permalink: /:year/:month/:title.html
 
 # Build Settings
 markdown: kramdown
 excerpt_separator: "<!--more-->"
 theme: minima
+
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 url: "https://timjefferis.com"
-
-whitelist:
-  - jekyll-sitemap
-plugins:
-  - jekyll-sitemap
